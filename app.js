@@ -127,7 +127,12 @@ function renderSongs() {
 function filteredVideos() {
   const query = normalize(els.videoSearch.value);
   const matches = videos.filter(video => {
-    const haystack = normalize([video.title, ...(video.topics || [])].join(" "));
+    const haystack = normalize([
+      video.title,
+      ...(video.topics || []),
+      ...(video.entities || []).flatMap(entity => [entity.name, ...(entity.aliases || []), entity.label]),
+      ...(video.facts || []).flatMap(fact => [fact.label, fact.value])
+    ].join(" "));
     const matchesQuery = !query || haystack.includes(query);
     const matchesChannel = activeVideoChannel === "all" || video.channel === activeVideoChannel;
     const matchesTopic = activeTopic === "all" || video.topics.includes(activeTopic);
@@ -139,6 +144,17 @@ function filteredVideos() {
     if (els.videoSort.value === "title") return a.title.localeCompare(b.title, "ja");
     return String(b.publishedAt).localeCompare(String(a.publishedAt));
   });
+}
+
+function renderVideoInfo(video) {
+  const entities = (video.entities || []).map(entity => `
+    <button type="button" data-open="${escapeHTML(entity.id)}"><strong>${escapeHTML(entity.label)}</strong><span>${escapeHTML(entity.name)}</span></button>
+  `);
+  const facts = (video.facts || []).map(fact => `
+    <a href="${escapeHTML(fact.url)}" target="_blank" rel="noopener noreferrer"><strong>${escapeHTML(fact.label)}</strong><span>${escapeHTML(fact.value)}</span></a>
+  `);
+  if (!entities.length && !facts.length) return "";
+  return `<div class="video-verified-info"><p>動画内で確認した情報</p><div>${[...entities, ...facts].join("")}</div></div>`;
 }
 
 function formatDate(value) {
@@ -171,6 +187,7 @@ function renderVideos({ reset = false } = {}) {
         <time datetime="${escapeHTML(video.publishedAt || "")}">${escapeHTML(formatDate(video.publishedAt))}</time>
       </div>
       <h3>${escapeHTML(video.title)}</h3>
+      ${renderVideoInfo(video)}
       <div class="video-topic-list">${video.topics.length ? video.topics.map(topic => `<button type="button" data-topic-jump="${escapeHTML(topic)}">#${escapeHTML(topic)}</button>`).join("") : `<span>#その他</span>`}</div>
       <a href="${escapeHTML(video.url)}" target="_blank" rel="noopener noreferrer">公式YouTubeで見る ↗</a>
     </article>

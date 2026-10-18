@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:15:21.598Z",
+  "generatedAt": "2026-10-18T06:33:31.542Z",
   "characters": [
     {
       "id": "chara-ban",
@@ -30,6 +30,542 @@
           "relation": "featured",
           "timestampSeconds": 0,
           "url": "https://www.youtube.com/watch?v=NE7uHTxUJgM"
+        },
+        {
+          "id": "rysnxWSOMss",
+          "title": "【ネクストブレイクの予感！】チャラ男番長見参！！",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=rysnxWSOMss"
+        },
+        {
+          "id": "ElZ8LZ5u_60",
+          "title": "チャラ男番長のやり方を教えチャラ男～！！！",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ElZ8LZ5u_60"
+        },
+        {
+          "id": "5cDANCumoxU",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート１』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5cDANCumoxU"
+        },
+        {
+          "id": "3QGBGUqQMXk",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート２』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=3QGBGUqQMXk"
+        },
+        {
+          "id": "jIJsW014hZo",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート３』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=jIJsW014hZo"
+        },
+        {
+          "id": "4qnEEEd3uh0",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート４』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4qnEEEd3uh0"
+        },
+        {
+          "id": "ceSsEpsCl8U",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート５』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ceSsEpsCl8U"
+        },
+        {
+          "id": "OHoaYht9VxA",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート6』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=OHoaYht9VxA"
+        },
+        {
+          "id": "uY_nBlI8mko",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート7』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=uY_nBlI8mko"
+        },
+        {
+          "id": "VOIVMv1rSas",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート8』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VOIVMv1rSas"
+        },
+        {
+          "id": "7FU5aOtXIG0",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート9』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=7FU5aOtXIG0"
+        },
+        {
+          "id": "hHQQ0Gdurf8",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート10』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=hHQQ0Gdurf8"
+        },
+        {
+          "id": "PbmmxxgOfhU",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート11』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=PbmmxxgOfhU"
+        },
+        {
+          "id": "1BVI2Er0A_U",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート12』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1BVI2Er0A_U"
+        },
+        {
+          "id": "wro4dFLYQvM",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート13』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=wro4dFLYQvM"
+        },
+        {
+          "id": "lEbpj5S8ahg",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート14』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=lEbpj5S8ahg"
+        },
+        {
+          "id": "Nnp4HEZ6nqw",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート15』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Nnp4HEZ6nqw"
+        },
+        {
+          "id": "aJcdnzGkkeY",
+          "title": "ジャルジャルのネタのタネ『チャラ男番長のネタを見る奴 パート16』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=aJcdnzGkkeY"
+        },
+        {
+          "id": "2mOkYl9ah0E",
+          "title": "『チャラ男番長のネタを見る奴 パート17』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=2mOkYl9ah0E"
+        },
+        {
+          "id": "sroTrNGKfiU",
+          "title": "『チャラ男番長のネタを見る奴 パート18』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=sroTrNGKfiU"
+        },
+        {
+          "id": "yNuvYLNObBk",
+          "title": "『チャラ男番長のネタを見る奴 パート19』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=yNuvYLNObBk"
+        },
+        {
+          "id": "k5F5_dDyMJo",
+          "title": "『チャラ男番長のネタを見る奴 パート20』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=k5F5_dDyMJo"
+        },
+        {
+          "id": "9e02zLjuVd4",
+          "title": "『チャラ男番長のネタを見る奴 パート21』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9e02zLjuVd4"
+        },
+        {
+          "id": "bS0nytlF4zk",
+          "title": "『チャラ男番長のネタを見る奴 パート22』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=bS0nytlF4zk"
+        },
+        {
+          "id": "DGZP_0kkDG0",
+          "title": "『チャラ男番長のネタを見る奴 パート23』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=DGZP_0kkDG0"
+        },
+        {
+          "id": "B701YHb2Mkg",
+          "title": "『チャラ男番長のネタを見る奴 パート24』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=B701YHb2Mkg"
+        },
+        {
+          "id": "f6av5cyUvQQ",
+          "title": "『チャラ男番長のネタを見る奴 パート25』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=f6av5cyUvQQ"
+        },
+        {
+          "id": "2AguHme__SI",
+          "title": "『チャラ男番長のネタを見る奴 パート26』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=2AguHme__SI"
+        },
+        {
+          "id": "w2ynlfZ-Y8M",
+          "title": "『チャラ男番長のネタを見る奴 パート27』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=w2ynlfZ-Y8M"
+        },
+        {
+          "id": "L8PqXRJ25L0",
+          "title": "『チャラ男番長のネタを見る奴 パート28』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=L8PqXRJ25L0"
+        },
+        {
+          "id": "a4FPiQzuKsk",
+          "title": "『チャラ男番長のネタを見る南っていう奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=a4FPiQzuKsk"
+        },
+        {
+          "id": "cBW-dhXM1q8",
+          "title": "『チャラ男番長のネタを見る奴 パート29』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=cBW-dhXM1q8"
+        },
+        {
+          "id": "nC-cipmYCS4",
+          "title": "『チャラ男番長のネタを見る奴 パート30』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=nC-cipmYCS4"
+        },
+        {
+          "id": "9R-OLDlCFSs",
+          "title": "『チャラ男番長のネタを見る奴 パート31』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9R-OLDlCFSs"
+        },
+        {
+          "id": "qFkH2R6A9EY",
+          "title": "『チャラ男番長のネタを見る奴 パート32』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=qFkH2R6A9EY"
+        },
+        {
+          "id": "gwRM0JDuNkk",
+          "title": "『チャラ男番長のネタを見る奴 パート33』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=gwRM0JDuNkk"
+        },
+        {
+          "id": "APExUDNHtxY",
+          "title": "『チャラ男番長のネタを見る奴 パート34』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=APExUDNHtxY"
+        },
+        {
+          "id": "QFdRDUWvfNQ",
+          "title": "『チャラ男番長のネタを見る奴 パート35』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=QFdRDUWvfNQ"
+        },
+        {
+          "id": "5gtoqqJVhRI",
+          "title": "『チャラ男番長のネタを見る奴 パート36』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5gtoqqJVhRI"
+        },
+        {
+          "id": "9PvFRd0N7jo",
+          "title": "『チャラ男番長のネタを見る奴 パート37』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9PvFRd0N7jo"
+        },
+        {
+          "id": "tIEluoU6M4s",
+          "title": "『チャラ男番長のネタを見る奴 パート38』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=tIEluoU6M4s"
+        },
+        {
+          "id": "xOv0yIrqv9Y",
+          "title": "『チャラ男番長のネタを見る奴 パート39』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=xOv0yIrqv9Y"
+        },
+        {
+          "id": "c9eScS_vNUk",
+          "title": "『チャラ男番長のネタを見る奴 パート40』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=c9eScS_vNUk"
+        },
+        {
+          "id": "Nf77oNHY5dM",
+          "title": "『チャラ男番長のネタを見る奴 パート41』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Nf77oNHY5dM"
+        },
+        {
+          "id": "GrXKK2F_bJ0",
+          "title": "『チャラ男番長のネタを見る奴 パート42』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=GrXKK2F_bJ0"
+        },
+        {
+          "id": "3kXQQHoJkMo",
+          "title": "『チャラ男番長のネタを見る奴 パート43』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=3kXQQHoJkMo"
+        },
+        {
+          "id": "2PNaJvNtlaM",
+          "title": "『チャラ男番長のネタを見る奴 パート44』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=2PNaJvNtlaM"
+        },
+        {
+          "id": "Cz5mJT5mek8",
+          "title": "『元旦に出会った涙腺コルクとチャラ男番長っていう奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Cz5mJT5mek8"
+        },
+        {
+          "id": "hzpp0Ryn6rw",
+          "title": "煩悩ネタ！『チャラ男番長っていう奴』",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=hzpp0Ryn6rw"
+        },
+        {
+          "id": "cRZxbprmv4c",
+          "title": "『チャラ男番長のネタを見る奴 パート45』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=cRZxbprmv4c"
+        },
+        {
+          "id": "T-SrsBagVok",
+          "title": "『チャラ男番長のネタを見る奴 パート46』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=T-SrsBagVok"
+        },
+        {
+          "id": "8v72eZAupyo",
+          "title": "チャラ男番長の配信ライブを見る奴【リモートする奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=8v72eZAupyo"
+        },
+        {
+          "id": "Oa4IPDDMVac",
+          "title": "テレビ局でチャラ男番長を見る奴【日常撮る奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Oa4IPDDMVac"
+        },
+        {
+          "id": "wxgUm7nR2PU",
+          "title": "『チャラ男番長のネタを見る奴 パート47』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=wxgUm7nR2PU"
+        },
+        {
+          "id": "VNc-iBSxFII",
+          "title": "『今年も元旦に出会った涙腺コルクとチャラ男番長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VNc-iBSxFII"
+        },
+        {
+          "id": "Fnv6zz59lRk",
+          "title": "『チャラ男番長のネタを見る奴 パート48』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Fnv6zz59lRk"
+        },
+        {
+          "id": "hmuyTbJjWv8",
+          "title": "『腕立て伏せを連続１００回するチャラ男番長を見る奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=hmuyTbJjWv8"
+        },
+        {
+          "id": "HTtkVXWUnAs",
+          "title": "朝メシ食うチャラ男番長を見る奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=HTtkVXWUnAs"
+        },
+        {
+          "id": "C65hwHO1uQ0",
+          "title": "『また今年も元旦に出会った涙腺コルクとチャラ男番長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=C65hwHO1uQ0"
+        },
+        {
+          "id": "E_VhtbLXUWE",
+          "title": "『トイレで「ちっちゃ」って言うてくる奴〜チャラ男番長〜』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=E_VhtbLXUWE"
+        },
+        {
+          "id": "cZHQETgjtqU",
+          "title": "『チャラ男番長のネタ見る奴 パート49』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=cZHQETgjtqU"
+        },
+        {
+          "id": "fvexObh9Hbo",
+          "title": "『３年連続元旦に出会った涙腺コルクとチャラ男番長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fvexObh9Hbo"
+        },
+        {
+          "id": "_R9MhOuWG7s",
+          "title": "正月の間違った時間に配信ライブするチャラ男番長って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=_R9MhOuWG7s"
+        },
+        {
+          "id": "l1CE_t7VuRA",
+          "title": "『もはや運命？４年連続元旦に出会った涙腺コルクとチャラ男番長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=l1CE_t7VuRA"
+        },
+        {
+          "id": "isdUN7UPf5g",
+          "title": "『こんな奇跡ある？5年連続元旦に出会った涙腺コルクとチャラ男番長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=isdUN7UPf5g"
+        },
+        {
+          "id": "6nGVDJfqApI",
+          "title": "『神様のいたずら？６年連続元旦に出会った涙腺コルクとチャラ男番長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=6nGVDJfqApI"
+        },
+        {
+          "id": "HywBPivyu2U",
+          "title": "『チャラ男番長のネタ見る奴パート 51』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=HywBPivyu2U"
         }
       ]
     },
@@ -86,6 +622,46 @@
           "relation": "featured",
           "timestampSeconds": 0,
           "url": "https://www.youtube.com/watch?v=N5kqPXc2l0o"
+        },
+        {
+          "id": "EHrapuDN9vA",
+          "title": "『南くん聞き取れる奴 パート1』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=EHrapuDN9vA"
+        },
+        {
+          "id": "gdXuCwhmPFY",
+          "title": "『南くんと漫才する奴～国名分けっこ～』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=gdXuCwhmPFY"
+        },
+        {
+          "id": "eb2fx0CBD_Y",
+          "title": "『南くん聞き取れる奴 パート2』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=eb2fx0CBD_Y"
+        },
+        {
+          "id": "PREPzKlCrkc",
+          "title": "『南くん聞き取れる奴 パート3』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=PREPzKlCrkc"
+        },
+        {
+          "id": "BXk0tkuOTpQ",
+          "title": "『南くんと漫才する奴～変な校内放送ゲーム～』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=BXk0tkuOTpQ"
         }
       ]
     },
@@ -118,6 +694,54 @@
           "relation": "featured",
           "timestampSeconds": 0,
           "url": "https://www.youtube.com/watch?v=AOtvUnalVYc"
+        },
+        {
+          "id": "ew6Idf9nIos",
+          "title": "全国の卒業生を祝うハズレの先生”神保マオ”って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ew6Idf9nIos"
+        },
+        {
+          "id": "47hcCqp82GY",
+          "title": "【ホラー】夏休みなのに家庭訪問に来る神保マオって奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=47hcCqp82GY"
+        },
+        {
+          "id": "9msDS2mydXA",
+          "title": "初めての1人旅でハズレの先生「神保マオ」に迫られる奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9msDS2mydXA"
+        },
+        {
+          "id": "vA-wjvIeBlw",
+          "title": "夏休みの夜にハズレの先生「神保マオ」に電話を乗っ取られる奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=vA-wjvIeBlw"
+        },
+        {
+          "id": "Yu-gn9lMS-Q",
+          "title": "海外の修学旅行先でハズレの先生神保マオにまとわりつかれる奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Yu-gn9lMS-Q"
+        },
+        {
+          "id": "P9Ql6KLvj3I",
+          "title": "年末に電話かけてくる神保マオって奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=P9Ql6KLvj3I"
         }
       ]
     },
@@ -150,6 +774,182 @@
           "relation": "featured",
           "timestampSeconds": 78,
           "url": "https://www.youtube.com/watch?v=GNBUR4xOvJY&t=78s"
+        },
+        {
+          "id": "evN6vhOXfhg",
+          "title": "『ツッコミ下手な関東人に頑張って喋りかける奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=evN6vhOXfhg"
+        },
+        {
+          "id": "0tqYpPNNR6U",
+          "title": "『美容室に行くツッコミ下手な関東人な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=0tqYpPNNR6U"
+        },
+        {
+          "id": "V6IZWsEi1sQ",
+          "title": "煩悩ネタ！『ツッコミ下手な関東人な奴』",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=V6IZWsEi1sQ"
+        },
+        {
+          "id": "moCoQuzSOrI",
+          "title": "『リモートネタ合わせするツッコミ下手な関東人な奴』",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=moCoQuzSOrI"
+        },
+        {
+          "id": "4URtVEWL194",
+          "title": "ツッコミ下手な関東人と電話する奴【真夜中に電話する奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4URtVEWL194"
+        },
+        {
+          "id": "XzfRMFgz1jQ",
+          "title": "『ツッコミ下手な関東人と仲良くなりかける奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=XzfRMFgz1jQ"
+        },
+        {
+          "id": "CtLLqi3ebRI",
+          "title": "女と電話するツッコミ下手な関東人な奴【真夜中に電話する奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=CtLLqi3ebRI"
+        },
+        {
+          "id": "OTeCGXRpJB8",
+          "title": "『大晦日に出会ったツッコミ下手な関東人と韓流スターな奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=OTeCGXRpJB8"
+        },
+        {
+          "id": "k_6Kcjl9ZNo",
+          "title": "【開封】若手芸人が2021年福袋にツッコんでみた【ツッコミ下手な関東人】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=k_6Kcjl9ZNo"
+        },
+        {
+          "id": "43xTMWO6-NM",
+          "title": "『グルメロケするツッコミ下手な関東人な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=43xTMWO6-NM"
+        },
+        {
+          "id": "wZ1v_SdwogI",
+          "title": "『バレンタインにチョコもらうツッコミ下手な関東人な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=wZ1v_SdwogI"
+        },
+        {
+          "id": "SyZx0mItlEE",
+          "title": "ドッキリ仕掛けられるツッコミ下手な関東人な奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=SyZx0mItlEE"
+        },
+        {
+          "id": "SkbU06cH420",
+          "title": "ツッコミ下手な関東人のツッコミを解説する奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=SkbU06cH420"
+        },
+        {
+          "id": "zQG_LGdwrBc",
+          "title": "『ツッコミ下手な関東人と大喜利対決する奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zQG_LGdwrBc"
+        },
+        {
+          "id": "GL83InINrYE",
+          "title": "『ツッコミ下手な関東人のもとに来たサンタクロースな奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=GL83InINrYE"
+        },
+        {
+          "id": "c9iVF61TGRA",
+          "title": "ガスが止まってサービスセンターに電話するツッコミ下手な関東人",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=c9iVF61TGRA"
+        },
+        {
+          "id": "JTzkrRLiBQI",
+          "title": "セールス電話にかけ直してしまったツッコミ下手な関東人な奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=JTzkrRLiBQI"
+        },
+        {
+          "id": "N7IrDMH9EP8",
+          "title": "ツッコミ下手な関東人に電話でドッキリしかける奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=N7IrDMH9EP8"
+        },
+        {
+          "id": "OnmNapz4o9w",
+          "title": "『ツッコミ下手な関東人とロケするヤバいディレクターな奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=OnmNapz4o9w"
+        },
+        {
+          "id": "ii5mD0CKToQ",
+          "title": "『占いするツッコミ下手な関東人の奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ii5mD0CKToQ"
+        },
+        {
+          "id": "z4BCQAcWHfU",
+          "title": "１コイン占いするツッコミ下手な関東人の奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=z4BCQAcWHfU"
+        },
+        {
+          "id": "aUBuoKEEXkc",
+          "title": "『「モリヤマだけ MC 決まったドッキリ」をうけるツッコミ下手な関東人な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=aUBuoKEEXkc"
         }
       ]
     },
@@ -182,6 +982,174 @@
           "relation": "featured",
           "timestampSeconds": 0,
           "url": "https://www.youtube.com/watch?v=HPn5OeRYs6U"
+        },
+        {
+          "id": "n1PZKNvafLk",
+          "title": "ジャルジャルのネタのタネ『角刈りフクロウな奴』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=n1PZKNvafLk"
+        },
+        {
+          "id": "KnCUKPzU4zU",
+          "title": "煩悩ネタ！『角刈りのくせにクラスのメインになろうとする奴』",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KnCUKPzU4zU"
+        },
+        {
+          "id": "THK-Q89rrAw",
+          "title": "『角刈りのくせにリモートでもクラスのメインになろうとする奴』",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=THK-Q89rrAw"
+        },
+        {
+          "id": "u9n6B1BSczE",
+          "title": "『角刈りの角さんな奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=u9n6B1BSczE"
+        },
+        {
+          "id": "70-YhevJUNY",
+          "title": "角刈りのくせに合コン開く奴　前編",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=70-YhevJUNY"
+        },
+        {
+          "id": "9_09ioLhQ_s",
+          "title": "角刈りのくせに合コン開く奴　後編",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9_09ioLhQ_s"
+        },
+        {
+          "id": "VBm6OZnlJEk",
+          "title": "角刈りに憧れて電話する奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VBm6OZnlJEk"
+        },
+        {
+          "id": "xwVyao-HtJ0",
+          "title": "角刈りのくせにカスタマーセンター相手に仕切る奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=xwVyao-HtJ0"
+        },
+        {
+          "id": "M8iMcjk0f2k",
+          "title": "角刈りのくせにマイナースポーツ挑戦する奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=M8iMcjk0f2k"
+        },
+        {
+          "id": "_ERjVLyfeAw",
+          "title": "角刈りのくせに日本代表選考会に出場する奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=_ERjVLyfeAw"
+        },
+        {
+          "id": "ZbFHpIeRrtw",
+          "title": "角刈りらしい昼ごはん食べる奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ZbFHpIeRrtw"
+        },
+        {
+          "id": "qhkTPlbwVg4",
+          "title": "角刈りのくせに日米親善試合に出場する奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=qhkTPlbwVg4"
+        },
+        {
+          "id": "FLwFF9wB3eE",
+          "title": "友達とメシ食いながら恋バナする角刈りの奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=FLwFF9wB3eE"
+        },
+        {
+          "id": "OLElx32m0tc",
+          "title": "角刈りのくせに卓球でダブルス組んでガチ試合する奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=OLElx32m0tc"
+        },
+        {
+          "id": "t0gUC_k2D_0",
+          "title": "ただただチキン食べる角刈りの奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=t0gUC_k2D_0"
+        },
+        {
+          "id": "4SmmUGQ_jqc",
+          "title": "イチゴカフェで働く角刈り店員な奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4SmmUGQ_jqc"
+        },
+        {
+          "id": "vSrn0rEim0Q",
+          "title": "『美容室で「角刈りに着替える」奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=vSrn0rEim0Q"
+        },
+        {
+          "id": "rt5n1fGCaRg",
+          "title": "『ボクシングジム殴り込みに行って角刈りにされた奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=rt5n1fGCaRg"
+        },
+        {
+          "id": "5byXX7Cru9k",
+          "title": "『クレーム言いにキッチン行ったら角刈りにされる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5byXX7Cru9k"
+        },
+        {
+          "id": "VRqp9MRjg4g",
+          "title": "クレーム言いに フロント行ったら 角刈りになって 戻って来る奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VRqp9MRjg4g"
+        },
+        {
+          "id": "ljtaLPfEyqo",
+          "title": "『バイト面接中に違法駐車を注意しに行ったら角刈りになって戻ってきた奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ljtaLPfEyqo"
         }
       ]
     },
@@ -272,6 +1240,14 @@
           "relation": "featured",
           "timestampSeconds": 0,
           "url": "https://www.youtube.com/watch?v=5GCQ1gDU8zk"
+        },
+        {
+          "id": "4Uvo0JKMVUY",
+          "title": "煩悩ネタ！『若ハゲサンキューな奴』",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4Uvo0JKMVUY"
         }
       ]
     },
@@ -329,6 +1305,22 @@
           "relation": "featured",
           "timestampSeconds": 0,
           "url": "https://www.youtube.com/watch?v=MT2wtU_UeQo"
+        },
+        {
+          "id": "HAl9nibaU9A",
+          "title": "『声優オーディションでキャラ作ってるの見破られる「変声太郎」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=HAl9nibaU9A"
+        },
+        {
+          "id": "8ECsFTheK30",
+          "title": "プリキュア声優オーディションを受ける奴〜変声太郎と本田〜",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=8ECsFTheK30"
         }
       ]
     }

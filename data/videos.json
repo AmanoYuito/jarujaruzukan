@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:15:21.655Z",
+  "generatedAt": "2026-10-18T06:33:31.601Z",
   "total": 5579,
   "topics": [
     {
@@ -1333,7 +1333,16 @@
       "channel": "tower",
       "publishedAt": "2015-10-05T10:00:00Z",
       "url": "https://www.youtube.com/watch?v=rysnxWSOMss",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "2EEeRYvqsz0",
@@ -1351,7 +1360,16 @@
       "channel": "tower",
       "publishedAt": "2015-10-12T13:11:04Z",
       "url": "https://www.youtube.com/watch?v=ElZ8LZ5u_60",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "M6QGdWjaZf4",
@@ -2505,6 +2523,15 @@
       "topics": [
         "芸人・ネタ",
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -3548,6 +3575,15 @@
       "url": "https://www.youtube.com/watch?v=GNBUR4xOvJY",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -3698,7 +3734,16 @@
       "channel": "tower",
       "publishedAt": "2018-05-29T09:00:02Z",
       "url": "https://www.youtube.com/watch?v=5cDANCumoxU",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "3QGBGUqQMXk",
@@ -3706,7 +3751,16 @@
       "channel": "tower",
       "publishedAt": "2018-05-30T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=3QGBGUqQMXk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "jIJsW014hZo",
@@ -3714,7 +3768,16 @@
       "channel": "tower",
       "publishedAt": "2018-05-31T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=jIJsW014hZo",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "4qnEEEd3uh0",
@@ -3722,7 +3785,16 @@
       "channel": "tower",
       "publishedAt": "2018-06-01T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=4qnEEEd3uh0",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "R8wA2kmFeZQ",
@@ -3738,7 +3810,16 @@
       "channel": "tower",
       "publishedAt": "2018-06-03T09:00:06Z",
       "url": "https://www.youtube.com/watch?v=ceSsEpsCl8U",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "NvAvGpjlYdE",
@@ -3917,7 +3998,41 @@
       "channel": "tower",
       "publishedAt": "2018-06-23T09:00:02Z",
       "url": "https://www.youtube.com/watch?v=MT2wtU_UeQo",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "hensei-taro",
+          "name": "変声太郎",
+          "aliases": [
+            "変声タロー"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ],
+      "facts": [
+        {
+          "label": "芸名",
+          "value": "変声太郎",
+          "entityId": "hensei-taro",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=MT2wtU_UeQo"
+        },
+        {
+          "label": "声",
+          "value": "本人いわく、生まれた時からこの声",
+          "entityId": "hensei-taro",
+          "timestampSeconds": 6,
+          "url": "https://www.youtube.com/watch?v=MT2wtU_UeQo&t=6s"
+        },
+        {
+          "label": "芸風",
+          "value": "声を生かしたショートコントを披露する",
+          "entityId": "hensei-taro",
+          "timestampSeconds": 11,
+          "url": "https://www.youtube.com/watch?v=MT2wtU_UeQo&t=11s"
+        }
+      ]
     },
     {
       "id": "yXVjc-3s0H8",
@@ -4295,6 +4410,15 @@
       "url": "https://www.youtube.com/watch?v=n1PZKNvafLk",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -4781,7 +4905,16 @@
       "channel": "tower",
       "publishedAt": "2018-09-25T09:00:04Z",
       "url": "https://www.youtube.com/watch?v=OHoaYht9VxA",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "8Q6NTy5XbiU",
@@ -4807,7 +4940,16 @@
       "channel": "tower",
       "publishedAt": "2018-09-28T09:00:06Z",
       "url": "https://www.youtube.com/watch?v=uY_nBlI8mko",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "VOIVMv1rSas",
@@ -4815,7 +4957,16 @@
       "channel": "tower",
       "publishedAt": "2018-09-29T09:00:06Z",
       "url": "https://www.youtube.com/watch?v=VOIVMv1rSas",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "7FU5aOtXIG0",
@@ -4823,7 +4974,16 @@
       "channel": "tower",
       "publishedAt": "2018-09-30T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=7FU5aOtXIG0",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "EIEo0yQxJWM",
@@ -4847,7 +5007,16 @@
       "channel": "tower",
       "publishedAt": "2018-10-01T09:00:04Z",
       "url": "https://www.youtube.com/watch?v=hHQQ0Gdurf8",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "BblMUtk8R14",
@@ -4900,7 +5069,16 @@
       "channel": "tower",
       "publishedAt": "2018-10-07T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=PbmmxxgOfhU",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "bxg9DUjrNng",
@@ -4924,7 +5102,16 @@
       "channel": "tower",
       "publishedAt": "2018-10-09T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=1BVI2Er0A_U",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "JRIur0h_dEw",
@@ -4940,7 +5127,16 @@
       "channel": "tower",
       "publishedAt": "2018-10-11T09:00:04Z",
       "url": "https://www.youtube.com/watch?v=wro4dFLYQvM",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "CrBlndM5CMk",
@@ -5386,7 +5582,16 @@
       "channel": "tower",
       "publishedAt": "2018-11-28T09:00:14Z",
       "url": "https://www.youtube.com/watch?v=lEbpj5S8ahg",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "EJX25OE13vk",
@@ -5404,7 +5609,16 @@
       "channel": "tower",
       "publishedAt": "2018-11-30T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=Nnp4HEZ6nqw",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "5wAzmiKPZqo",
@@ -5430,7 +5644,16 @@
       "channel": "tower",
       "publishedAt": "2018-12-02T09:00:02Z",
       "url": "https://www.youtube.com/watch?v=aJcdnzGkkeY",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "b1J39WQFvSs",
@@ -5710,7 +5933,16 @@
       "channel": "tower",
       "publishedAt": "2018-12-29T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=2mOkYl9ah0E",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "FafGf4Od9Ro",
@@ -5734,7 +5966,16 @@
       "channel": "tower",
       "publishedAt": "2018-12-31T09:00:07Z",
       "url": "https://www.youtube.com/watch?v=sroTrNGKfiU",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "yNuvYLNObBk",
@@ -5742,7 +5983,16 @@
       "channel": "tower",
       "publishedAt": "2019-01-01T09:00:05Z",
       "url": "https://www.youtube.com/watch?v=yNuvYLNObBk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "ncff-equ5Eg",
@@ -6147,7 +6397,16 @@
       "channel": "tower",
       "publishedAt": "2019-02-05T09:00:05Z",
       "url": "https://www.youtube.com/watch?v=k5F5_dDyMJo",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "iY3rG6xTRwE",
@@ -6165,7 +6424,16 @@
       "channel": "tower",
       "publishedAt": "2019-02-07T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=9e02zLjuVd4",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "xhrjgeacIzI",
@@ -6181,7 +6449,16 @@
       "channel": "tower",
       "publishedAt": "2019-02-09T09:00:08Z",
       "url": "https://www.youtube.com/watch?v=bS0nytlF4zk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "iPrxzNL3dVw",
@@ -6245,7 +6522,16 @@
       "channel": "tower",
       "publishedAt": "2019-02-16T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=DGZP_0kkDG0",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "EHrapuDN9vA",
@@ -6253,7 +6539,16 @@
       "channel": "tower",
       "publishedAt": "2019-02-17T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=EHrapuDN9vA",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "minami",
+          "name": "南くん",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "B701YHb2Mkg",
@@ -6261,7 +6556,16 @@
       "channel": "tower",
       "publishedAt": "2019-02-18T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=B701YHb2Mkg",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "H9UwA6h7jH0",
@@ -6279,6 +6583,15 @@
       "url": "https://www.youtube.com/watch?v=gdXuCwhmPFY",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "minami",
+          "name": "南くん",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -6753,7 +7066,16 @@
       "channel": "tower",
       "publishedAt": "2019-03-26T09:00:04Z",
       "url": "https://www.youtube.com/watch?v=eb2fx0CBD_Y",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "minami",
+          "name": "南くん",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "jyZjKWLQoqo",
@@ -6771,7 +7093,16 @@
       "channel": "tower",
       "publishedAt": "2019-03-28T09:00:04Z",
       "url": "https://www.youtube.com/watch?v=f6av5cyUvQQ",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "LXCJELI3LQM",
@@ -6787,7 +7118,16 @@
       "channel": "tower",
       "publishedAt": "2019-03-30T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=2AguHme__SI",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "PREPzKlCrkc",
@@ -6795,7 +7135,16 @@
       "channel": "tower",
       "publishedAt": "2019-03-31T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=PREPzKlCrkc",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "minami",
+          "name": "南くん",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "0pao13Am-e8",
@@ -6851,7 +7200,16 @@
       "channel": "tower",
       "publishedAt": "2019-04-07T09:00:06Z",
       "url": "https://www.youtube.com/watch?v=w2ynlfZ-Y8M",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "L8PqXRJ25L0",
@@ -6859,7 +7217,16 @@
       "channel": "tower",
       "publishedAt": "2019-04-08T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=L8PqXRJ25L0",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "tDTM3rFXTEo",
@@ -6895,6 +7262,15 @@
       "url": "https://www.youtube.com/watch?v=BXk0tkuOTpQ",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "minami",
+          "name": "南くん",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -7069,7 +7445,16 @@
       "channel": "tower",
       "publishedAt": "2019-05-02T09:00:02Z",
       "url": "https://www.youtube.com/watch?v=a4FPiQzuKsk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "7bqa6n4GHPA",
@@ -7182,6 +7567,41 @@
       "url": "https://www.youtube.com/watch?v=5GCQ1gDU8zk",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "wakahage-thankyou",
+          "name": "若ハゲサンキュー",
+          "aliases": [
+            "若ゲサンキー",
+            "若サンキ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ],
+      "facts": [
+        {
+          "label": "芸名",
+          "value": "若ハゲサンキュー",
+          "entityId": "wakahage-thankyou",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5GCQ1gDU8zk"
+        },
+        {
+          "label": "年齢",
+          "value": "28歳",
+          "entityId": "wakahage-thankyou",
+          "timestampSeconds": 19,
+          "url": "https://www.youtube.com/watch?v=5GCQ1gDU8zk&t=19s"
+        },
+        {
+          "label": "人物像",
+          "value": "若ハゲを“天の授かり物”と捉えてネタにしている",
+          "entityId": "wakahage-thankyou",
+          "timestampSeconds": 15,
+          "url": "https://www.youtube.com/watch?v=5GCQ1gDU8zk&t=15s"
+        }
       ]
     },
     {
@@ -7192,6 +7612,15 @@
       "url": "https://www.youtube.com/watch?v=AOtvUnalVYc",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "jinbo-mao",
+          "name": "神保マオ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -7216,7 +7645,16 @@
       "channel": "tower",
       "publishedAt": "2019-05-12T03:00:00Z",
       "url": "https://www.youtube.com/watch?v=NE7uHTxUJgM",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "XqIHqB1ywtY",
@@ -7353,7 +7791,16 @@
       "channel": "tower",
       "publishedAt": "2019-05-12T03:00:03Z",
       "url": "https://www.youtube.com/watch?v=lXOeDJR5LJc",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "minami",
+          "name": "南くん",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "mlMElwFGx4c",
@@ -7495,7 +7942,16 @@
       "channel": "tower",
       "publishedAt": "2019-05-15T09:00:06Z",
       "url": "https://www.youtube.com/watch?v=cBW-dhXM1q8",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "yn0kScjpM5M",
@@ -7657,7 +8113,16 @@
       "channel": "tower",
       "publishedAt": "2019-05-31T09:00:07Z",
       "url": "https://www.youtube.com/watch?v=nC-cipmYCS4",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "f9l9RWlHeTg",
@@ -7747,7 +8212,16 @@
       "channel": "tower",
       "publishedAt": "2019-06-10T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=9R-OLDlCFSs",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "u8-GbYVmHCA",
@@ -7813,7 +8287,16 @@
       "channel": "tower",
       "publishedAt": "2019-06-16T09:00:04Z",
       "url": "https://www.youtube.com/watch?v=qFkH2R6A9EY",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "jA2N890mOtk",
@@ -8055,7 +8538,16 @@
       "channel": "tower",
       "publishedAt": "2019-07-08T09:00:07Z",
       "url": "https://www.youtube.com/watch?v=gwRM0JDuNkk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "CxIrO3UC0iQ",
@@ -8225,7 +8717,16 @@
       "channel": "tower",
       "publishedAt": "2019-07-25T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=APExUDNHtxY",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "4SLpK7Phy-c",
@@ -8313,7 +8814,16 @@
       "channel": "tower",
       "publishedAt": "2019-08-03T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=QFdRDUWvfNQ",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "J3x02gpZR1s",
@@ -8331,6 +8841,15 @@
       "url": "https://www.youtube.com/watch?v=N5kqPXc2l0o",
       "topics": [
         "電話"
+      ],
+      "entities": [
+        {
+          "id": "minami",
+          "name": "南くん",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -8507,7 +9026,16 @@
       "channel": "tower",
       "publishedAt": "2019-08-23T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=5gtoqqJVhRI",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "Lrm3j56eJ5I",
@@ -8550,6 +9078,15 @@
       "topics": [
         "面接",
         "バイト"
+      ],
+      "entities": [
+        {
+          "id": "minami",
+          "name": "南くん",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -8576,7 +9113,16 @@
       "channel": "tower",
       "publishedAt": "2019-08-30T09:00:02Z",
       "url": "https://www.youtube.com/watch?v=9PvFRd0N7jo",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "TNGrg2Qq1OM",
@@ -8656,7 +9202,16 @@
       "channel": "tower",
       "publishedAt": "2019-09-06T09:00:16Z",
       "url": "https://www.youtube.com/watch?v=tIEluoU6M4s",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "psU8wybcKt4",
@@ -8710,6 +9265,15 @@
       "url": "https://www.youtube.com/watch?v=evN6vhOXfhg",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -8831,7 +9395,16 @@
       "channel": "tower",
       "publishedAt": "2019-09-22T09:00:08Z",
       "url": "https://www.youtube.com/watch?v=xOv0yIrqv9Y",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "5_dv6lwfO6w",
@@ -9083,7 +9656,16 @@
       "channel": "tower",
       "publishedAt": "2019-09-29T09:00:04Z",
       "url": "https://www.youtube.com/watch?v=c9eScS_vNUk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "6h5G38R1thw",
@@ -9141,7 +9723,16 @@
       "channel": "tower",
       "publishedAt": "2019-10-05T09:00:04Z",
       "url": "https://www.youtube.com/watch?v=Nf77oNHY5dM",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "kAAmByKZXqg",
@@ -9374,7 +9965,16 @@
       "channel": "tower",
       "publishedAt": "2019-10-24T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=GrXKK2F_bJ0",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "mTAE4D5o8kM",
@@ -9454,7 +10054,16 @@
       "channel": "tower",
       "publishedAt": "2019-10-31T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=3kXQQHoJkMo",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "drPQHCoWLVk",
@@ -9480,7 +10089,16 @@
       "channel": "tower",
       "publishedAt": "2019-11-03T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=2PNaJvNtlaM",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "AyudPOB5M5k",
@@ -9783,6 +10401,15 @@
       "url": "https://www.youtube.com/watch?v=LD_pdXtZiBc",
       "topics": [
         "電話"
+      ],
+      "entities": [
+        {
+          "id": "minami",
+          "name": "南くん",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -9967,6 +10594,15 @@
       "url": "https://www.youtube.com/watch?v=Ft7uhbJSZ2M",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "ichimokusan-ni-kaerimasuyo",
+          "name": "一目散に帰りますよ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
       ]
     },
     {
@@ -10080,7 +10716,16 @@
       "channel": "tower",
       "publishedAt": "2020-01-01T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=Cz5mJT5mek8",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "F1ppfC4K8fk",
@@ -10655,6 +11300,15 @@
       "topics": [
         "芸人・ネタ",
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -11269,6 +11923,18 @@
       "url": "https://www.youtube.com/watch?v=4Uvo0JKMVUY",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "wakahage-thankyou",
+          "name": "若ハゲサンキュー",
+          "aliases": [
+            "若ゲサンキー",
+            "若サンキ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -11578,6 +12244,15 @@
       "url": "https://www.youtube.com/watch?v=KnCUKPzU4zU",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -11638,6 +12313,15 @@
       "url": "https://www.youtube.com/watch?v=V6IZWsEi1sQ",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -11672,7 +12356,16 @@
       "channel": "tower",
       "publishedAt": "2020-03-29T01:20:47Z",
       "url": "https://www.youtube.com/watch?v=hzpp0Ryn6rw",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "cTi_NVe40Go",
@@ -12078,6 +12771,15 @@
       "url": "https://www.youtube.com/watch?v=moCoQuzSOrI",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -12336,6 +13038,15 @@
       "url": "https://www.youtube.com/watch?v=Hm0eFTcVEPs",
       "topics": [
         "面接"
+      ],
+      "entities": [
+        {
+          "id": "okintama-dekao",
+          "name": "おきんたまでか男",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -12486,6 +13197,15 @@
       "url": "https://www.youtube.com/watch?v=THK-Q89rrAw",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -12722,7 +13442,16 @@
       "channel": "tower",
       "publishedAt": "2020-06-06T09:00:26Z",
       "url": "https://www.youtube.com/watch?v=cRZxbprmv4c",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "T-SrsBagVok",
@@ -12730,7 +13459,16 @@
       "channel": "tower",
       "publishedAt": "2020-06-07T09:00:10Z",
       "url": "https://www.youtube.com/watch?v=T-SrsBagVok",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "UQvhupSZWWY",
@@ -12977,6 +13715,15 @@
       "url": "https://www.youtube.com/watch?v=u9n6B1BSczE",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -13893,6 +14640,15 @@
       "topics": [
         "電話",
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -14021,6 +14777,15 @@
       "url": "https://www.youtube.com/watch?v=8v72eZAupyo",
       "topics": [
         "音楽"
+      ],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -14532,7 +15297,16 @@
       "channel": "island",
       "publishedAt": "2020-10-27T11:00:13Z",
       "url": "https://www.youtube.com/watch?v=Oa4IPDDMVac",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "hKDYbpgMn6I",
@@ -14879,6 +15653,15 @@
       "url": "https://www.youtube.com/watch?v=XzfRMFgz1jQ",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -15387,6 +16170,15 @@
       "topics": [
         "電話",
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -15411,7 +16203,16 @@
       "channel": "tower",
       "publishedAt": "2020-12-20T09:00:15Z",
       "url": "https://www.youtube.com/watch?v=wxgUm7nR2PU",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "-4n1EnlENfY",
@@ -15604,6 +16405,15 @@
       "url": "https://www.youtube.com/watch?v=OTeCGXRpJB8",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -15623,7 +16433,16 @@
       "channel": "tower",
       "publishedAt": "2021-01-01T09:00:17Z",
       "url": "https://www.youtube.com/watch?v=VNc-iBSxFII",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "8WM5jsj3b2k",
@@ -15752,6 +16571,15 @@
       "url": "https://www.youtube.com/watch?v=k_6Kcjl9ZNo",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -15985,6 +16813,15 @@
       "url": "https://www.youtube.com/watch?v=43xTMWO6-NM",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -16310,6 +17147,15 @@
       "url": "https://www.youtube.com/watch?v=wZ1v_SdwogI",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -16320,6 +17166,15 @@
       "url": "https://www.youtube.com/watch?v=SyZx0mItlEE",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -16878,6 +17733,15 @@
       "url": "https://www.youtube.com/watch?v=ew6Idf9nIos",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "jinbo-mao",
+          "name": "神保マオ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -17022,6 +17886,15 @@
       "url": "https://www.youtube.com/watch?v=SkbU06cH420",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -18314,6 +19187,15 @@
       "url": "https://www.youtube.com/watch?v=70-YhevJUNY",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -18334,6 +19216,15 @@
       "url": "https://www.youtube.com/watch?v=9_09ioLhQ_s",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -18353,6 +19244,15 @@
       "topics": [
         "電話",
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -19026,7 +19926,16 @@
       "channel": "tower",
       "publishedAt": "2021-07-30T09:00:14Z",
       "url": "https://www.youtube.com/watch?v=Fnv6zz59lRk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "CF-fBHQ0vmw",
@@ -19042,7 +19951,16 @@
       "channel": "tower",
       "publishedAt": "2021-07-31T09:00:15Z",
       "url": "https://www.youtube.com/watch?v=hmuyTbJjWv8",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "zXnTtemiOdE",
@@ -19068,6 +19986,15 @@
       "url": "https://www.youtube.com/watch?v=HTtkVXWUnAs",
       "topics": [
         "食べ物"
+      ],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -19338,7 +20265,16 @@
       "channel": "island",
       "publishedAt": "2021-08-17T12:00:13Z",
       "url": "https://www.youtube.com/watch?v=47hcCqp82GY",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "jinbo-mao",
+          "name": "神保マオ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "rv6JgmnOiIg",
@@ -19564,6 +20500,15 @@
       "url": "https://www.youtube.com/watch?v=zQG_LGdwrBc",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -19971,6 +20916,15 @@
       "url": "https://www.youtube.com/watch?v=GL83InINrYE",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -19982,6 +20936,15 @@
       "topics": [
         "電話",
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -21131,6 +22094,15 @@
       "topics": [
         "電話",
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -21470,6 +22442,15 @@
       "topics": [
         "電話",
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -21614,7 +22595,16 @@
       "channel": "tower",
       "publishedAt": "2022-01-01T09:00:13Z",
       "url": "https://www.youtube.com/watch?v=C65hwHO1uQ0",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "NfkQRAcqjw0",
@@ -22580,7 +23570,16 @@
       "channel": "tower",
       "publishedAt": "2022-02-26T09:00:07Z",
       "url": "https://www.youtube.com/watch?v=E_VhtbLXUWE",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "7uf0xzy1C6A",
@@ -23666,7 +24665,16 @@
       "channel": "tower",
       "publishedAt": "2022-05-02T09:00:18Z",
       "url": "https://www.youtube.com/watch?v=cZHQETgjtqU",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "3Lw5M4fov0A",
@@ -25147,6 +26155,15 @@
       "url": "https://www.youtube.com/watch?v=9msDS2mydXA",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "jinbo-mao",
+          "name": "神保マオ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -25182,6 +26199,15 @@
       "topics": [
         "電話",
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "jinbo-mao",
+          "name": "神保マオ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -25765,6 +26791,15 @@
       "url": "https://www.youtube.com/watch?v=Yu-gn9lMS-Q",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "jinbo-mao",
+          "name": "神保マオ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -25930,6 +26965,15 @@
       "url": "https://www.youtube.com/watch?v=OnmNapz4o9w",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -27267,6 +28311,15 @@
       "url": "https://www.youtube.com/watch?v=xwVyao-HtJ0",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -27603,6 +28656,15 @@
       "url": "https://www.youtube.com/watch?v=P9Ql6KLvj3I",
       "topics": [
         "電話"
+      ],
+      "entities": [
+        {
+          "id": "jinbo-mao",
+          "name": "神保マオ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -27647,7 +28709,16 @@
       "channel": "tower",
       "publishedAt": "2023-01-01T09:00:16Z",
       "url": "https://www.youtube.com/watch?v=fvexObh9Hbo",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "_R9MhOuWG7s",
@@ -27657,6 +28728,15 @@
       "url": "https://www.youtube.com/watch?v=_R9MhOuWG7s",
       "topics": [
         "音楽"
+      ],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -28219,6 +29299,17 @@
       "url": "https://www.youtube.com/watch?v=HAl9nibaU9A",
       "topics": [
         "オーディション"
+      ],
+      "entities": [
+        {
+          "id": "hensei-taro",
+          "name": "変声太郎",
+          "aliases": [
+            "変声タロー"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -28900,6 +29991,15 @@
       "topics": [
         "スポーツ",
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -28990,6 +30090,15 @@
       "url": "https://www.youtube.com/watch?v=_ERjVLyfeAw",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -29138,6 +30247,15 @@
       "topics": [
         "食べ物",
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -29158,6 +30276,15 @@
       "url": "https://www.youtube.com/watch?v=ii5mD0CKToQ",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -29170,6 +30297,15 @@
         "家族",
         "スポーツ",
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -29252,6 +30388,15 @@
       "url": "https://www.youtube.com/watch?v=z4BCQAcWHfU",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -33364,7 +34509,16 @@
       "channel": "tower",
       "publishedAt": "2024-01-01T09:00:33Z",
       "url": "https://www.youtube.com/watch?v=l1CE_t7VuRA",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "5J6CTHUK2v0",
@@ -35432,6 +36586,15 @@
         "友達",
         "食べ物",
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -36663,6 +37826,15 @@
       "topics": [
         "スポーツ",
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -37124,6 +38296,17 @@
       "url": "https://www.youtube.com/watch?v=8ECsFTheK30",
       "topics": [
         "オーディション"
+      ],
+      "entities": [
+        {
+          "id": "hensei-taro",
+          "name": "変声太郎",
+          "aliases": [
+            "変声タロー"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -37145,6 +38328,15 @@
       "url": "https://www.youtube.com/watch?v=aUBuoKEEXkc",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "kanto-jin",
+          "name": "関東人",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -39042,6 +40234,15 @@
       "topics": [
         "食べ物",
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -39183,7 +40384,16 @@
       "channel": "tower",
       "publishedAt": "2025-01-01T09:00:43Z",
       "url": "https://www.youtube.com/watch?v=isdUN7UPf5g",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "x0tvBtC5dqo",
@@ -40936,6 +42146,15 @@
       "topics": [
         "店・接客",
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -43983,6 +45202,15 @@
       "url": "https://www.youtube.com/watch?v=vSrn0rEim0Q",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -44996,7 +46224,16 @@
       "channel": "tower",
       "publishedAt": "2026-01-01T09:00:12Z",
       "url": "https://www.youtube.com/watch?v=6nGVDJfqApI",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "bpOp7IU6HzQ",
@@ -45279,6 +46516,15 @@
       "url": "https://www.youtube.com/watch?v=rt5n1fGCaRg",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -46583,6 +47829,15 @@
       "url": "https://www.youtube.com/watch?v=5byXX7Cru9k",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -46947,6 +48202,15 @@
       "url": "https://www.youtube.com/watch?v=VRqp9MRjg4g",
       "topics": [
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -46975,7 +48239,16 @@
       "channel": "tower",
       "publishedAt": "2026-05-08T09:00:21Z",
       "url": "https://www.youtube.com/watch?v=HywBPivyu2U",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chara-ban",
+          "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "YTH7V_VFx7Y",
@@ -49039,6 +50312,15 @@
         "面接",
         "バイト",
         "美容・髪"
+      ],
+      "entities": [
+        {
+          "id": "kakugari",
+          "name": "角刈り",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
