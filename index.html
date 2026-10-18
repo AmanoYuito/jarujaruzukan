@@ -18,7 +18,7 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="stylesheet" href="styles.css?v=15">
+  <link rel="stylesheet" href="styles.css?v=16">
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -103,7 +103,12 @@
         <button class="random-button" id="randomButton" type="button">🎲 今日の一奴</button>
       </div>
 
+      <p class="catalog-result-meta" id="characterResultMeta" aria-live="polite">図鑑データを読み込み中です</p>
       <div class="catalog-grid" id="characterGrid" aria-live="polite"></div>
+      <div class="list-controls" aria-label="キャラ図鑑の表示件数">
+        <button class="button list-expand" id="characterExpand" type="button" aria-controls="characterGrid" aria-expanded="false">すべて表示</button>
+        <button class="button button-ghost list-collapse" id="characterCollapse" type="button" aria-controls="characterGrid" hidden>折りたたむ</button>
+      </div>
       <div class="empty-state" id="emptyState" hidden>
         <strong>該当する奴が見つかりません</strong>
         <p>別の言葉やタグで探してみてください。</p>
@@ -129,6 +134,10 @@
       </label>
       <p class="song-result-meta" id="songResultMeta" aria-live="polite">楽曲データを読み込み中です</p>
       <div class="song-grid" id="songGrid"></div>
+      <div class="list-controls" aria-label="歌と曲の表示件数">
+        <button class="button list-expand" id="songExpand" type="button" aria-controls="songGrid" aria-expanded="false">すべて表示</button>
+        <button class="button button-ghost list-collapse" id="songCollapse" type="button" aria-controls="songGrid" hidden>折りたたむ</button>
+      </div>
       <div class="video-empty" id="songEmpty" hidden>該当する歌・曲が見つかりません。</div>
       <p class="copyright-note">歌詞の全文は掲載せず、内容の要約と公式動画へのリンクを掲載します。</p>
     </section>
@@ -214,6 +223,6 @@
   </dialog>
 
   <noscript>この図鑑の検索機能を使うにはJavaScriptを有効にしてください。</noscript>
-  <script src="app.js?v=15" defer></script>
+  <script src="app.js?v=16" defer></script>
 </body>
 </html>

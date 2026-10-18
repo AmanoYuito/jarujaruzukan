@@ -7,6 +7,9 @@ const els = {
   grid: document.querySelector("#characterGrid"),
   search: document.querySelector("#searchInput"),
   count: document.querySelector("#resultCount"),
+  characterResultMeta: document.querySelector("#characterResultMeta"),
+  characterExpand: document.querySelector("#characterExpand"),
+  characterCollapse: document.querySelector("#characterCollapse"),
   empty: document.querySelector("#emptyState"),
   dialog: document.querySelector("#characterDialog"),
   dialogContent: document.querySelector("#dialogContent"),
@@ -22,12 +25,18 @@ const els = {
   songTotal: document.querySelector("#songTotal"),
   songResultMeta: document.querySelector("#songResultMeta"),
   songGrid: document.querySelector("#songGrid"),
-  songEmpty: document.querySelector("#songEmpty")
+  songEmpty: document.querySelector("#songEmpty"),
+  songExpand: document.querySelector("#songExpand"),
+  songCollapse: document.querySelector("#songCollapse")
 };
 
+const CHARACTER_FOLDED_COUNT = 12;
+const SONG_FOLDED_COUNT = 6;
 let activeFilter = "all";
 let activeVideoChannel = "all";
 let activeTopic = "all";
+let visibleCharacterCount = CHARACTER_FOLDED_COUNT;
+let visibleSongCount = SONG_FOLDED_COUNT;
 let visibleVideoCount = 24;
 let favorites = new Set(JSON.parse(localStorage.getItem("yatsu-favorites") || "[]"));
 
@@ -49,15 +58,22 @@ function filteredCharacters() {
   });
 }
 
-function render() {
+function render({ reset = false } = {}) {
+  if (reset) visibleCharacterCount = CHARACTER_FOLDED_COUNT;
   const matches = filteredCharacters();
+  const visible = matches.slice(0, visibleCharacterCount);
   els.count.textContent = matches.length;
+  els.characterResultMeta.textContent = `${matches.length.toLocaleString("ja-JP")}件中${visible.length.toLocaleString("ja-JP")}件を表示`;
   els.empty.hidden = matches.length !== 0;
-  els.grid.innerHTML = matches.map(character => {
+  els.characterExpand.hidden = visible.length >= matches.length;
+  els.characterExpand.textContent = `すべて表示（残り${Math.max(matches.length - visible.length, 0).toLocaleString("ja-JP")}件）`;
+  els.characterExpand.setAttribute("aria-expanded", String(visible.length >= matches.length));
+  els.characterCollapse.hidden = visibleCharacterCount <= CHARACTER_FOLDED_COUNT;
+  els.grid.innerHTML = visible.map(character => {
     const firstVideo = character.relatedVideos?.[0];
     return `
     <article class="character-card" style="--card-color:${character.color};--accent:${character.channel === "island" ? "#ff6b35" : "#2f66ef"}">
-      ${firstVideo ? `<div class="character-thumbnail"><img src="${thumbnailUrl(firstVideo.id)}" alt="${escapeHTML(character.name)}の初回掲載動画のサムネイル" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="480" height="360"><span>最初の動画</span></div>` : `<div class="character-thumbnail is-placeholder" aria-label="サムネイル準備中"><span>${escapeHTML(character.symbol)}</span></div>`}
+      ${firstVideo ? `<div class="character-thumbnail"><img src="${thumbnailUrl(firstVideo.id)}" alt="${escapeHTML(character.name)}の初回掲載動画のサムネイル" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="480" height="360"></div>` : `<div class="character-thumbnail is-placeholder" aria-label="サムネイル準備中"><span>${escapeHTML(character.symbol)}</span></div>`}
       <div class="card-top">
         <span class="channel-badge">${escapeHTML(character.channelLabel)}</span>
         <button class="favorite-button" type="button" data-favorite="${character.id}" aria-label="${escapeHTML(character.name)}をお気に入り${favorites.has(character.id) ? "から外す" : "に追加"}" aria-pressed="${favorites.has(character.id)}">${favorites.has(character.id) ? "★" : "☆"}</button>
@@ -112,15 +128,20 @@ function filteredSongs() {
   });
 }
 
-function renderSongs() {
+function renderSongs({ reset = false } = {}) {
+  if (reset) visibleSongCount = SONG_FOLDED_COUNT;
   const matches = filteredSongs();
-  els.songResultMeta.textContent = `${matches.length.toLocaleString("ja-JP")}曲が該当`;
+  const visible = matches.slice(0, visibleSongCount);
+  els.songResultMeta.textContent = `${matches.length.toLocaleString("ja-JP")}曲中${visible.length.toLocaleString("ja-JP")}曲を表示`;
   els.songEmpty.hidden = matches.length !== 0;
-  els.songGrid.innerHTML = matches.map(song => `
+  els.songExpand.hidden = visible.length >= matches.length;
+  els.songExpand.textContent = `すべて表示（残り${Math.max(matches.length - visible.length, 0).toLocaleString("ja-JP")}曲）`;
+  els.songExpand.setAttribute("aria-expanded", String(visible.length >= matches.length));
+  els.songCollapse.hidden = visibleSongCount <= SONG_FOLDED_COUNT;
+  els.songGrid.innerHTML = visible.map(song => `
     <article class="song-card">
       <a class="song-thumbnail" href="${escapeHTML(song.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHTML(song.title)}を公式YouTubeで聴く">
         <img src="${thumbnailUrl(song.videoId)}" alt="${escapeHTML(song.title)}の掲載動画のサムネイル" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="480" height="360">
-        <span>最初の動画</span>
       </a>
       <div class="song-card-top">
         <span class="video-channel ${song.channel}">${song.channel === "island" ? "ISLAND" : "TOWER"}</span>
@@ -240,12 +261,12 @@ document.addEventListener("click", event => {
   if (open) openCharacter(open.dataset.open);
 });
 
-els.search.addEventListener("input", render);
-els.songSearch.addEventListener("input", renderSongs);
+els.search.addEventListener("input", () => render({ reset: true }));
+els.songSearch.addEventListener("input", () => renderSongs({ reset: true }));
 document.querySelectorAll("[data-filter]").forEach(button => button.addEventListener("click", () => {
   activeFilter = button.dataset.filter;
   document.querySelectorAll("[data-filter]").forEach(item => item.classList.toggle("is-active", item === button));
-  render();
+  render({ reset: true });
 }));
 document.querySelector("#randomButton").addEventListener("click", openRandom);
 document.querySelector("#randomHero").addEventListener("click", openRandom);
@@ -255,7 +276,25 @@ document.querySelector("#resetFilters").addEventListener("click", () => {
   els.search.value = "";
   activeFilter = "all";
   document.querySelectorAll("[data-filter]").forEach(item => item.classList.toggle("is-active", item.dataset.filter === "all"));
+  render({ reset: true });
+});
+els.characterExpand.addEventListener("click", () => {
+  visibleCharacterCount = filteredCharacters().length;
   render();
+});
+els.characterCollapse.addEventListener("click", () => {
+  visibleCharacterCount = CHARACTER_FOLDED_COUNT;
+  render();
+  document.querySelector("#catalog-title").scrollIntoView({ behavior: "smooth", block: "start" });
+});
+els.songExpand.addEventListener("click", () => {
+  visibleSongCount = filteredSongs().length;
+  renderSongs();
+});
+els.songCollapse.addEventListener("click", () => {
+  visibleSongCount = SONG_FOLDED_COUNT;
+  renderSongs();
+  document.querySelector("#song-title").scrollIntoView({ behavior: "smooth", block: "start" });
 });
 
 els.videoSearch.addEventListener("input", () => renderVideos({ reset: true }));

@@ -105,10 +105,9 @@ button { color: inherit; }
 .character-card:hover { transform: translate(-4px, -4px); box-shadow: var(--shadow); }
 .character-thumbnail { position: relative; aspect-ratio: 16 / 9; margin: 0 -24px 18px; overflow: hidden; border-bottom: 2px solid var(--ink); background: #d6d9e1; }
 .character-thumbnail img { width: 100%; height: 100%; display: block; object-fit: cover; transition: transform .2s ease, filter .2s ease; }
-.character-thumbnail > span { position: absolute; left: 12px; bottom: 10px; border: 1px solid white; padding: 3px 8px; background: rgba(23,23,19,.82); color: white; font-size: 10px; font-weight: 950; letter-spacing: .04em; }
 .character-card:hover .character-thumbnail img { transform: scale(1.035); filter: brightness(.9); }
 .character-thumbnail.is-placeholder { display: grid; place-items: center; background: var(--card-color); }
-.character-thumbnail.is-placeholder > span { position: static; border: 0; background: transparent; color: var(--ink); font-size: 46px; }
+.character-thumbnail.is-placeholder > span { color: var(--ink); font-size: 46px; font-weight: 900; }
 .character-thumbnail.is-unavailable img { display: none; }
 .character-thumbnail.is-unavailable::before { content: "サムネイルを表示できません"; position: absolute; inset: 0; display: grid; place-items: center; color: #4c4b44; font-size: 12px; font-weight: 900; }
 .card-top { display: flex; justify-content: space-between; gap: 12px; }
@@ -130,12 +129,11 @@ button { color: inherit; }
 .song-heading { align-items: center; }
 .song-stats strong { color: var(--blue); }
 .song-search { max-width: 720px; margin-bottom: 18px; box-shadow: 5px 5px 0 var(--ink); }
-.song-result-meta { margin: 22px 0; color: #45453f; font-size: 13px; font-weight: 900; }
+.catalog-result-meta, .song-result-meta { margin: 22px 0; color: #45453f; font-size: 13px; font-weight: 900; }
 .song-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
 .song-card { min-height: 460px; display: flex; flex-direction: column; padding: 0 24px 24px; overflow: hidden; border: 2px solid var(--ink); background: white; }
 .song-thumbnail { position: relative; display: block; aspect-ratio: 16 / 9; margin: 0 -24px 18px; overflow: hidden; border-bottom: 2px solid var(--ink); background: #d6d9e1; }
 .song-thumbnail img { width: 100%; height: 100%; display: block; object-fit: cover; transition: transform .2s ease, filter .2s ease; }
-.song-thumbnail span { position: absolute; left: 12px; bottom: 10px; border: 1px solid white; padding: 3px 8px; background: rgba(23,23,19,.82); color: white; font-size: 10px; font-weight: 950; letter-spacing: .04em; }
 .song-thumbnail:hover img, .song-thumbnail:focus-visible img { transform: scale(1.035); filter: brightness(.88); }
 .song-thumbnail.is-unavailable img { display: none; }
 .song-thumbnail.is-unavailable::before { content: "サムネイルを表示できません"; position: absolute; inset: 0; display: grid; place-items: center; color: #4c4b44; font-size: 12px; font-weight: 900; }
@@ -146,6 +144,10 @@ button { color: inherit; }
 .song-card .song-performer { color: var(--blue); font-weight: 900; }
 .song-card .song-title-kind { align-self: flex-start; margin-top: 0; padding: 4px 8px; border: 1px solid var(--ink); background: #eef4ff; color: var(--blue); font-size: 10px; font-weight: 950; }
 .song-link { align-self: flex-start; margin-top: auto; background: var(--ink); color: white; }
+.list-controls { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 34px 0 4px; }
+.list-controls .list-expand { min-width: 250px; background: var(--ink); color: white; }
+.list-controls .list-collapse { min-width: 180px; background: white; }
+.list-controls [hidden] { display: none !important; }
 .copyright-note { margin: 26px 0 0; padding: 14px 18px; border-left: 5px solid var(--orange); background: white; color: var(--muted); font-size: 12px; font-weight: 800; }
 
 .video-section { padding: clamp(70px, 10vw, 140px) clamp(20px, 6vw, 90px); background: #e9efff; border-top: 2px solid var(--ink); }
