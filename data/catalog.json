@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T05:04:16.634Z",
+  "generatedAt": "2026-10-18T05:18:07.435Z",
   "characters": [
     {
       "id": "chara-ban",
@@ -20,6 +20,7 @@
       ],
       "debut": "『チャラ男番長っていう奴』",
       "status": "verified",
+      "facts": [],
       "video": "https://www.youtube.com/watch?v=NE7uHTxUJgM",
       "relatedVideos": [
         {
@@ -51,6 +52,7 @@
       ],
       "debut": "南という大学生が登場するネタ",
       "status": "verified",
+      "facts": [],
       "video": "https://www.youtube.com/watch?v=lXOeDJR5LJc&t=40s",
       "relatedVideos": [
         {
@@ -82,6 +84,7 @@
       ],
       "debut": "神保マオが登場するネタ",
       "status": "verified",
+      "facts": [],
       "video": "https://www.youtube.com/watch?v=AOtvUnalVYc",
       "relatedVideos": [
         {
@@ -113,6 +116,7 @@
       ],
       "debut": "関東人が登場するネタ",
       "status": "verified",
+      "facts": [],
       "video": "https://www.youtube.com/watch?v=GNBUR4xOvJY&t=78s",
       "relatedVideos": [
         {
@@ -144,6 +148,7 @@
       ],
       "debut": "『角刈りの癖にメインになろうとする奴』",
       "status": "verified",
+      "facts": [],
       "video": "https://www.youtube.com/watch?v=HPn5OeRYs6U",
       "relatedVideos": [
         {
@@ -175,6 +180,7 @@
       ],
       "debut": "『独裁者の卵な奴』",
       "status": "verified",
+      "facts": [],
       "video": "https://www.youtube.com/watch?v=pcP0FptwGyI",
       "relatedVideos": [
         {
@@ -206,6 +212,7 @@
       ],
       "debut": "『定期的？って聞く奴』",
       "status": "verified",
+      "facts": [],
       "video": "https://www.youtube.com/watch?v=uuOBSfOAGxE",
       "relatedVideos": [
         {
@@ -237,6 +244,7 @@
       ],
       "debut": "ジャルジャルアイランド内の登場回",
       "status": "verified",
+      "facts": [],
       "video": "https://www.youtube.com/watch?v=Hm0eFTcVEPs&t=978s",
       "relatedVideos": [
         {
@@ -268,6 +276,7 @@
       ],
       "debut": "『裏方ゴミ扱いする奴』",
       "status": "verified",
+      "facts": [],
       "video": "https://www.youtube.com/watch?v=Kz0i2-lxsaU",
       "relatedVideos": [
         {
@@ -277,6 +286,64 @@
           "relation": "featured",
           "timestampSeconds": 0,
           "url": "https://www.youtube.com/watch?v=Kz0i2-lxsaU"
+        }
+      ]
+    },
+    {
+      "id": "wakahage-thankyou",
+      "name": "若ハゲサンキュー",
+      "kana": "わかはげさんきゅー",
+      "aliases": [
+        "若ゲサンキー",
+        "若サンキ"
+      ],
+      "symbol": "若",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#9ed7ff",
+      "summary": "28歳の若ハゲを前面に出したショートコントを披露する芸人キャラ。",
+      "detail": "ネタ番組の面接で『若ハゲサンキュー』と名乗り、若ハゲを生かした短いネタを連続で披露します。審査側は、本人が触れない白髪の方を気にします。",
+      "tags": [
+        "芸人",
+        "面接",
+        "オーディション",
+        "若ハゲ",
+        "28歳"
+      ],
+      "debut": "『若ハゲサンキューっていう芸名の奴』",
+      "facts": [
+        {
+          "label": "芸名",
+          "value": "若ハゲサンキュー",
+          "videoId": "5GCQ1gDU8zk",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5GCQ1gDU8zk"
+        },
+        {
+          "label": "年齢",
+          "value": "28歳",
+          "videoId": "5GCQ1gDU8zk",
+          "timestampSeconds": 19,
+          "url": "https://www.youtube.com/watch?v=5GCQ1gDU8zk&t=19s"
+        },
+        {
+          "label": "人物像",
+          "value": "若ハゲを“天の授かり物”と捉えてネタにしている",
+          "videoId": "5GCQ1gDU8zk",
+          "timestampSeconds": 15,
+          "url": "https://www.youtube.com/watch?v=5GCQ1gDU8zk&t=15s"
+        }
+      ],
+      "status": "verified",
+      "video": "https://www.youtube.com/watch?v=5GCQ1gDU8zk",
+      "relatedVideos": [
+        {
+          "id": "5GCQ1gDU8zk",
+          "title": "１億回記念！本気ネタ！『若ハゲサンキューっていう芸名の奴』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "featured",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5GCQ1gDU8zk"
         }
       ]
     }

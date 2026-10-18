@@ -31,7 +31,7 @@ const escapeHTML = value => String(value).replace(/[&<>'"]/g, char => ({"&":"&am
 function filteredCharacters() {
   const query = normalize(els.search.value);
   return characters.filter(character => {
-    const haystack = normalize([character.name, character.kana, ...(character.aliases || []), character.summary, ...character.tags].join(" "));
+    const haystack = normalize([character.name, character.kana, ...(character.aliases || []), character.summary, ...character.tags, ...(character.facts || []).flatMap(fact => [fact.label, fact.value])].join(" "));
     const matchesQuery = !query || haystack.includes(query);
     const matchesFilter = activeFilter === "all"
       || (activeFilter === "group" && character.entityType === "group")
@@ -75,6 +75,7 @@ function openCharacter(id) {
       </div>
       <p class="dialog-description">${escapeHTML(character.detail)}</p>
       <dl class="dialog-meta"><dt>種別</dt><dd>${character.entityType === "group" ? "コンビ・ユニット" : "キャラクター"}</dd><dt>初登場の目印</dt><dd>${escapeHTML(character.debut)}</dd><dt>掲載方針</dt><dd>公式YouTube動画へのリンク</dd></dl>
+      ${character.facts?.length ? `<div class="fact-list" aria-label="動画内で確認した情報"><h3>動画内で確認した情報</h3>${character.facts.map(fact => `<a href="${escapeHTML(fact.url)}" target="_blank" rel="noopener noreferrer"><strong>${escapeHTML(fact.label)}</strong><span>${escapeHTML(fact.value)}</span><small>該当場面を見る ↗</small></a>`).join("")}</div>` : ""}
       <div class="video-list" aria-label="関連する公式動画">
         <h3>関連する公式動画</h3>
         ${relatedVideos.map((video, index) => `<a class="button video-link" href="${escapeHTML(video.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(video.title || `公式動画 ${index + 1}`)} ↗</a>`).join("")}
