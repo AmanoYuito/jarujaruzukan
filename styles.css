@@ -118,6 +118,21 @@ button { color: inherit; }
 .empty-state { text-align: center; padding: 70px 20px; border: 2px dashed var(--ink); }
 .empty-state strong { font-size: 24px; }
 
+.song-section { padding: clamp(70px, 10vw, 140px) clamp(20px, 6vw, 90px); background: #fff4c7; border-top: 2px solid var(--ink); }
+.song-heading { align-items: center; }
+.song-stats strong { color: var(--blue); }
+.song-search { max-width: 720px; margin-bottom: 18px; box-shadow: 5px 5px 0 var(--ink); }
+.song-result-meta { margin: 22px 0; color: #45453f; font-size: 13px; font-weight: 900; }
+.song-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+.song-card { min-height: 350px; display: flex; flex-direction: column; padding: 24px; border: 2px solid var(--ink); background: white; }
+.song-card-top { display: flex; align-items: center; justify-content: space-between; gap: 14px; }
+.song-note { width: 44px; height: 44px; display: grid; place-items: center; border: 2px solid var(--ink); border-radius: 50%; background: var(--yellow); font-size: 23px; font-weight: 900; }
+.song-card h3 { margin: 26px 0 8px; font-size: 27px; line-height: 1.22; letter-spacing: -.04em; }
+.song-card p { margin: 6px 0 14px; color: #4c4b44; font-size: 14px; font-weight: 650; }
+.song-card .song-performer { color: var(--blue); font-weight: 900; }
+.song-link { align-self: flex-start; margin-top: auto; background: var(--ink); color: white; }
+.copyright-note { margin: 26px 0 0; padding: 14px 18px; border-left: 5px solid var(--orange); background: white; color: var(--muted); font-size: 12px; font-weight: 800; }
+
 .video-section { padding: clamp(70px, 10vw, 140px) clamp(20px, 6vw, 90px); background: #e9efff; border-top: 2px solid var(--ink); }
 .video-heading { align-items: center; }
 .section-lead { max-width: 650px; margin: 18px 0 0; color: #45453f; font-weight: 700; }
@@ -198,6 +213,7 @@ dialog::backdrop { background: rgba(23,23,19,.72); backdrop-filter: blur(4px); }
   .search-panel { grid-template-columns: 1fr; }
   .video-search-panel { grid-template-columns: 1fr; }
   .catalog-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .song-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .video-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 640px) {
@@ -213,6 +229,7 @@ dialog::backdrop { background: rgba(23,23,19,.72); backdrop-filter: blur(4px); }
   .section-heading { align-items: flex-start; }
   .stats { flex-direction: column; gap: 0; }
   .catalog-grid { grid-template-columns: 1fr; }
+  .song-grid { grid-template-columns: 1fr; }
   .video-grid { grid-template-columns: 1fr; }
   .guide-grid { grid-template-columns: 1fr; }
   .about-section { grid-template-columns: 1fr; }

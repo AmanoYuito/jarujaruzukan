@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-18T06:15:21.663Z",
+  "total": 7,
+  "songs": [
+    {
+      "id": "yowakaran",
+      "title": "よーわからん",
+      "performer": "ジャルジャル",
+      "channel": "tower",
+      "videoId": "K5fuU5eEpqA",
+      "timestampSeconds": 0,
+      "summary": "公式動画タイトルで曲名が確認できる即興ソング。",
+      "tags": [
+        "即興ソング"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "即興ソング『よーわからん』",
+      "publishedAt": "2015-07-21T10:00:00Z",
+      "url": "https://www.youtube.com/watch?v=K5fuU5eEpqA"
+    },
+    {
+      "id": "typhoon-blue-umbrella",
+      "title": "台風１号２号が来るから青い青い傘を買う",
+      "performer": "ジャルジャル",
+      "channel": "tower",
+      "videoId": "wwQ74JNCifk",
+      "timestampSeconds": 0,
+      "summary": "公式動画タイトルで曲名が確認できる即興ソング。",
+      "tags": [
+        "即興ソング"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "即興ソング『台風１号２号が来るから青い青い傘を買う』",
+      "publishedAt": "2015-07-22T10:00:02Z",
+      "url": "https://www.youtube.com/watch?v=wwQ74JNCifk"
+    },
+    {
+      "id": "katakana-move",
+      "title": "カタカナだらけのMOVE",
+      "performer": "MINMIとジャルジャル",
+      "channel": "tower",
+      "videoId": "DTMm0QPVnew",
+      "timestampSeconds": 0,
+      "summary": "公式動画タイトルで曲名と共演者が確認できる即興ソング。",
+      "tags": [
+        "即興ソング",
+        "コラボ"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "MINMIIと即興ソング『カタカナだらけのMOVE』",
+      "publishedAt": "2015-08-16T10:00:01Z",
+      "url": "https://www.youtube.com/watch?v=DTMm0QPVnew"
+    },
+    {
+      "id": "osaka-ninja",
+      "title": "大阪らしい忍者",
+      "performer": "MINMIとジャルジャル",
+      "channel": "tower",
+      "videoId": "yOpjtdSrvlU",
+      "timestampSeconds": 0,
+      "summary": "公式動画タイトルで曲名と共演者が確認できる即興ソング。",
+      "tags": [
+        "即興ソング",
+        "コラボ"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "MINMIと即興ソング『大阪らしい忍者』",
+      "publishedAt": "2015-08-17T10:00:04Z",
+      "url": "https://www.youtube.com/watch?v=yOpjtdSrvlU"
+    },
+    {
+      "id": "eco-song",
+      "title": "ECOの歌",
+      "performer": "学園祭で歌う高校生",
+      "channel": "tower",
+      "videoId": "5jHME8RYscg",
+      "timestampSeconds": 28,
+      "summary": "ゴミの分別と未来への意識を題材にした歌。曲名は作中の呼ばれ方を掲載しています。",
+      "tags": [
+        "高校生",
+        "学園祭",
+        "環境"
+      ],
+      "evidence": "title_and_transcript",
+      "status": "verified",
+      "videoTitle": "ジャルジャルのネタのタネ『高校生のくせにECOの歌つくる奴』【JARUJARUTOWER】",
+      "publishedAt": "2018-03-07T09:00:00Z",
+      "url": "https://www.youtube.com/watch?v=5jHME8RYscg&t=28s"
+    },
+    {
+      "id": "ikky-gyahha",
+      "title": "イッキーギャッハ",
+      "performer": "流しのミュージシャン",
+      "channel": "tower",
+      "videoId": "wixBbDdnpoQ",
+      "timestampSeconds": 0,
+      "summary": "流しのミュージシャンの持ち曲として公式動画タイトルに登場する楽曲。",
+      "tags": [
+        "持ち曲",
+        "ミュージシャン"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "『流しのミュージシャンの持ち曲“イッキーギャッハ”歌う奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+      "publishedAt": "2024-05-16T09:00:57Z",
+      "url": "https://www.youtube.com/watch?v=wixBbDdnpoQ"
+    },
+    {
+      "id": "tamaura-hekokirhapsody",
+      "title": "玉裏屁こきラプソディー",
+      "performer": "動画内の歌手",
+      "channel": "tower",
+      "videoId": "8_uFIq8YskE",
+      "timestampSeconds": 0,
+      "summary": "公式動画タイトルで曲名が確認できる、下品な題名の楽曲。",
+      "tags": [
+        "楽曲",
+        "タイトル判明"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "『下品な曲「玉裏屁こきラプソディー」聴いてもうた奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+      "publishedAt": "2024-06-10T09:00:14Z",
+      "url": "https://www.youtube.com/watch?v=8_uFIq8YskE"
+    }
+  ]
+}

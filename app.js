@@ -1,6 +1,7 @@
 let characters = [];
 let videos = [];
 let videoTopics = [];
+let songs = [];
 
 const els = {
   grid: document.querySelector("#characterGrid"),
@@ -16,7 +17,12 @@ const els = {
   videoGrid: document.querySelector("#videoGrid"),
   videoEmpty: document.querySelector("#videoEmpty"),
   videoLoadMore: document.querySelector("#videoLoadMore"),
-  topicFilters: document.querySelector("#topicFilters")
+  topicFilters: document.querySelector("#topicFilters"),
+  songSearch: document.querySelector("#songSearchInput"),
+  songTotal: document.querySelector("#songTotal"),
+  songResultMeta: document.querySelector("#songResultMeta"),
+  songGrid: document.querySelector("#songGrid"),
+  songEmpty: document.querySelector("#songEmpty")
 };
 
 let activeFilter = "all";
@@ -88,6 +94,33 @@ function openCharacter(id) {
 function openRandom() {
   const pool = filteredCharacters().length ? filteredCharacters() : characters;
   openCharacter(pool[Math.floor(Math.random() * pool.length)].id);
+}
+
+function filteredSongs() {
+  const query = normalize(els.songSearch.value);
+  return songs.filter(song => {
+    const haystack = normalize([song.title, song.performer, song.summary, ...(song.tags || []), song.videoTitle].join(" "));
+    return !query || haystack.includes(query);
+  });
+}
+
+function renderSongs() {
+  const matches = filteredSongs();
+  els.songResultMeta.textContent = `${matches.length.toLocaleString("ja-JP")}曲が該当`;
+  els.songEmpty.hidden = matches.length !== 0;
+  els.songGrid.innerHTML = matches.map(song => `
+    <article class="song-card">
+      <div class="song-card-top">
+        <span class="video-channel ${song.channel}">${song.channel === "island" ? "ISLAND" : "TOWER"}</span>
+        <span class="song-note">♪</span>
+      </div>
+      <h3>${escapeHTML(song.title)}</h3>
+      <p class="song-performer">歌う人物：${escapeHTML(song.performer)}</p>
+      <p>${escapeHTML(song.summary)}</p>
+      <div class="tag-list">${(song.tags || []).map(tag => `<span class="tag">#${escapeHTML(tag)}</span>`).join("")}</div>
+      <a class="button song-link" href="${escapeHTML(song.url)}" target="_blank" rel="noopener noreferrer">公式動画で聴く ↗</a>
+    </article>
+  `).join("");
 }
 
 function filteredVideos() {
@@ -168,6 +201,7 @@ document.addEventListener("click", event => {
 });
 
 els.search.addEventListener("input", render);
+els.songSearch.addEventListener("input", renderSongs);
 document.querySelectorAll("[data-filter]").forEach(button => button.addEventListener("click", () => {
   activeFilter = button.dataset.filter;
   document.querySelectorAll("[data-filter]").forEach(item => item.classList.toggle("is-active", item === button));
@@ -210,22 +244,27 @@ els.videoLoadMore.addEventListener("click", () => {
 
 async function init() {
   try {
-    const [catalogResponse, videosResponse] = await Promise.all([
+    const [catalogResponse, videosResponse, songsResponse] = await Promise.all([
       fetch("data/catalog.json", { cache: "no-cache" }),
-      fetch("data/videos.json", { cache: "no-cache" })
+      fetch("data/videos.json", { cache: "no-cache" }),
+      fetch("data/songs.json", { cache: "no-cache" })
     ]);
     if (!catalogResponse.ok) throw new Error(`catalog ${catalogResponse.status}`);
     if (!videosResponse.ok) throw new Error(`videos ${videosResponse.status}`);
-    const [data, videoData] = await Promise.all([catalogResponse.json(), videosResponse.json()]);
+    if (!songsResponse.ok) throw new Error(`songs ${songsResponse.status}`);
+    const [data, videoData, songData] = await Promise.all([catalogResponse.json(), videosResponse.json(), songsResponse.json()]);
     characters = [
       ...data.characters.map(character => ({ ...character, entityType: "character" })),
       ...data.groups.map(group => ({ ...group, entityType: "group" }))
     ];
     videos = videoData.videos;
     videoTopics = videoData.topics;
+    songs = songData.songs;
     els.videoTotal.textContent = videoData.total.toLocaleString("ja-JP");
+    els.songTotal.textContent = songData.total.toLocaleString("ja-JP");
     renderTopicFilters();
     render();
+    renderSongs();
     renderVideos();
   } catch (error) {
     console.error("図鑑データの読み込みに失敗しました", error);
@@ -233,6 +272,7 @@ async function init() {
     els.empty.hidden = false;
     els.empty.querySelector("strong").textContent = "図鑑データを読み込めませんでした";
     els.videoResultMeta.textContent = "動画データを読み込めませんでした";
+    els.songResultMeta.textContent = "楽曲データを読み込めませんでした";
   }
 }
 

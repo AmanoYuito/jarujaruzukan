@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T05:43:19.802Z",
+  "generatedAt": "2026-10-18T06:15:21.598Z",
   "characters": [
     {
       "id": "chara-ban",
@@ -186,70 +186,6 @@
       ]
     },
     {
-      "id": "dokusai-tamago",
-      "name": "独裁者の卵",
-      "kana": "どくさいしゃのたまご",
-      "aliases": [],
-      "symbol": "卵",
-      "channel": "tower",
-      "channelLabel": "TOWER",
-      "color": "#d0b7ff",
-      "summary": "日常の中に、将来の独裁者らしさがにじみ出てしまう危うい奴。",
-      "detail": "小さな言動から大きな人物像を想像させる、タイトル通りの強烈なキャラクターです。",
-      "tags": [
-        "異様",
-        "権力",
-        "日常",
-        "後藤"
-      ],
-      "debut": "『独裁者の卵な奴』",
-      "status": "verified",
-      "facts": [],
-      "video": "https://www.youtube.com/watch?v=pcP0FptwGyI",
-      "relatedVideos": [
-        {
-          "id": "pcP0FptwGyI",
-          "title": "【隠し撮り】独裁者の卵な奴の決定的瞬間【日常撮る奴】",
-          "channel": "tower",
-          "relation": "featured",
-          "timestampSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=pcP0FptwGyI"
-        }
-      ]
-    },
-    {
-      "id": "teikiteki",
-      "name": "定期的？って聞く奴",
-      "kana": "ていきてきってきくやつ",
-      "aliases": [],
-      "symbol": "定",
-      "channel": "tower",
-      "channelLabel": "TOWER",
-      "color": "#8be0dd",
-      "summary": "会話のたびに“定期的かどうか”が気になってしまう、質問のクセが強い奴。",
-      "detail": "一つの言葉へのこだわりだけで会話を予想外の方向へ運ぶ、反復系のキャラクターです。",
-      "tags": [
-        "質問",
-        "口癖",
-        "会話",
-        "シリーズ"
-      ],
-      "debut": "『定期的？って聞く奴』",
-      "status": "verified",
-      "facts": [],
-      "video": "https://www.youtube.com/watch?v=uuOBSfOAGxE",
-      "relatedVideos": [
-        {
-          "id": "uuOBSfOAGxE",
-          "title": "『「定期的？」って聞く奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
-          "channel": "tower",
-          "relation": "featured",
-          "timestampSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=uuOBSfOAGxE"
-        }
-      ]
-    },
-    {
       "id": "okintama-dekao",
       "name": "おきんたまでか男",
       "kana": "おきんたまでかお",
@@ -278,38 +214,6 @@
           "relation": "featured",
           "timestampSeconds": 978,
           "url": "https://www.youtube.com/watch?v=Hm0eFTcVEPs&t=978s"
-        }
-      ]
-    },
-    {
-      "id": "urakata-gomi",
-      "name": "裏方ゴミ扱いする奴",
-      "kana": "うらかたごみあつかいするやつ",
-      "aliases": [],
-      "symbol": "裏",
-      "channel": "tower",
-      "channelLabel": "TOWER",
-      "color": "#c6db67",
-      "summary": "表舞台と裏方で態度を変え、現場の空気を一気に悪くする厄介な奴。",
-      "detail": "仕事現場の嫌なリアルさを極端にしたキャラクター。周囲との力関係が見どころです。",
-      "tags": [
-        "業界人",
-        "裏方",
-        "失礼",
-        "現場"
-      ],
-      "debut": "『裏方ゴミ扱いする奴』",
-      "status": "verified",
-      "facts": [],
-      "video": "https://www.youtube.com/watch?v=Kz0i2-lxsaU",
-      "relatedVideos": [
-        {
-          "id": "Kz0i2-lxsaU",
-          "title": "『裏方をゴミ扱いする奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
-          "channel": "tower",
-          "relation": "featured",
-          "timestampSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Kz0i2-lxsaU"
         }
       ]
     },
@@ -425,63 +329,6 @@
           "relation": "featured",
           "timestampSeconds": 0,
           "url": "https://www.youtube.com/watch?v=MT2wtU_UeQo"
-        }
-      ]
-    },
-    {
-      "id": "sanryu-daigakusei",
-      "name": "記者会見する三流大学生",
-      "kana": "きしゃかいけんするさんりゅうだいがくせい",
-      "aliases": [
-        "三流大学生"
-      ],
-      "symbol": "会",
-      "channel": "tower",
-      "channelLabel": "TOWER",
-      "color": "#ffd58e",
-      "summary": "報道陣を集めて記者会見を開き、大学生へ行動を呼びかける奴。",
-      "detail": "自分を三流大学に通う大学生と説明し、FAXで報道陣を集めて重大発表の記者会見を開きます。大勢が移動や会場にお金を使うことを例に、大学生へ行動を起こそうと訴えます。",
-      "tags": [
-        "大学生",
-        "記者会見",
-        "FAX",
-        "報道陣",
-        "演説"
-      ],
-      "debut": "『記者会見する三流大学生の奴』",
-      "facts": [
-        {
-          "label": "立場",
-          "value": "三流大学に通う大学生",
-          "videoId": "kM0GhVdJ_Bs",
-          "timestampSeconds": 14,
-          "url": "https://www.youtube.com/watch?v=kM0GhVdJ_Bs&t=14s"
-        },
-        {
-          "label": "行動",
-          "value": "FAXで報道陣を集めて記者会見を開く",
-          "videoId": "kM0GhVdJ_Bs",
-          "timestampSeconds": 18,
-          "url": "https://www.youtube.com/watch?v=kM0GhVdJ_Bs&t=18s"
-        },
-        {
-          "label": "主張",
-          "value": "大学生に行動してお金を使おうと呼びかける",
-          "videoId": "kM0GhVdJ_Bs",
-          "timestampSeconds": 64,
-          "url": "https://www.youtube.com/watch?v=kM0GhVdJ_Bs&t=64s"
-        }
-      ],
-      "status": "verified",
-      "video": "https://www.youtube.com/watch?v=kM0GhVdJ_Bs",
-      "relatedVideos": [
-        {
-          "id": "kM0GhVdJ_Bs",
-          "title": "ジャルジャルのネタのタネ『記者会見する三流大学生の奴』【JARUJARUTOWER】",
-          "channel": "tower",
-          "relation": "featured",
-          "timestampSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=kM0GhVdJ_Bs"
         }
       ]
     }
