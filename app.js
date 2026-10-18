@@ -44,25 +44,25 @@ const normalize = value => value.toLowerCase().normalize("NFKC").replace(/\s/g, 
 const escapeHTML = value => String(value).replace(/[&<>'"]/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[char]));
 const thumbnailUrl = videoId => `https://i.ytimg.com/vi/${encodeURIComponent(videoId)}/hqdefault.jpg`;
 
-const mobileNavLinks = [...document.querySelectorAll(".mobile-nav a")];
-const mobileNavSections = mobileNavLinks.map(link => document.querySelector(link.getAttribute("href"))).filter(Boolean);
-let mobileNavFrame = 0;
+const quickNavLinks = [...document.querySelectorAll(".quick-nav a")];
+const quickNavSections = quickNavLinks.map(link => document.querySelector(link.getAttribute("href"))).filter(Boolean);
+let quickNavFrame = 0;
 
-function updateMobileNav() {
-  mobileNavFrame = 0;
+function updateQuickNav() {
+  quickNavFrame = 0;
   const marker = window.scrollY + window.innerHeight * .38;
-  const reachedSections = mobileNavSections.filter(section => section.offsetTop <= marker);
-  const active = reachedSections[reachedSections.length - 1];
-  mobileNavLinks.forEach(link => {
+  const reachedSections = quickNavSections.filter(section => section.offsetTop <= marker);
+  const active = reachedSections.reduce((latest, section) => !latest || section.offsetTop > latest.offsetTop ? section : latest, null);
+  quickNavLinks.forEach(link => {
     const selected = active && link.getAttribute("href") === `#${active.id}`;
     selected ? link.setAttribute("aria-current", "page") : link.removeAttribute("aria-current");
   });
 }
 
 window.addEventListener("scroll", () => {
-  if (!mobileNavFrame) mobileNavFrame = requestAnimationFrame(updateMobileNav);
+  if (!quickNavFrame) quickNavFrame = requestAnimationFrame(updateQuickNav);
 }, { passive: true });
-window.addEventListener("resize", updateMobileNav);
+window.addEventListener("resize", updateQuickNav);
 
 function filteredCharacters() {
   const query = normalize(els.search.value);
@@ -270,6 +270,18 @@ function updateVideoFilters() {
 }
 
 document.addEventListener("click", event => {
+  const sectionJump = event.target.closest("[data-section-jump]");
+  if (sectionJump) {
+    const section = document.querySelector(sectionJump.dataset.sectionJump);
+    els.dialog.close();
+    if (section) {
+      history.replaceState(null, "", sectionJump.dataset.sectionJump);
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => section.scrollIntoView({ behavior: "smooth", block: "start" }));
+      });
+    }
+    return;
+  }
   const favorite = event.target.closest("[data-favorite]");
   if (favorite) {
     event.stopPropagation();
@@ -367,7 +379,15 @@ async function init() {
     render();
     renderSongs();
     renderVideos();
-    updateMobileNav();
+    const initialSection = document.getElementById(location.hash.slice(1));
+    if (initialSection) {
+      requestAnimationFrame(() => {
+        initialSection.scrollIntoView({ block: "start" });
+        updateQuickNav();
+      });
+    } else {
+      updateQuickNav();
+    }
   } catch (error) {
     console.error("図鑑データの読み込みに失敗しました", error);
     els.count.textContent = "0";

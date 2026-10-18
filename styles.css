@@ -15,6 +15,7 @@
 html { scroll-behavior: smooth; }
 body {
   margin: 0;
+  padding-bottom: 100px;
   color: var(--ink);
   background: var(--paper);
   font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
@@ -47,7 +48,28 @@ button { color: inherit; }
 .brand-mark { display: grid; place-items: center; width: 40px; height: 40px; background: var(--yellow); border: 2px solid var(--ink); border-radius: 50%; font-weight: 900; }
 .site-header nav { display: flex; gap: 24px; font-size: 14px; font-weight: 800; }
 .site-header nav a { text-decoration-thickness: 2px; text-underline-offset: 5px; }
-.mobile-nav { display: none; }
+.quick-nav {
+  position: fixed;
+  z-index: 60;
+  left: 50%;
+  bottom: 18px;
+  width: min(560px, calc(100% - 32px));
+  min-height: 64px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5px;
+  padding: 6px;
+  border: 2px solid var(--ink);
+  border-radius: 18px;
+  background: rgba(255, 253, 245, .97);
+  box-shadow: 6px 6px 0 var(--ink);
+  backdrop-filter: blur(14px);
+  transform: translateX(-50%);
+}
+.quick-nav a { min-height: 48px; display: flex; align-items: center; justify-content: center; gap: 8px; border-radius: 11px; padding: 6px 12px; font-size: 13px; font-weight: 950; text-decoration: none; }
+.quick-nav a:active, .quick-nav a:focus-visible { background: var(--yellow); outline: 2px solid var(--ink); }
+.quick-nav a[aria-current="page"] { background: var(--yellow); box-shadow: inset 0 0 0 2px var(--ink); }
+.quick-nav span { font-size: 18px; line-height: 1; }
 .catalog-section, .song-section, .video-section, .about-section { scroll-margin-top: 76px; }
 
 .hero {
@@ -218,6 +240,9 @@ footer p { margin: 7px 0; color: var(--muted); font-size: 13px; }
 
 dialog { width: min(680px, calc(100% - 28px)); max-height: calc(100vh - 34px); overflow: auto; border: 3px solid var(--ink); padding: 0; background: var(--paper); box-shadow: 12px 12px 0 rgba(0,0,0,.38); }
 dialog::backdrop { background: rgba(23,23,19,.72); backdrop-filter: blur(4px); }
+.dialog-quick-nav { position: sticky; z-index: 3; bottom: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; padding: 7px; border-top: 2px solid var(--ink); background: rgba(255,253,245,.97); backdrop-filter: blur(12px); }
+.dialog-quick-nav button { min-height: 48px; border: 0; background: var(--ink); color: white; font-size: 12px; font-weight: 950; cursor: pointer; }
+.dialog-quick-nav button:hover, .dialog-quick-nav button:focus-visible { background: var(--blue); }
 .dialog-close { position: sticky; float: right; top: 16px; right: 16px; z-index: 2; width: 44px; height: 44px; border: 2px solid var(--ink); border-radius: 50%; background: white; font-size: 27px; cursor: pointer; }
 .dialog-body { padding: 34px; }
 .dialog-hero { display: flex; align-items: center; gap: 22px; padding-bottom: 25px; border-bottom: 2px solid var(--ink); }
@@ -311,7 +336,7 @@ dialog::backdrop { background: rgba(23,23,19,.72); backdrop-filter: blur(4px); }
   .guide-grid article { padding: 24px; }
   .about-section { grid-template-columns: 1fr; }
   footer { padding: 38px 18px; }
-  .mobile-nav {
+  .quick-nav {
     position: fixed;
     z-index: 60;
     left: 0;
@@ -319,20 +344,24 @@ dialog::backdrop { background: rgba(23,23,19,.72); backdrop-filter: blur(4px); }
     bottom: 0;
     min-height: calc(64px + env(safe-area-inset-bottom));
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     padding: 5px 8px calc(5px + env(safe-area-inset-bottom));
     border-top: 2px solid var(--ink);
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    border-radius: 0;
     background: rgba(255, 253, 245, .97);
     box-shadow: 0 -7px 18px rgba(23,23,19,.12);
     backdrop-filter: blur(14px);
+    transform: none;
   }
-  .mobile-nav a { min-height: 52px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1px; border-radius: 9px; font-size: 10px; font-weight: 900; text-decoration: none; }
-  .mobile-nav a:active, .mobile-nav a:focus-visible { background: var(--yellow); outline: 2px solid var(--ink); }
-  .mobile-nav a[aria-current="page"] { background: var(--yellow); box-shadow: inset 0 0 0 2px var(--ink); }
-  .mobile-nav span { font-size: 18px; line-height: 1.15; }
+  .quick-nav a { min-height: 52px; flex-direction: column; gap: 1px; padding: 3px 4px; border-radius: 9px; font-size: 10px; }
+  .quick-nav span { font-size: 18px; line-height: 1.15; }
   dialog { width: 100%; max-width: none; max-height: 92dvh; margin: auto 0 0; border: 3px solid var(--ink); border-width: 3px 0 0; border-radius: 22px 22px 0 0; box-shadow: 0 -10px 30px rgba(0,0,0,.32); }
   .dialog-close { top: 12px; right: 12px; width: 48px; height: 48px; }
   .dialog-body { padding: 20px 18px calc(26px + env(safe-area-inset-bottom)); }
+  .dialog-quick-nav { padding-bottom: calc(7px + env(safe-area-inset-bottom)); }
   .dialog-hero { align-items: flex-start; flex-direction: column; }
   .dialog-hero .character-symbol { width: 76px; height: 76px; font-size: 30px; }
   .dialog-hero h2 { font-size: 36px; }

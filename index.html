@@ -18,7 +18,7 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="stylesheet" href="styles.css?v=18">
+  <link rel="stylesheet" href="styles.css?v=20">
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -41,9 +41,9 @@
       <small>UNOFFICIAL</small>
     </a>
     <nav aria-label="メインメニュー">
-      <a href="#catalog">図鑑</a>
-      <a href="#songs">歌・曲</a>
-      <a href="#videos">動画テーマ</a>
+      <a href="#catalog">キャラ図鑑</a>
+      <a href="#videos">全ての動画</a>
+      <a href="#songs">曲</a>
       <a href="#about">このサイトについて</a>
     </nav>
   </header>
@@ -217,19 +217,23 @@
     </p>
   </footer>
 
-  <nav class="mobile-nav" aria-label="スマホ用メニュー">
-    <a href="#catalog"><span aria-hidden="true">奴</span>図鑑</a>
+  <nav class="quick-nav" aria-label="主要メニュー">
+    <a href="#catalog"><span aria-hidden="true">奴</span>キャラ図鑑</a>
+    <a href="#videos"><span aria-hidden="true">▶</span>全ての動画</a>
     <a href="#songs"><span aria-hidden="true">♪</span>曲</a>
-    <a href="#videos"><span aria-hidden="true">▶</span>動画</a>
-    <a href="#about"><span aria-hidden="true">ⓘ</span>案内</a>
   </nav>
 
   <dialog id="characterDialog" aria-labelledby="dialogTitle">
     <button class="dialog-close" id="dialogClose" type="button" aria-label="閉じる">×</button>
     <div id="dialogContent"></div>
+    <nav class="dialog-quick-nav" aria-label="詳細画面から移動">
+      <button type="button" data-section-jump="#catalog">キャラ図鑑</button>
+      <button type="button" data-section-jump="#videos">全ての動画</button>
+      <button type="button" data-section-jump="#songs">曲</button>
+    </nav>
   </dialog>
 
   <noscript>この図鑑の検索機能を使うにはJavaScriptを有効にしてください。</noscript>
-  <script src="app.js?v=18" defer></script>
+  <script src="app.js?v=20" defer></script>
 </body>
 </html>
