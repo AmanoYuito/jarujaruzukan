@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T05:18:07.435Z",
+  "generatedAt": "2026-10-18T05:22:49.948Z",
   "characters": [
     {
       "id": "chara-ban",
@@ -62,6 +62,30 @@
           "relation": "featured",
           "timestampSeconds": 40,
           "url": "https://www.youtube.com/watch?v=lXOeDJR5LJc&t=40s"
+        },
+        {
+          "id": "DsyW7dBpp08",
+          "title": "『南っていう奴〜バイトの面接〜』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "featured",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=DsyW7dBpp08"
+        },
+        {
+          "id": "LD_pdXtZiBc",
+          "title": "『オレオレ詐欺の電話かかってくる南って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "featured",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=LD_pdXtZiBc"
+        },
+        {
+          "id": "N5kqPXc2l0o",
+          "title": "『南っていう奴〜店予約電話〜』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "featured",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=N5kqPXc2l0o"
         }
       ]
     },
@@ -344,6 +368,120 @@
           "relation": "featured",
           "timestampSeconds": 0,
           "url": "https://www.youtube.com/watch?v=5GCQ1gDU8zk"
+        }
+      ]
+    },
+    {
+      "id": "hensei-taro",
+      "name": "変声太郎",
+      "kana": "へんせいたろう",
+      "aliases": [
+        "変声タロー"
+      ],
+      "symbol": "声",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#d5b7ff",
+      "summary": "生まれた時からの高い声を武器に、ショートコントを披露する芸人キャラ。",
+      "detail": "ネタ見せの場で『変声太郎』と名乗り、ヘリウムガスを題材にしたショートコントを披露します。本人は作った声ではなく、生まれた時からの声だと説明します。",
+      "tags": [
+        "芸人",
+        "ネタ見せ",
+        "オーディション",
+        "声",
+        "芸名"
+      ],
+      "debut": "『変声太郎っていう芸名の奴』",
+      "facts": [
+        {
+          "label": "芸名",
+          "value": "変声太郎",
+          "videoId": "MT2wtU_UeQo",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=MT2wtU_UeQo"
+        },
+        {
+          "label": "声",
+          "value": "本人いわく、生まれた時からこの声",
+          "videoId": "MT2wtU_UeQo",
+          "timestampSeconds": 6,
+          "url": "https://www.youtube.com/watch?v=MT2wtU_UeQo&t=6s"
+        },
+        {
+          "label": "芸風",
+          "value": "声を生かしたショートコントを披露する",
+          "videoId": "MT2wtU_UeQo",
+          "timestampSeconds": 11,
+          "url": "https://www.youtube.com/watch?v=MT2wtU_UeQo&t=11s"
+        }
+      ],
+      "status": "verified",
+      "video": "https://www.youtube.com/watch?v=MT2wtU_UeQo",
+      "relatedVideos": [
+        {
+          "id": "MT2wtU_UeQo",
+          "title": "ジャルジャルのネタのタネ『変声太郎っていう芸名の奴』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "featured",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=MT2wtU_UeQo"
+        }
+      ]
+    },
+    {
+      "id": "sanryu-daigakusei",
+      "name": "記者会見する三流大学生",
+      "kana": "きしゃかいけんするさんりゅうだいがくせい",
+      "aliases": [
+        "三流大学生"
+      ],
+      "symbol": "会",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#ffd58e",
+      "summary": "報道陣を集めて記者会見を開き、大学生へ行動を呼びかける奴。",
+      "detail": "自分を三流大学に通う大学生と説明し、FAXで報道陣を集めて重大発表の記者会見を開きます。大勢が移動や会場にお金を使うことを例に、大学生へ行動を起こそうと訴えます。",
+      "tags": [
+        "大学生",
+        "記者会見",
+        "FAX",
+        "報道陣",
+        "演説"
+      ],
+      "debut": "『記者会見する三流大学生の奴』",
+      "facts": [
+        {
+          "label": "立場",
+          "value": "三流大学に通う大学生",
+          "videoId": "kM0GhVdJ_Bs",
+          "timestampSeconds": 14,
+          "url": "https://www.youtube.com/watch?v=kM0GhVdJ_Bs&t=14s"
+        },
+        {
+          "label": "行動",
+          "value": "FAXで報道陣を集めて記者会見を開く",
+          "videoId": "kM0GhVdJ_Bs",
+          "timestampSeconds": 18,
+          "url": "https://www.youtube.com/watch?v=kM0GhVdJ_Bs&t=18s"
+        },
+        {
+          "label": "主張",
+          "value": "大学生に行動してお金を使おうと呼びかける",
+          "videoId": "kM0GhVdJ_Bs",
+          "timestampSeconds": 64,
+          "url": "https://www.youtube.com/watch?v=kM0GhVdJ_Bs&t=64s"
+        }
+      ],
+      "status": "verified",
+      "video": "https://www.youtube.com/watch?v=kM0GhVdJ_Bs",
+      "relatedVideos": [
+        {
+          "id": "kM0GhVdJ_Bs",
+          "title": "ジャルジャルのネタのタネ『記者会見する三流大学生の奴』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "featured",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=kM0GhVdJ_Bs"
         }
       ]
     }
