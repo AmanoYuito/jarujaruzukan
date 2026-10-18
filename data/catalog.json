@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:37:53.615Z",
+  "generatedAt": "2026-10-18T06:49:18.424Z",
   "characters": [
     {
       "id": "chara-ban",
@@ -30,22 +30,6 @@
           "relation": "featured",
           "timestampSeconds": 0,
           "url": "https://www.youtube.com/watch?v=NE7uHTxUJgM"
-        },
-        {
-          "id": "rysnxWSOMss",
-          "title": "【ネクストブレイクの予感！】チャラ男番長見参！！",
-          "channel": "tower",
-          "relation": "official_title_match",
-          "timestampSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=rysnxWSOMss"
-        },
-        {
-          "id": "ElZ8LZ5u_60",
-          "title": "チャラ男番長のやり方を教えチャラ男～！！！",
-          "channel": "tower",
-          "relation": "official_title_match",
-          "timestampSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=ElZ8LZ5u_60"
         },
         {
           "id": "5cDANCumoxU",
@@ -640,14 +624,6 @@
           "url": "https://www.youtube.com/watch?v=gdXuCwhmPFY"
         },
         {
-          "id": "eb2fx0CBD_Y",
-          "title": "『南くん聞き取れる奴 パート2』【JARUJARUTOWER】",
-          "channel": "tower",
-          "relation": "official_title_match",
-          "timestampSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=eb2fx0CBD_Y"
-        },
-        {
           "id": "PREPzKlCrkc",
           "title": "『南くん聞き取れる奴 パート3』ジャルジャルのネタのタネ【JARUJARUTOWER】",
           "channel": "tower",
@@ -798,14 +774,6 @@
           "relation": "official_title_match",
           "timestampSeconds": 0,
           "url": "https://www.youtube.com/watch?v=V6IZWsEi1sQ"
-        },
-        {
-          "id": "moCoQuzSOrI",
-          "title": "『リモートネタ合わせするツッコミ下手な関東人な奴』",
-          "channel": "tower",
-          "relation": "official_title_match",
-          "timestampSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=moCoQuzSOrI"
         },
         {
           "id": "4URtVEWL194",
@@ -1000,14 +968,6 @@
           "url": "https://www.youtube.com/watch?v=KnCUKPzU4zU"
         },
         {
-          "id": "THK-Q89rrAw",
-          "title": "『角刈りのくせにリモートでもクラスのメインになろうとする奴』",
-          "channel": "tower",
-          "relation": "official_title_match",
-          "timestampSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=THK-Q89rrAw"
-        },
-        {
           "id": "u9n6B1BSczE",
           "title": "『角刈りの角さんな奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
           "channel": "tower",
@@ -1173,17 +1133,8 @@
       "debut": "ジャルジャルアイランド内の登場回",
       "status": "verified",
       "facts": [],
-      "video": "https://www.youtube.com/watch?v=Hm0eFTcVEPs&t=978s",
-      "relatedVideos": [
-        {
-          "id": "Hm0eFTcVEPs",
-          "title": "『リモート面接でめっちゃふざける奴』",
-          "channel": "island",
-          "relation": "featured",
-          "timestampSeconds": 978,
-          "url": "https://www.youtube.com/watch?v=Hm0eFTcVEPs&t=978s"
-        }
-      ]
+      "video": "",
+      "relatedVideos": []
     },
     {
       "id": "wakahage-thankyou",
@@ -1323,6 +1274,1956 @@
           "url": "https://www.youtube.com/watch?v=8ECsFTheK30"
         }
       ]
+    },
+    {
+      "id": "hadatsuya-yoshi",
+      "name": "肌つやよし",
+      "kana": "はだつやよし",
+      "aliases": [],
+      "symbol": "肌",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#f6ca2f",
+      "summary": "名前そのものが見た目の印象になっている、肌つやの良さが際立つ奴。",
+      "detail": "公式動画タイトルで『肌つやよし』という名前が確認できるキャラクターです。",
+      "sketchStyle": "肌つやの良さと名前の響きを軸に、人物の第一印象を大きく膨らませるネタ。",
+      "tags": [
+        "名前",
+        "見た目",
+        "人物ネタ"
+      ],
+      "debut": "『肌つやよしって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=NjW6plAy5Qc",
+      "relatedVideos": [
+        {
+          "id": "NjW6plAy5Qc",
+          "title": "ジャルジャルのネタのタネ『肌つやよしって奴』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=NjW6plAy5Qc"
+        }
+      ]
+    },
+    {
+      "id": "minowa-hikaru",
+      "name": "三ノ輪ひかる",
+      "kana": "みのわひかる",
+      "aliases": [],
+      "symbol": "光",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#f7a7bd",
+      "summary": "公式タイトルでフルネームが明かされている人物キャラクター。",
+      "detail": "公式動画『三ノ輪ひかるって奴』で名前を確認できるキャラクターです。",
+      "sketchStyle": "固有名を強く打ち出し、人物の言動や空気感を見せていくキャラクターコント。",
+      "tags": [
+        "人物名",
+        "フルネーム",
+        "人物ネタ"
+      ],
+      "debut": "『三ノ輪ひかるって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=nDaCUGGLx7U",
+      "relatedVideos": [
+        {
+          "id": "nDaCUGGLx7U",
+          "title": "『三ノ輪ひかるって奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=nDaCUGGLx7U"
+        }
+      ]
+    },
+    {
+      "id": "morita-tengi",
+      "name": "森田てんぎ",
+      "kana": "もりたてんぎ",
+      "aliases": [],
+      "symbol": "森",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#a9e5c2",
+      "summary": "公式タイトルで名前が確認できる、響きの強い人物キャラクター。",
+      "detail": "公式動画『森田てんぎって奴』で名前を確認できます。",
+      "sketchStyle": "印象的な名前と人物の振る舞いを中心に展開するキャラクターコント。",
+      "tags": [
+        "人物名",
+        "フルネーム",
+        "人物ネタ"
+      ],
+      "debut": "『森田てんぎって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=Iisrmz-6nK4",
+      "relatedVideos": [
+        {
+          "id": "Iisrmz-6nK4",
+          "title": "『森田てんぎって奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Iisrmz-6nK4"
+        }
+      ]
+    },
+    {
+      "id": "chatarai",
+      "name": "チャタライ",
+      "kana": "ちゃたらい",
+      "aliases": [],
+      "symbol": "数",
+      "channel": "tower",
+      "channelLabel": "TOWER / ISLAND",
+      "color": "#9bc1ff",
+      "summary": "フィリピンの数学者として登場するキャラクター。",
+      "detail": "公式タイトルでは『フィリピンの数学者のチャタライ』と紹介され、アイランドにも登場します。",
+      "sketchStyle": "数学者チャタライと周囲の会話や通訳のズレを楽しむ人物コント。",
+      "tags": [
+        "数学者",
+        "フィリピン",
+        "通訳",
+        "シリーズ"
+      ],
+      "debut": "『フィリピンの数学者のチャタライって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=ZVGU4yPamZI",
+      "relatedVideos": [
+        {
+          "id": "ZVGU4yPamZI",
+          "title": "煩悩ネタ！『フィリピンの数学者のチャタライって奴』",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ZVGU4yPamZI"
+        },
+        {
+          "id": "yJ38ZOMSgNk",
+          "title": "初めて完璧に通訳してもらえたフィリピンの数学者チャタライって奴　ゲスト：ヨビノリたくみ",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=yJ38ZOMSgNk"
+        }
+      ]
+    },
+    {
+      "id": "noyama-susumu",
+      "name": "野山 晋",
+      "kana": "のやますすむ",
+      "aliases": [
+        "野山晋"
+      ],
+      "symbol": "晋",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#ffb15c",
+      "summary": "内閣総理大臣として登場する野山晋。",
+      "detail": "公式動画タイトルで『内閣総理大臣 野山 晋』と役職・氏名が確認できます。",
+      "sketchStyle": "総理大臣という大きな肩書と、人物の振る舞いの落差を扱う設定コント。",
+      "tags": [
+        "総理大臣",
+        "政治家",
+        "人物名"
+      ],
+      "debut": "『内閣総理大臣 野山 晋って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=oQZzmy_OdOo",
+      "relatedVideos": [
+        {
+          "id": "oQZzmy_OdOo",
+          "title": "『内閣総理大臣  野山 晋って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=oQZzmy_OdOo"
+        }
+      ]
+    },
+    {
+      "id": "ruisen-cork",
+      "name": "涙腺コルク",
+      "kana": "るいせんこるく",
+      "aliases": [],
+      "symbol": "涙",
+      "channel": "tower",
+      "channelLabel": "TOWER / ISLAND",
+      "color": "#d0b7ff",
+      "summary": "感動や失恋など、涙にまつわる場面へ繰り返し現れるキャラクター。",
+      "detail": "映画館、恋愛相談、失恋、元旦のチャラ男番長との遭遇など複数の公式タイトルに登場します。",
+      "sketchStyle": "涙もろさや感情の揺れを軸に、周囲との温度差を広げていくシリーズネタ。",
+      "tags": [
+        "涙",
+        "感動",
+        "失恋",
+        "シリーズ"
+      ],
+      "debut": "『映画館で感動する、涙腺コルクって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=Cz5mJT5mek8",
+      "relatedVideos": [
+        {
+          "id": "Cz5mJT5mek8",
+          "title": "『元旦に出会った涙腺コルクとチャラ男番長っていう奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Cz5mJT5mek8"
+        },
+        {
+          "id": "AGDKsKSl2No",
+          "title": "『映画館で感動する、涙腺コルクって奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=AGDKsKSl2No"
+        },
+        {
+          "id": "VNc-iBSxFII",
+          "title": "『今年も元旦に出会った涙腺コルクとチャラ男番長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VNc-iBSxFII"
+        },
+        {
+          "id": "sEH1yCLMfaY",
+          "title": "『失恋する涙腺コルクって奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=sEH1yCLMfaY"
+        },
+        {
+          "id": "1z1XdCh7FLk",
+          "title": "恋愛相談する涙腺コルクって奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1z1XdCh7FLk"
+        },
+        {
+          "id": "C65hwHO1uQ0",
+          "title": "『また今年も元旦に出会った涙腺コルクとチャラ男番長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=C65hwHO1uQ0"
+        },
+        {
+          "id": "fvexObh9Hbo",
+          "title": "『３年連続元旦に出会った涙腺コルクとチャラ男番長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fvexObh9Hbo"
+        },
+        {
+          "id": "l1CE_t7VuRA",
+          "title": "『もはや運命？４年連続元旦に出会った涙腺コルクとチャラ男番長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=l1CE_t7VuRA"
+        },
+        {
+          "id": "isdUN7UPf5g",
+          "title": "『こんな奇跡ある？5年連続元旦に出会った涙腺コルクとチャラ男番長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=isdUN7UPf5g"
+        },
+        {
+          "id": "6nGVDJfqApI",
+          "title": "『神様のいたずら？６年連続元旦に出会った涙腺コルクとチャラ男番長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=6nGVDJfqApI"
+        }
+      ]
+    },
+    {
+      "id": "heart-kyoko",
+      "name": "ハート♡キョーコ",
+      "kana": "はーときょーこ",
+      "aliases": [
+        "キョーコ"
+      ],
+      "symbol": "♡",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#ff8d79",
+      "summary": "生配信中のトラブルに巻き込まれる配信者系キャラクター。",
+      "detail": "公式タイトルで『ハート♡キョーコ』という名前が確認できます。",
+      "sketchStyle": "生配信の進行と予期せぬトラブルがぶつかる配信者コント。",
+      "tags": [
+        "配信者",
+        "生配信",
+        "トラブル"
+      ],
+      "debut": "『生配信でトラブル起きるハート♡キョーコって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=DR0ds50yiOg",
+      "relatedVideos": [
+        {
+          "id": "DR0ds50yiOg",
+          "title": "ジャルジャルのネタのタネ『ハート・キョーコっていう奴』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=DR0ds50yiOg"
+        },
+        {
+          "id": "qeZ_AbcEq_0",
+          "title": "ハート♡キョーコ ジムのルーティン【日常撮る奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=qeZ_AbcEq_0"
+        }
+      ]
+    },
+    {
+      "id": "baribo-yamamoto",
+      "name": "バリボ山本",
+      "kana": "ばりぼやまもと",
+      "aliases": [],
+      "symbol": "球",
+      "channel": "tower",
+      "channelLabel": "TOWER / ISLAND",
+      "color": "#9ed7ff",
+      "summary": "ピン芸人として登場し、前説や大会などでも活動するキャラクター。",
+      "detail": "タワーでピン芸人として登場し、アイランドではオンライン特訓、前説、密着企画などへ広がります。",
+      "sketchStyle": "芸人としての仕事や勝負どころで空回りする姿を追うシリーズネタ。",
+      "tags": [
+        "ピン芸人",
+        "前説",
+        "密着",
+        "シリーズ"
+      ],
+      "debut": "『ピン芸人〈バリボ山本〉って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=QAJ8ah0hkrM",
+      "relatedVideos": [
+        {
+          "id": "QAJ8ah0hkrM",
+          "title": "『ピン芸人〈バリボ山本〉って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=QAJ8ah0hkrM"
+        },
+        {
+          "id": "Cw7jgS2VvL4",
+          "title": "ピン芸人〈バリボ山本〉って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Cw7jgS2VvL4"
+        },
+        {
+          "id": "d7XqeEL5nA8",
+          "title": "オンラインで特訓するバリボ山本って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=d7XqeEL5nA8"
+        },
+        {
+          "id": "MiB2e2zYIqM",
+          "title": "前説で張り切りすぎて出禁になるバリボ山本って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=MiB2e2zYIqM"
+        },
+        {
+          "id": "N8eHnDMp9GY",
+          "title": "優勝するまで密着されるバリボ山本って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=N8eHnDMp9GY"
+        },
+        {
+          "id": "4HrBZFolpb4",
+          "title": "第19回祇園お笑い新人大賞【3組目】バリボ山本",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4HrBZFolpb4"
+        }
+      ]
+    },
+    {
+      "id": "ichirinsha-boy",
+      "name": "一輪車ボーイ",
+      "kana": "いちりんしゃぼーい",
+      "aliases": [],
+      "symbol": "輪",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#ffd58e",
+      "summary": "ゲームの1面ボスとして登場する一輪車ボーイ。",
+      "detail": "公式タイトルで『1面のボス〈一輪車ボーイ〉』と紹介されています。",
+      "sketchStyle": "ゲームのボスらしい設定と、一輪車という妙なモチーフを組み合わせたネタ。",
+      "tags": [
+        "ゲーム",
+        "ボス",
+        "一輪車"
+      ],
+      "debut": "『1面のボス〈一輪車ボーイ〉って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=6LgFJZgbPFE",
+      "relatedVideos": [
+        {
+          "id": "6LgFJZgbPFE",
+          "title": "『１面のボス〈一輪車ボーイ〉って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=6LgFJZgbPFE"
+        }
+      ]
+    },
+    {
+      "id": "tsukamoto",
+      "name": "塚本",
+      "kana": "つかもと",
+      "aliases": [],
+      "symbol": "塚",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#c6db67",
+      "summary": "キャッシュレスへの対応に苦戦する人物キャラクター。",
+      "detail": "公式タイトルで『キャッシュレスに対応できない塚本』と名前が確認できます。",
+      "sketchStyle": "新しい仕組みに対応できない人物の戸惑いを積み重ねる日常コント。",
+      "tags": [
+        "キャッシュレス",
+        "日常",
+        "人物名"
+      ],
+      "debut": "『キャッシュレスに対応できない塚本って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=9QRcAvb08n8",
+      "relatedVideos": [
+        {
+          "id": "9QRcAvb08n8",
+          "title": "『キャッシュレスに対応できない塚本って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9QRcAvb08n8"
+        },
+        {
+          "id": "aEiga4Rkm-4",
+          "title": "『ルームメイトに塚本日記を朗読する奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=aEiga4Rkm-4"
+        }
+      ]
+    },
+    {
+      "id": "pumpkin-boy",
+      "name": "パンプキンボーイ",
+      "kana": "ぱんぷきんぼーい",
+      "aliases": [],
+      "symbol": "南瓜",
+      "channel": "tower",
+      "channelLabel": "TOWER / ISLAND",
+      "color": "#f6ca2f",
+      "summary": "マラソン大会や芸能事務所の企画に現れるキャラクター。",
+      "detail": "タワーではマラソン大会、アイランドではオフィスDAN社長のイチオシとして登場します。",
+      "sketchStyle": "名前の強さと、本人が置かれる勝負・売り込みの場面のズレを見せるネタ。",
+      "tags": [
+        "マラソン",
+        "芸能事務所",
+        "シリーズ"
+      ],
+      "debut": "『マラソン大会でスタートできないパンプキンボーイって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=NvAvGpjlYdE",
+      "relatedVideos": [
+        {
+          "id": "NvAvGpjlYdE",
+          "title": "ジャルジャルのネタのタネ『パンプキンボーイ紹介する奴』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=NvAvGpjlYdE"
+        },
+        {
+          "id": "oaPrre7lDuk",
+          "title": "『マラソン大会でスタートできないパンプキンボーイって奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=oaPrre7lDuk"
+        },
+        {
+          "id": "Pxl3JqcD9OQ",
+          "title": "オフィスDANの社長がイチオシする「パンプキンボーイ」って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Pxl3JqcD9OQ"
+        }
+      ]
+    },
+    {
+      "id": "shay",
+      "name": "シェイ",
+      "kana": "しぇい",
+      "aliases": [],
+      "symbol": "舞",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#f7a7bd",
+      "summary": "バックダンサーとして登場するシェイ。",
+      "detail": "公式タイトルで『バックダンサーの〈シェイ〉』と役割・名前が確認できます。",
+      "sketchStyle": "バックダンサーという立場と本人の存在感を軸にした芸能ネタ。",
+      "tags": [
+        "バックダンサー",
+        "ダンス",
+        "芸能"
+      ],
+      "debut": "『バックダンサーの〈シェイ〉って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=xWJvLtkF2Lc",
+      "relatedVideos": [
+        {
+          "id": "xWJvLtkF2Lc",
+          "title": "『シェイク大好き、イナゴさんっていう奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=xWJvLtkF2Lc"
+        },
+        {
+          "id": "8HxNw1-kG2A",
+          "title": "『バックダンサーの〈シェイ〉って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=8HxNw1-kG2A"
+        },
+        {
+          "id": "9Oa3PlgDytI",
+          "title": "バックダンサーの〈シェイ〉って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9Oa3PlgDytI"
+        }
+      ]
+    },
+    {
+      "id": "tokuko",
+      "name": "トクコ",
+      "kana": "とくこ",
+      "aliases": [],
+      "symbol": "電",
+      "channel": "island",
+      "channelLabel": "ISLAND",
+      "color": "#a9e5c2",
+      "summary": "ただならぬ思いで電話をかける人物キャラクター。",
+      "detail": "アイランドの公式タイトルで『トクコ』という名前が確認できます。",
+      "sketchStyle": "一本の電話に込めた強すぎる思いと、会話の緊張感を味わうネタ。",
+      "tags": [
+        "電話",
+        "人物名",
+        "アイランド"
+      ],
+      "debut": "『ただならぬ思いで電話するトクコって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=sJypv70HoyM",
+      "relatedVideos": [
+        {
+          "id": "sJypv70HoyM",
+          "title": "ヤバイTシャツ屋さんとのトークでトクコが問題発言!?【変な司会者の奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=sJypv70HoyM"
+        },
+        {
+          "id": "O845DlyTjKw",
+          "title": "トクコとTHE BAWDIES ROYの恋模様？！ ~自由すぎるTAXMANと嫉妬するジュンを添えて~【変な司会者の奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=O845DlyTjKw"
+        },
+        {
+          "id": "rcvejUgwn10",
+          "title": "トクコの恐怖の反省会【真夜中に電話する奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=rcvejUgwn10"
+        },
+        {
+          "id": "snBMtBvSeoo",
+          "title": "【祝!!紅白出場】YOASOBIの知られざる過去に迫るジュン&トクコ【変な司会者の奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=snBMtBvSeoo"
+        },
+        {
+          "id": "KhmIzvKqj1M",
+          "title": "ただならぬ思いで電話するトクコって奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KhmIzvKqj1M"
+        }
+      ]
+    },
+    {
+      "id": "yada-shin",
+      "name": "矢田心",
+      "kana": "やだしん",
+      "aliases": [],
+      "symbol": "心",
+      "channel": "island",
+      "channelLabel": "ISLAND",
+      "color": "#9bc1ff",
+      "summary": "野次ワクチンや配信ライブなど、音楽活動を軸に登場するキャラクター。",
+      "detail": "アイランドで配信ライブ、出演交渉、結婚式での持ち歌披露など複数の企画に登場します。",
+      "sketchStyle": "独特な音楽活動と営業先での言動を長く追いかけるシリーズネタ。",
+      "tags": [
+        "歌手",
+        "配信ライブ",
+        "営業",
+        "シリーズ"
+      ],
+      "debut": "『自主的に野次ワクチンを打つ矢田心って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=naM38054q0U",
+      "relatedVideos": [
+        {
+          "id": "naM38054q0U",
+          "title": "野次ワクチン打った矢田心の配信ライブを見る奴【リモートする奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=naM38054q0U"
+        },
+        {
+          "id": "w0v3nqgK1kY",
+          "title": "野次ワクチンを打った矢田心初ステージの舞台裏（一部始終）【日常撮る奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=w0v3nqgK1kY"
+        },
+        {
+          "id": "rwNez5RslGo",
+          "title": "自主的に野次ワクチンを打つ矢田心って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=rwNez5RslGo"
+        },
+        {
+          "id": "1oZ_PmIvzRU",
+          "title": "飛行機の遅延で神対応する矢田心って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1oZ_PmIvzRU"
+        },
+        {
+          "id": "ynMhGk0WiKQ",
+          "title": "トースター松林にLIVEの出演交渉する矢田心って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ynMhGk0WiKQ"
+        },
+        {
+          "id": "XlU52Xq-_i8",
+          "title": "お色直しの待ち時間に善意で持ち歌披露する矢田心って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=XlU52Xq-_i8"
+        }
+      ]
+    },
+    {
+      "id": "tencho-yamashita",
+      "name": "店長山下",
+      "kana": "てんちょうやました",
+      "aliases": [
+        "山下"
+      ],
+      "symbol": "店",
+      "channel": "island",
+      "channelLabel": "ISLAND",
+      "color": "#ffb15c",
+      "summary": "応募者たちの面接を担当する店長キャラクター。",
+      "detail": "アイランドの『面接する店長山下』シリーズで、さまざまな応募者と向き合います。",
+      "sketchStyle": "クセの強い応募者と店長山下のやり取りをFILE形式で積み重ねる面接シリーズ。",
+      "tags": [
+        "店長",
+        "面接官",
+        "バイト",
+        "シリーズ"
+      ],
+      "debut": "『面接する店長山下って奴 FILE.01』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=jfXvbrg0Hus",
+      "relatedVideos": [
+        {
+          "id": "jfXvbrg0Hus",
+          "title": "面接する店長山下って奴　FILE.01店長を呼び捨てする応募者",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=jfXvbrg0Hus"
+        },
+        {
+          "id": "Fwe0dZHbdM8",
+          "title": "面接する店長山下って奴　FILE.02悪魔の笑い方する応募者",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Fwe0dZHbdM8"
+        },
+        {
+          "id": "8mCHmcMdBgg",
+          "title": "面接する店長山下って奴　FILE.03面接官の頭叩く応募者",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=8mCHmcMdBgg"
+        },
+        {
+          "id": "2PgN5FMh3Hs",
+          "title": "面接前に不採用にした店長山下って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=2PgN5FMh3Hs"
+        }
+      ]
+    },
+    {
+      "id": "kujiji",
+      "name": "久地々",
+      "kana": "くじじ",
+      "aliases": [],
+      "symbol": "監",
+      "channel": "island",
+      "channelLabel": "ISLAND",
+      "color": "#d0b7ff",
+      "summary": "再起を図る崖っぷちディレクター。",
+      "detail": "アイランドで長期密着企画が組まれ、ロケや番組制作に挑む姿が複数回描かれます。",
+      "sketchStyle": "崖っぷちの映像ディレクターをドキュメンタリー風に追う長期シリーズ。",
+      "tags": [
+        "ディレクター",
+        "密着",
+        "ロケ",
+        "シリーズ"
+      ],
+      "debut": "『再起を図る、崖っぷちディレクターの久地々って奴#1』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=V_8F6bkucHY",
+      "relatedVideos": [
+        {
+          "id": "V_8F6bkucHY",
+          "title": "【長期密着】再起を図る、崖っぷちディレクターの久地々って奴#1",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=V_8F6bkucHY"
+        },
+        {
+          "id": "naSTDsJkUu4",
+          "title": "【長期密着】再起を図る、崖っぷちディレクターの久地々って奴#2",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=naSTDsJkUu4"
+        },
+        {
+          "id": "IQdhae3iIWw",
+          "title": "やばいディレクターな久地々って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=IQdhae3iIWw"
+        },
+        {
+          "id": "rYxce6xrBYY",
+          "title": "【長期密着】再起を図る、崖っぷちディレクターの久地々って奴#3",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=rYxce6xrBYY"
+        },
+        {
+          "id": "cunZM35RkI4",
+          "title": "【長期密着】再起を図る、崖っぷちディレクターの久地々って奴#4",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=cunZM35RkI4"
+        },
+        {
+          "id": "WG7dvqFYo1w",
+          "title": "JALスカイミュージアムの紹介ロケする久地々って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=WG7dvqFYo1w"
+        }
+      ]
+    },
+    {
+      "id": "momiji-youtuber",
+      "name": "もみじ",
+      "kana": "もみじ",
+      "aliases": [
+        "もみじ"
+      ],
+      "symbol": "紅",
+      "channel": "island",
+      "channelLabel": "ISLAND",
+      "color": "#ff8d79",
+      "summary": "センスのなさを前面に出したYouTuberキャラクター。",
+      "detail": "購入品紹介、実家、小松空港、海の家、海外ロケなど多数の動画企画へ挑戦します。",
+      "sketchStyle": "YouTuberらしい定番企画を、独特すぎるセンスで進めていく長期シリーズ。",
+      "tags": [
+        "YouTuber",
+        "企画",
+        "旅行",
+        "シリーズ"
+      ],
+      "debut": "『センスないYouTuberの「もみじ」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=J2Ay1ChBfFA",
+      "relatedVideos": [
+        {
+          "id": "J2Ay1ChBfFA",
+          "title": "センスないYouTuberの「もみじ」って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=J2Ay1ChBfFA"
+        },
+        {
+          "id": "vkHlOoeQsr4",
+          "title": "電話で企画会議する、センスないYouTuberの「もみじ」って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=vkHlOoeQsr4"
+        },
+        {
+          "id": "rNt8rp6Van4",
+          "title": "センスないYouTuberの「もみじ」って奴　その2　~購入品紹介~",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=rNt8rp6Van4"
+        },
+        {
+          "id": "ZLQiBSewa34",
+          "title": "センスないYouTuberの「もみじ」って奴　その3　実家帰ってみた編",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ZLQiBSewa34"
+        },
+        {
+          "id": "tKJPyCjDJgc",
+          "title": "【緊急生配信】センスないYouTuberの「もみじ」って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=tKJPyCjDJgc"
+        },
+        {
+          "id": "-jz6m9cmL1g",
+          "title": "センスないYouTuberの「もみじ」って奴　その４　小松空港編",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-jz6m9cmL1g"
+        },
+        {
+          "id": "aPkcRTBAyaY",
+          "title": "センスないYouTuberの「もみじ」って奴　その５　海の家でバイト編",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=aPkcRTBAyaY"
+        },
+        {
+          "id": "tNao1WiO_14",
+          "title": "センスないYouTuberの「もみじ」って奴　その6　外国人にフル無視される編",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=tNao1WiO_14"
+        },
+        {
+          "id": "KVJEkG2lDf4",
+          "title": "センスないYouTuberの「もみじ」って奴　その７　たつきくんをクビにしました編",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KVJEkG2lDf4"
+        },
+        {
+          "id": "TwF_GqaBMNA",
+          "title": "センスないYouTuberの「もみじ」って奴その8 重大発表！tiktok始めます編",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=TwF_GqaBMNA"
+        },
+        {
+          "id": "oR8Es1ensCg",
+          "title": "センスないYouTuberの「もみじ」って奴　その９エディンバラ城紹介編",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=oR8Es1ensCg"
+        },
+        {
+          "id": "WViHpGd0V8c",
+          "title": "天才的にセンスないYouTuberの「もみじ」って奴その10 ゲーセン編",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=WViHpGd0V8c"
+        },
+        {
+          "id": "0MG3xNajspA",
+          "title": "天才的にセンスないYouTuberの「もみじ」って奴 その11 スペシャルゲストがやってきた編",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=0MG3xNajspA"
+        },
+        {
+          "id": "TEi8RE6b9r4",
+          "title": "天才的にセンスない YouTuber「もみじ」って奴 その１２＠旅館編",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=TEi8RE6b9r4"
+        }
+      ]
+    },
+    {
+      "id": "sane-hyeolju",
+      "name": "サネ・ヒョルジュ",
+      "kana": "さねひょるじゅ",
+      "aliases": [
+        "サネ・ヒョルジュ"
+      ],
+      "symbol": "韓",
+      "channel": "island",
+      "channelLabel": "ISLAND",
+      "color": "#9ed7ff",
+      "summary": "ヨントンや添い寝ヨントンを開催するアイドル系キャラクター。",
+      "detail": "アイランドの公式タイトルで名前が確認でき、ファン向け通話イベントに登場します。",
+      "sketchStyle": "オンライン通話イベント特有の距離感とやり取りを描くアイドルネタ。",
+      "tags": [
+        "アイドル",
+        "ヨントン",
+        "オンライン"
+      ],
+      "debut": "『ヨントンを開催するサネ・ヒョルジュって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=OO4Go2esV3s",
+      "relatedVideos": [
+        {
+          "id": "OO4Go2esV3s",
+          "title": "ヨントンを開催するサネ・ヒョルジュって奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=OO4Go2esV3s"
+        },
+        {
+          "id": "WHgZPu3eXZs",
+          "title": "添い寝ヨントンを開催するサネ・ヒョルジュって奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=WHgZPu3eXZs"
+        }
+      ]
+    },
+    {
+      "id": "mugcup-margin",
+      "name": "マグカップマージン",
+      "kana": "まぐかっぷまーじん",
+      "aliases": [],
+      "symbol": "杯",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#ffd58e",
+      "summary": "本気ネタの公式タイトルで名前が確認できるキャラクター。",
+      "detail": "公式動画『【本気ネタ】マグカップマージンって奴』に登場します。",
+      "sketchStyle": "名前の響きと人物像を押し出す本気ネタのキャラクターコント。",
+      "tags": [
+        "本気ネタ",
+        "名前",
+        "人物ネタ"
+      ],
+      "debut": "『【本気ネタ】マグカップマージンって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=1Hq69RzctJw",
+      "relatedVideos": [
+        {
+          "id": "1Hq69RzctJw",
+          "title": "【本気ネタ】マグカップマージンって奴",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1Hq69RzctJw"
+        }
+      ]
+    },
+    {
+      "id": "makikomi-shacho",
+      "name": "巻込社長",
+      "kana": "まきこみしゃちょう",
+      "aliases": [],
+      "symbol": "社",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#c6db67",
+      "summary": "謝罪会見で周囲の人まで巻き込む社長キャラクター。",
+      "detail": "公式タイトルで『巻込社長』という名前と、野外謝罪会見での行動が確認できます。",
+      "sketchStyle": "謝罪会見のはずが、通行人まで当事者にしてしまう巻き込み型のネタ。",
+      "tags": [
+        "社長",
+        "謝罪会見",
+        "巻き込み"
+      ],
+      "debut": "『野外謝罪会見で通行人を巻き込む巻込社長って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=zgs8xGM4c9M",
+      "relatedVideos": [
+        {
+          "id": "zgs8xGM4c9M",
+          "title": "『野外謝罪会見で通行人を巻き込む巻込社長って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zgs8xGM4c9M"
+        }
+      ]
+    },
+    {
+      "id": "limousine-kyosuke",
+      "name": "リムジン恭介",
+      "kana": "りむじんきょうすけ",
+      "aliases": [],
+      "symbol": "車",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#f6ca2f",
+      "summary": "リムジンつっこみを捨てたくない芸人キャラクター。",
+      "detail": "公式タイトルで名前と持ち味の『リムジンつっこみ』が確認できます。",
+      "sketchStyle": "独自のつっこみを守りたい芸人同士が、芸風をめぐって譲らないネタ。",
+      "tags": [
+        "芸人",
+        "ツッコミ",
+        "芸風"
+      ],
+      "debut": "『リムジンつっこみ捨てたくない「リムジン恭介」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=QjN7gX25QFU",
+      "relatedVideos": [
+        {
+          "id": "QjN7gX25QFU",
+          "title": "『リムジンつっこみ捨てたくない「リムジン恭介」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=QjN7gX25QFU"
+        },
+        {
+          "id": "HgRn99XIlHs",
+          "title": "『お互い譲らない「リムジン恭介」と「オペラ慎二」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=HgRn99XIlHs"
+        }
+      ]
+    },
+    {
+      "id": "opera-shinji",
+      "name": "オペラ慎二",
+      "kana": "おぺらしんじ",
+      "aliases": [],
+      "symbol": "歌",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#f7a7bd",
+      "summary": "リムジン恭介と芸風をめぐって張り合う芸人キャラクター。",
+      "detail": "公式タイトルで『オペラ慎二』という名前が確認できます。",
+      "sketchStyle": "オペラ系の芸風とリムジンつっこみが正面衝突する芸人ネタ。",
+      "tags": [
+        "芸人",
+        "オペラ",
+        "芸風"
+      ],
+      "debut": "『お互い譲らない「リムジン恭介」と「オペラ慎二」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=HgRn99XIlHs",
+      "relatedVideos": [
+        {
+          "id": "HgRn99XIlHs",
+          "title": "『お互い譲らない「リムジン恭介」と「オペラ慎二」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=HgRn99XIlHs"
+        }
+      ]
+    },
+    {
+      "id": "makerumata",
+      "name": "負俣",
+      "kana": "まけるまた",
+      "aliases": [
+        "まけるまた"
+      ],
+      "symbol": "負",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#a9e5c2",
+      "summary": "勝俣州和のパロディ芸人として登場する負俣。",
+      "detail": "公式タイトルで『負俣（まけるまた）』という芸名とパロディ芸人であることが確認できます。",
+      "sketchStyle": "有名人を思わせる名前と芸風のズレを見せるパロディ芸人ネタ。",
+      "tags": [
+        "芸人",
+        "パロディ",
+        "芸名"
+      ],
+      "debut": "『勝俣州和のパロディ芸人の負俣（まけるまた）って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=wAtZ6J-2oKU",
+      "relatedVideos": [
+        {
+          "id": "wAtZ6J-2oKU",
+          "title": "『勝俣州和のパロディ芸人の負俣(まけるまた)って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=wAtZ6J-2oKU"
+        }
+      ]
+    },
+    {
+      "id": "chameleon-nosuke",
+      "name": "カメレ・オンの助",
+      "kana": "かめれおんのすけ",
+      "aliases": [],
+      "symbol": "真",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#9bc1ff",
+      "summary": "目の前の人のものまねをするタレント。",
+      "detail": "公式タイトルで、ものまねタレント『カメレ・オンの助』と紹介されています。",
+      "sketchStyle": "その場にいる相手を即座にまねる芸風から生まれる、ものまねタレントネタ。",
+      "tags": [
+        "ものまね",
+        "タレント",
+        "芸名"
+      ],
+      "debut": "『目の前の人のものまねタレント「カメレ・オンの助」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=U5gLzuDpK2s",
+      "relatedVideos": [
+        {
+          "id": "U5gLzuDpK2s",
+          "title": "『目の前の人のものまねタレント「カメレ・オンの助」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=U5gLzuDpK2s"
+        }
+      ]
+    },
+    {
+      "id": "onishi-ben",
+      "name": "大西便",
+      "kana": "おおにしべん",
+      "aliases": [],
+      "symbol": "便",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#ffb15c",
+      "summary": "トイレを流したかどうか疑われる人物キャラクター。",
+      "detail": "公式タイトルで『大西便』という名前が確認できます。",
+      "sketchStyle": "本人の名前とトイレをめぐる疑いが不自然なほど噛み合う言葉遊びのネタ。",
+      "tags": [
+        "人物名",
+        "トイレ",
+        "言葉遊び"
+      ],
+      "debut": "『うんこを流さなかったかもしれない大西便って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=Vlybl_CoeIk",
+      "relatedVideos": [
+        {
+          "id": "Vlybl_CoeIk",
+          "title": "『うんこを流さなかったかもしれない大西便って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Vlybl_CoeIk"
+        }
+      ]
+    },
+    {
+      "id": "tanaka-hotchkiss",
+      "name": "田中ホッチキス",
+      "kana": "たなかほっちきす",
+      "aliases": [],
+      "symbol": "留",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#d0b7ff",
+      "summary": "歌が印象に残るかどうかをチェックされる音楽系キャラクター。",
+      "detail": "公式タイトルで『田中ホッチキス』という名前と、歌の審査を受ける状況が確認できます。",
+      "sketchStyle": "歌の印象を細かく判定される緊張感と、芸名の強さを組み合わせた音楽ネタ。",
+      "tags": [
+        "歌手",
+        "審査",
+        "音楽",
+        "芸名"
+      ],
+      "debut": "『印象に残る歌かどうかチェックされる田中ホッチキスって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=cYe28GTxK8o",
+      "relatedVideos": [
+        {
+          "id": "cYe28GTxK8o",
+          "title": "『印象に残る歌かどうかチェックされる田中ホッチキスって奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=cYe28GTxK8o"
+        }
+      ]
+    },
+    {
+      "id": "big-chintama-john",
+      "name": "BIGちん玉ジョン",
+      "kana": "びっぐちんたまじょん",
+      "aliases": [
+        "BIG ちん玉ジョン",
+        "BIGちん玉ジョン"
+      ],
+      "symbol": "BIG",
+      "channel": "tower",
+      "channelLabel": "TOWER / ISLAND",
+      "color": "#ff8d79",
+      "summary": "名前のインパクトが強すぎて、仕事や日常の至る所で問題になる芸人キャラクター。",
+      "detail": "オーディション、結婚の挨拶、予約、電話、サインなど多数の公式タイトルに登場します。",
+      "sketchStyle": "芸名を口にするだけで周囲がざわつき、社会的な場面が崩れていく反復型シリーズ。",
+      "tags": [
+        "芸人",
+        "芸名",
+        "オーディション",
+        "シリーズ"
+      ],
+      "debut": "『ネタ良いけど芸名良くない「BIGちん玉ジョン」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=Sco844nk2jU",
+      "relatedVideos": [
+        {
+          "id": "Sco844nk2jU",
+          "title": "『ネタ良いけど芸名良くない「BIG ちん玉ジョン」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Sco844nk2jU"
+        },
+        {
+          "id": "HmHYO5Shfo0",
+          "title": "『結婚の挨拶に行く「BIG ちん玉ジョン」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=HmHYO5Shfo0"
+        },
+        {
+          "id": "TBYe3mzM71Q",
+          "title": "高級レストランの予約をする「BIGちん玉ジョン」って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=TBYe3mzM71Q"
+        },
+        {
+          "id": "Bo2jYlrlAaA",
+          "title": "ネタ良いけど芸名良くない「BIGちん玉ジョン」って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Bo2jYlrlAaA"
+        },
+        {
+          "id": "1lUaPkUE3zY",
+          "title": "『朝の情報番組でスタジオ凍りつかせる「BIG ちん玉ジョン」っ て奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1lUaPkUE3zY"
+        },
+        {
+          "id": "fWRJQiIdhf0",
+          "title": "『サッカー選手ミノベさんのいま好きな芸人は 「BIG ちん玉ジョン」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fWRJQiIdhf0"
+        },
+        {
+          "id": "7j53ILiAOGg",
+          "title": "日本大好きハリウッド俳優のいま好きな芸人は「BIGちん玉ジョン」って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=7j53ILiAOGg"
+        },
+        {
+          "id": "nOEe_wN1b_s",
+          "title": "『名前が卑猥すぎるからカウントダウンイベント中に警察呼ばれる「BIGちん玉ジョン」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=nOEe_wN1b_s"
+        },
+        {
+          "id": "tnayiz0zqwg",
+          "title": "『朝の番組のオーディションで秒で不合格になる 「BIG ちん玉ジョン」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=tnayiz0zqwg"
+        },
+        {
+          "id": "SInNnzz5cds",
+          "title": "『高級ホテルのロビーで大声で電話する「BIGちん玉ジョン」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=SInNnzz5cds"
+        },
+        {
+          "id": "Cf7w-w3qajs",
+          "title": "『芸名言っただけで警察署に連行されるBIGちん玉ジョンって奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Cf7w-w3qajs"
+        },
+        {
+          "id": "JCz-UjLRINY",
+          "title": "リモート打ち合わせOKのテラス席で、芸名言っただけで店員に注意される「BIGちん玉ジョン」って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=JCz-UjLRINY"
+        },
+        {
+          "id": "MInDDtYphps",
+          "title": "芸名知ってサイン飾ること拒絶されるBIGちん玉ジョンって奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=MInDDtYphps"
+        }
+      ]
+    },
+    {
+      "id": "beginners-lucker-ken",
+      "name": "ビギナーズラッカーケン",
+      "kana": "びぎなーずらっかーけん",
+      "aliases": [],
+      "symbol": "賭",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#9ed7ff",
+      "summary": "初めての賭け事では必ず勝つというキャラクター。",
+      "detail": "公式タイトルで名前と『初めての賭け事は必ず勝つ』という特徴が確認できます。",
+      "sketchStyle": "初心者の幸運を極端な人物設定にした、賭け事をめぐるキャラクターコント。",
+      "tags": [
+        "賭け事",
+        "幸運",
+        "人物ネタ"
+      ],
+      "debut": "『初めての賭け事は必ず勝つ「ビギナーズラッカーケン」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=U6xN13iepTg",
+      "relatedVideos": [
+        {
+          "id": "U6xN13iepTg",
+          "title": "『初めての賭け事は必ず勝つ「ビギナーズラッカーケン」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=U6xN13iepTg"
+        }
+      ]
+    },
+    {
+      "id": "nikoniko-kun",
+      "name": "ニコニコくん",
+      "kana": "にこにこくん",
+      "aliases": [],
+      "symbol": "笑",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#ffd58e",
+      "summary": "前科があり執行猶予中という重い背景を持つ人物キャラクター。",
+      "detail": "通常回とバイト面接回の複数の公式タイトルに登場します。",
+      "sketchStyle": "明るい名前と重い経歴の落差を、面接などの日常場面へ持ち込むネタ。",
+      "tags": [
+        "バイト面接",
+        "経歴",
+        "ギャップ",
+        "シリーズ"
+      ],
+      "debut": "『前科あり執行猶予中のニコニコくんって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=FHBkflMQMF4",
+      "relatedVideos": [
+        {
+          "id": "FHBkflMQMF4",
+          "title": "『前科あり執行猶予中のニコニコくんって奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=FHBkflMQMF4"
+        },
+        {
+          "id": "I39Pd_qdGRs",
+          "title": "『前科あり執行猶予中のニコニコくんって奴 〜バイト面接〜』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=I39Pd_qdGRs"
+        }
+      ]
+    },
+    {
+      "id": "rojo-taidanshi-shun",
+      "name": "路上対談師シュン",
+      "kana": "ろじょうたいだんししゅん",
+      "aliases": [
+        "シュン"
+      ],
+      "symbol": "談",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#c6db67",
+      "summary": "街行く一般人と突然対談を始める路上対談師。",
+      "detail": "公式タイトルで職業名と『シュン』という名前が確認できます。",
+      "sketchStyle": "準備のない通行人を急に対談へ巻き込む、路上インタビュー型のネタ。",
+      "tags": [
+        "対談",
+        "路上",
+        "インタビュー"
+      ],
+      "debut": "『街行く一般人と突然対談する「路上対談師シュン」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=qnOvOrCurFA",
+      "relatedVideos": [
+        {
+          "id": "qnOvOrCurFA",
+          "title": "『街行く一般人と突然対談する「路上対談師シュン」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=qnOvOrCurFA"
+        }
+      ]
+    },
+    {
+      "id": "yoji",
+      "name": "ヨージ",
+      "kana": "よーじ",
+      "aliases": [],
+      "symbol": "前",
+      "channel": "tower",
+      "channelLabel": "TOWER / ISLAND",
+      "color": "#f6ca2f",
+      "summary": "前座やマルチタレントとして登場するキャラクター。",
+      "detail": "タワーでは前座のヨージ、アイランドではマルチタレントのヨージとして登場します。",
+      "sketchStyle": "芸能の現場で微妙な立ち位置に置かれるヨージの振る舞いを描くネタ。",
+      "tags": [
+        "前座",
+        "タレント",
+        "芸能",
+        "シリーズ"
+      ],
+      "debut": "『前座の前座をお願いする前座のヨージって奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=e6u0G2Ige5I",
+      "relatedVideos": [
+        {
+          "id": "e6u0G2Ige5I",
+          "title": "『前座の前座をお願いする前座のヨージって奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=e6u0G2Ige5I"
+        },
+        {
+          "id": "LISSEUL-RYU",
+          "title": "エキストラのくせに監督に直談判するマルチタレントのヨージって奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=LISSEUL-RYU"
+        }
+      ]
+    },
+    {
+      "id": "kanshiki",
+      "name": "カンシキ",
+      "kana": "かんしき",
+      "aliases": [],
+      "symbol": "鑑",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#f7a7bd",
+      "summary": "事件現場に現れる鑑識風のキャラクター。",
+      "detail": "公式タイトルで『カンシキ』という名前と事件現場への登場が確認できます。",
+      "sketchStyle": "事件現場という緊張した場所へ、名前通りの人物が現れる捜査もの風コント。",
+      "tags": [
+        "事件現場",
+        "鑑識",
+        "捜査"
+      ],
+      "debut": "『事件現場に現れた「カンシキ」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=cax778GMLYo",
+      "relatedVideos": [
+        {
+          "id": "cax778GMLYo",
+          "title": "『事件現場に現れた「カンシキ」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=cax778GMLYo"
+        }
+      ]
+    },
+    {
+      "id": "aikata-fuzai-taro",
+      "name": "相方不在タロー",
+      "kana": "あいかたふざいたろー",
+      "aliases": [],
+      "symbol": "独",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#a9e5c2",
+      "summary": "相方がいないことをコンセプトにしたピン芸人。",
+      "detail": "公式タイトルで『斬新なコンセプトのピン芸人』と芸名が確認できます。",
+      "sketchStyle": "存在しない相方を前提に芸を組み立てる、コンセプト型の芸人ネタ。",
+      "tags": [
+        "ピン芸人",
+        "相方",
+        "芸名"
+      ],
+      "debut": "『斬新なコンセプトのピン芸人「相方不在タロー」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=SjqNgUJprQc",
+      "relatedVideos": [
+        {
+          "id": "SjqNgUJprQc",
+          "title": "『斬新なコンセプトのピン芸人「相方不在タロー」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=SjqNgUJprQc"
+        }
+      ]
+    },
+    {
+      "id": "dose-dai",
+      "name": "同瀬 大",
+      "kana": "どうせだい",
+      "aliases": [
+        "同瀬大"
+      ],
+      "symbol": "同",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#9bc1ff",
+      "summary": "同世代を集めた飲み会を生きがいにする人物キャラクター。",
+      "detail": "公式タイトルで『同瀬 大』という名前と、同世代飲み会へのこだわりが確認できます。",
+      "sketchStyle": "同世代への執着と名前の言葉遊びで人物像を押し切る会話ネタ。",
+      "tags": [
+        "飲み会",
+        "同世代",
+        "言葉遊び"
+      ],
+      "debut": "『同世代を集めて飲み会するのが生きがいの「同瀬 大」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "",
+      "relatedVideos": []
+    },
+    {
+      "id": "muscle-taro",
+      "name": "マッスル太郎",
+      "kana": "まっするたろう",
+      "aliases": [],
+      "symbol": "筋",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#ffb15c",
+      "summary": "裁判継続中の被告人芸人として登場するキャラクター。",
+      "detail": "公式タイトルで『現在裁判継続中、被告人芸人マッスル太郎』と紹介されています。",
+      "sketchStyle": "芸人活動と裁判中という状況が同居する、肩書の過剰さを楽しむネタ。",
+      "tags": [
+        "芸人",
+        "裁判",
+        "肩書"
+      ],
+      "debut": "『「現在裁判継続中、被告人芸人マッスル太郎」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=szfQYsMGhrw",
+      "relatedVideos": [
+        {
+          "id": "szfQYsMGhrw",
+          "title": "『「現在裁判継続中、被告⼈芸⼈マッスル太郎」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=szfQYsMGhrw"
+        }
+      ]
+    },
+    {
+      "id": "uriki-manman",
+      "name": "売木満々",
+      "kana": "うりきまんまん",
+      "aliases": [],
+      "symbol": "売",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#d0b7ff",
+      "summary": "訪問販売員として登場するキャラクター。",
+      "detail": "公式タイトルで『訪問販売員の〈売木満々〉』と名前・職業が確認できます。",
+      "sketchStyle": "売る気に満ちた名前と訪問販売の押しの強さを重ねる営業ネタ。",
+      "tags": [
+        "訪問販売",
+        "営業",
+        "言葉遊び"
+      ],
+      "debut": "『訪問販売員の〈売木満々〉って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=VnPsvqMWlLI",
+      "relatedVideos": [
+        {
+          "id": "VnPsvqMWlLI",
+          "title": "『訪問販売員の＜売木満々＞って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VnPsvqMWlLI"
+        }
+      ]
+    },
+    {
+      "id": "common",
+      "name": "コモン",
+      "kana": "こもん",
+      "aliases": [],
+      "symbol": "排",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#ff8d79",
+      "summary": "新しくバレー部にやって来る人物キャラクター。",
+      "detail": "公式タイトルで『コモン』という名前とバレー部への参加が確認できます。",
+      "sketchStyle": "新入部員コモンと既存メンバーの距離感を描く部活動コント。",
+      "tags": [
+        "バレー部",
+        "新入部員",
+        "学校"
+      ],
+      "debut": "『新しくバレー部に来た「コモン」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=_eqEcXSTNAw",
+      "relatedVideos": [
+        {
+          "id": "_eqEcXSTNAw",
+          "title": "『新しくバレー部に来た「コモン」って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=_eqEcXSTNAw"
+        }
+      ]
+    },
+    {
+      "id": "takeda-tetsuo",
+      "name": "武田鉄男",
+      "kana": "たけだてつお",
+      "aliases": [],
+      "symbol": "鉄",
+      "channel": "tower",
+      "channelLabel": "TOWER",
+      "color": "#9ed7ff",
+      "summary": "『あんたが大将』のような曲を披露する歌手キャラクター。",
+      "detail": "公式タイトルで『武田鉄男』という名前と披露する曲の方向性が確認できます。",
+      "sketchStyle": "既視感のある演歌調の楽曲と歌手本人の押しの強さを味わう音楽ネタ。",
+      "tags": [
+        "歌手",
+        "演歌",
+        "音楽"
+      ],
+      "debut": "『「あんたが大将」みたいな曲を披露する武田鉄男って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=kmod9gth_pQ",
+      "relatedVideos": [
+        {
+          "id": "kmod9gth_pQ",
+          "title": "『「あんたが大将」みたいな曲を披露する武田鉄男って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=kmod9gth_pQ"
+        }
+      ]
+    },
+    {
+      "id": "yumenashi-daigakusei",
+      "name": "夢なし大学生",
+      "kana": "ゆめなしだいがくせい",
+      "aliases": [],
+      "symbol": "夢",
+      "channel": "island",
+      "channelLabel": "ISLAND",
+      "color": "#ffd58e",
+      "summary": "討論番組や人生相談、密着企画に登場する大学生キャラクター。",
+      "detail": "アイランドで討論番組、ラジオ人生相談、取材、高級マンション紹介など複数回登場します。",
+      "sketchStyle": "夢がない大学生という立場のまま、さまざまな大人向け企画へ放り込まれるシリーズ。",
+      "tags": [
+        "大学生",
+        "討論",
+        "人生相談",
+        "シリーズ"
+      ],
+      "debut": "『討論番組に出る「夢なし大学生」って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=rBjyqKbMWDA",
+      "relatedVideos": [
+        {
+          "id": "rBjyqKbMWDA",
+          "title": "討論番組に出る「夢なし大学生」って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=rBjyqKbMWDA"
+        },
+        {
+          "id": "-ZCxPEaUE3k",
+          "title": "ラジオで人生相談する夢なし大学生って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-ZCxPEaUE3k"
+        },
+        {
+          "id": "jwUckDyEFso",
+          "title": "テントサウナで取材受ける夢なし大学生って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=jwUckDyEFso"
+        },
+        {
+          "id": "HmTUDQHDdxs",
+          "title": "【第一話】僕の夢はどこですか？〜夢なし大学生の挑戦〜",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=HmTUDQHDdxs"
+        },
+        {
+          "id": "5YLv-N4hK_g",
+          "title": "【第二話】僕の夢はどこですか？〜夢なし大学生の挑戦〜",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5YLv-N4hK_g"
+        },
+        {
+          "id": "UM3LCQ3Onp4",
+          "title": "【第三話】僕の夢はどこですか？〜夢なし大学生の挑戦〜",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=UM3LCQ3Onp4"
+        },
+        {
+          "id": "ji6tcPXsDKI",
+          "title": "【最終話】僕の夢はどこですか？〜夢なし大学生の挑戦〜",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ji6tcPXsDKI"
+        },
+        {
+          "id": "ZPSnfuJoFUA",
+          "title": "見た目で高級マンションを紹介される夢なし大学生って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ZPSnfuJoFUA"
+        },
+        {
+          "id": "iT0NteV4JAI",
+          "title": "【第１話】僕の夢はどこですか？〜夢なし大学生の挑戦〜【Season2】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=iT0NteV4JAI"
+        },
+        {
+          "id": "WpUVLPN4w_k",
+          "title": "【第２話】僕の夢はどこですか？〜夢なし大学生の挑戦〜【Season2】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=WpUVLPN4w_k"
+        },
+        {
+          "id": "e9hWpqYNHyg",
+          "title": "【最終話】僕の夢はどこですか？〜夢なし大学生の挑戦〜【Season2】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=e9hWpqYNHyg"
+        },
+        {
+          "id": "ZmizULeCvdY",
+          "title": "見た目だけでスイートルームに案内される夢なし大学生って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ZmizULeCvdY"
+        }
+      ]
+    },
+    {
+      "id": "negishi",
+      "name": "根岸",
+      "kana": "ねぎし",
+      "aliases": [],
+      "symbol": "根",
+      "channel": "island",
+      "channelLabel": "ISLAND",
+      "color": "#c6db67",
+      "summary": "南くんとともに登場する人物キャラクター。",
+      "detail": "アイランドの公式タイトル『南と根岸って奴』で名前を確認できます。",
+      "sketchStyle": "南くんとの関係性と会話の間を中心に見せる二人芝居。",
+      "tags": [
+        "南くん",
+        "友達",
+        "会話"
+      ],
+      "debut": "『南と根岸って奴』",
+      "status": "verified",
+      "facts": [],
+      "video": "https://www.youtube.com/watch?v=47AYGLJVkiM",
+      "relatedVideos": [
+        {
+          "id": "47AYGLJVkiM",
+          "title": "南と電話する根岸【真夜中に電話する奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=47AYGLJVkiM"
+        },
+        {
+          "id": "fIZICADpVIk",
+          "title": "初詣に行ってきました【南と根岸】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fIZICADpVIk"
+        },
+        {
+          "id": "vFYfe6c2t7Q",
+          "title": "ジムに来た南と根岸っていう奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=vFYfe6c2t7Q"
+        },
+        {
+          "id": "ab1sNxCoIIQ",
+          "title": "南と根岸って奴【裏アイランド】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ab1sNxCoIIQ"
+        }
+      ]
     }
   ],
   "groups": [
@@ -1356,7 +3257,362 @@
           "url": "https://www.youtube.com/watch?v=Ft7uhbJSZ2M&t=4s"
         }
       ]
+    },
+    {
+      "id": "haikatsuryo",
+      "name": "肺活量",
+      "kana": "はいかつりょう",
+      "aliases": [],
+      "symbol": "肺",
+      "channel": "tower",
+      "channelLabel": "COMBI / TOWER / ISLAND",
+      "color": "#9ed7ff",
+      "summary": "挨拶の長さや肺活量を芸風にする漫才コンビ。",
+      "detail": "タワーでは挨拶が長すぎる漫才コンビ、アイランドではスコットランドで活動するコンビとして登場します。",
+      "sketchStyle": "息の長さや挨拶のテンポを武器に、コンビのやり取りを押し切る漫才師ネタ。",
+      "tags": [
+        "漫才コンビ",
+        "芸人",
+        "肺活量",
+        "シリーズ"
+      ],
+      "debut": "『挨拶が長すぎる漫才コンビの肺活量って奴』",
+      "status": "verified",
+      "video": "https://www.youtube.com/watch?v=BblMUtk8R14",
+      "relatedVideos": [
+        {
+          "id": "BblMUtk8R14",
+          "title": "ジャルジャルのネタのタネ『ボツ漫才する奴（ミュージシャンの肺活量）』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=BblMUtk8R14"
+        },
+        {
+          "id": "gE0cmg8ON3A",
+          "title": "『挨拶が長すぎる漫才コンビの肺活量って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=gE0cmg8ON3A"
+        },
+        {
+          "id": "wmvDfri3JL8",
+          "title": "スコットランドで活動する漫才コンビ「肺活量」って奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=wmvDfri3JL8"
+        }
+      ]
+    },
+    {
+      "id": "mudoku-no-tarantula",
+      "name": "無毒のタランチュラ",
+      "kana": "むどくのたらんちゅら",
+      "aliases": [
+        "無毒／のタランチュラ"
+      ],
+      "symbol": "毒",
+      "channel": "tower",
+      "channelLabel": "COMBI / TOWER",
+      "color": "#d0b7ff",
+      "summary": "コンビ名の区切り方で揉めるお笑いコンビ。",
+      "detail": "公式タイトルで『無毒』『のタランチュラでーす！』という名乗りと、区切り方をめぐる揉め事が確認できます。",
+      "sketchStyle": "コンビ名をどこで区切って発音するかという小さな違いを、相方同士で延々と詰めるネタ。",
+      "tags": [
+        "漫才コンビ",
+        "コンビ名",
+        "言葉",
+        "揉め事"
+      ],
+      "debut": "『「無毒」「のタランチュラでーす！」コンビ名の区切り方で揉める奴』",
+      "status": "verified",
+      "video": "",
+      "relatedVideos": []
+    },
+    {
+      "id": "ultras",
+      "name": "ウルトラズ",
+      "kana": "うるとらず",
+      "aliases": [],
+      "symbol": "UL",
+      "channel": "island",
+      "channelLabel": "GROUP / ISLAND",
+      "color": "#f6ca2f",
+      "summary": "レコーディングやライブ映像出演を行う音楽グループ。",
+      "detail": "アイランドでウルフルズのスタジオでのレコーディングや、ライブへのVTR出演が複数年描かれます。",
+      "sketchStyle": "実在の音楽現場へ入り込み、グループ活動の妙な緊張感を追う音楽ドキュメント風ネタ。",
+      "tags": [
+        "音楽グループ",
+        "レコーディング",
+        "ライブ",
+        "シリーズ"
+      ],
+      "debut": "『ウルフルズのスタジオでレコーディングするウルトラズって奴』",
+      "status": "verified",
+      "video": "https://www.youtube.com/watch?v=vt9B-G1WkLo",
+      "relatedVideos": [
+        {
+          "id": "vt9B-G1WkLo",
+          "title": "ウルフルズに影響されてるウルトラズとの電話【真夜中に電話する奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=vt9B-G1WkLo"
+        },
+        {
+          "id": "YmHq6-mVMNk",
+          "title": "ウルフルズのスタジオでレコーディングするウルトラズって奴【日常撮る奴】",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=YmHq6-mVMNk"
+        },
+        {
+          "id": "4sd2DFWjJDE",
+          "title": "【ボツMV】ウルトラズ「あいがあう (ホンコン・チュニジアver)」",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4sd2DFWjJDE"
+        },
+        {
+          "id": "teJURyDZW78",
+          "title": "【ボツMV】ウルトラズ「あいがあう (口パクver) 」",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=teJURyDZW78"
+        },
+        {
+          "id": "fEVdZoFUUZ0",
+          "title": "【MV】ウルトラズ「あいがあう」",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fEVdZoFUUZ0"
+        },
+        {
+          "id": "0JFgzeCIAm4",
+          "title": "ウルフルズのLIVEにVTR出演するウルトラズって奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=0JFgzeCIAm4"
+        },
+        {
+          "id": "ZLmRD16tmo8",
+          "title": "2年連続でウルフルズのLIVEにVTR出演するウルトラズって奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ZLmRD16tmo8"
+        },
+        {
+          "id": "-NJ8K6KhXGk",
+          "title": "【ボツMV】ウルトラズ「天才の日曜日」",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-NJ8K6KhXGk"
+        }
+      ]
+    },
+    {
+      "id": "highbends",
+      "name": "ハイベンズ",
+      "kana": "はいべんず",
+      "aliases": [],
+      "symbol": "伝",
+      "channel": "tower",
+      "channelLabel": "BAND / TOWER",
+      "color": "#ff8d79",
+      "summary": "伝説のバンドとして公式タイトルに登場するグループ。",
+      "detail": "公式動画タイトルで『伝説のバンド「ハイベンズ」』と確認できます。",
+      "sketchStyle": "伝説のバンドのコンサートへ行くかどうかをめぐる、ファン側の会話ネタ。",
+      "tags": [
+        "バンド",
+        "伝説",
+        "コンサート"
+      ],
+      "debut": "『伝説のバンド「ハイベンズ」のコンサート行くのやめる奴』",
+      "status": "verified",
+      "video": "https://www.youtube.com/watch?v=zk0Q3XVCDeA",
+      "relatedVideos": [
+        {
+          "id": "zk0Q3XVCDeA",
+          "title": "『伝説のバンド「ハイベンズ」のコンサート行くのやめる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zk0Q3XVCDeA"
+        }
+      ]
+    },
+    {
+      "id": "cutie-candy",
+      "name": "キューティーキャンディ",
+      "kana": "きゅーてぃーきゃんでぃ",
+      "aliases": [],
+      "symbol": "飴",
+      "channel": "island",
+      "channelLabel": "GROUP / ISLAND",
+      "color": "#f7a7bd",
+      "summary": "書き初め企画や恋愛トークを行うアイランドのグループ。",
+      "detail": "アイランドの公式タイトルで『キューティーキャンディ』という名前が確認できます。",
+      "sketchStyle": "動画企画の体裁で書き初めや恋愛トークが横道へそれていくグループネタ。",
+      "tags": [
+        "グループ",
+        "書き初め",
+        "恋愛トーク"
+      ],
+      "debut": "『キューティーキャンディって奴』",
+      "status": "verified",
+      "video": "https://www.youtube.com/watch?v=_uFOWCh2iZI",
+      "relatedVideos": [
+        {
+          "id": "_uFOWCh2iZI",
+          "title": "『大喜利対決するキューティーキャンディな奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=_uFOWCh2iZI"
+        },
+        {
+          "id": "fIP7KiXAuNE",
+          "title": "2022年の書き初めのはずが...恋バナ満開！みえこにプチドッキリ❤️キューティーキャンディって奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fIP7KiXAuNE"
+        }
+      ]
+    },
+    {
+      "id": "power-jungle",
+      "name": "パワージャングル",
+      "kana": "ぱわーじゃんぐる",
+      "aliases": [],
+      "symbol": "力",
+      "channel": "island",
+      "channelLabel": "COMBI / ISLAND",
+      "color": "#a9e5c2",
+      "summary": "祇園お笑いファイナリストとして登場する芸人コンビ。",
+      "detail": "アイランドの公式タイトルでコンビ名とお笑いファイナリストであることが確認できます。",
+      "sketchStyle": "大量の笑いを取る企画に挑む、芸人コンビの耐久チャレンジ型ネタ。",
+      "tags": [
+        "芸人",
+        "コンビ",
+        "お笑い",
+        "チャレンジ"
+      ],
+      "debut": "『祇園お笑いファイナリストのパワージャングルって奴』",
+      "status": "verified",
+      "video": "https://www.youtube.com/watch?v=1dknOzK2jeY",
+      "relatedVideos": [
+        {
+          "id": "1dknOzK2jeY",
+          "title": "２０２２個ウケるまで終われません！祇園お笑いファイナリストのパワージャングルって奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1dknOzK2jeY"
+        },
+        {
+          "id": "2QRISDf2UQs",
+          "title": "パワージャングルで対決する奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=2QRISDf2UQs"
+        }
+      ]
+    },
+    {
+      "id": "ojiri-bonjiri",
+      "name": "大尻・凡尻",
+      "kana": "おおじりぼんじり",
+      "aliases": [
+        "大尻•凡尻"
+      ],
+      "symbol": "尻",
+      "channel": "tower",
+      "channelLabel": "DUO / TOWER / ISLAND",
+      "color": "#ffb15c",
+      "summary": "歌や営業企画に登場する二人組。",
+      "detail": "本気ネタで歌い、アイランドではメンズスキンケアの営業にも登場します。",
+      "sketchStyle": "二人で歌いながら商品営業まで行う、音楽と営業が混ざったデュオネタ。",
+      "tags": [
+        "デュオ",
+        "歌",
+        "営業",
+        "シリーズ"
+      ],
+      "debut": "『大尻・凡尻歌う奴』",
+      "status": "verified",
+      "video": "https://www.youtube.com/watch?v=8FMnBXyks-I",
+      "relatedVideos": [
+        {
+          "id": "8FMnBXyks-I",
+          "title": "１億回記念！本気ネタ！『大尻•凡尻歌う奴』【JARUJARUTOWER】",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=8FMnBXyks-I"
+        },
+        {
+          "id": "tXYQT3ZLHHw",
+          "title": "メンズスキンケア営業する大尻•凡尻歌う奴",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=tXYQT3ZLHHw"
+        },
+        {
+          "id": "xYP8XeaL5Cg",
+          "title": "メンズスキンケア営業する大尻•凡尻歌う奴　〜NG集〜",
+          "channel": "island",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=xYP8XeaL5Cg"
+        }
+      ]
+    },
+    {
+      "id": "kuwako-and-okuwa",
+      "name": "桑子と大桑子",
+      "kana": "くわことおおくわこ",
+      "aliases": [
+        "桑子",
+        "大桑子"
+      ],
+      "symbol": "桑",
+      "channel": "tower",
+      "channelLabel": "PAIR / TOWER",
+      "color": "#c6db67",
+      "summary": "名前の大小が対になった二人組キャラクター。",
+      "detail": "5億回記念の本気ネタ公式タイトルで『桑子と大桑子』と確認できます。",
+      "sketchStyle": "よく似た名前の二人を並べ、呼び分けや関係性から笑いを作る二人芝居。",
+      "tags": [
+        "二人組",
+        "本気ネタ",
+        "名前"
+      ],
+      "debut": "『桑子と大桑子って奴』",
+      "status": "verified",
+      "video": "https://www.youtube.com/watch?v=hsHdZXayNrM",
+      "relatedVideos": [
+        {
+          "id": "hsHdZXayNrM",
+          "title": "５億回記念！本気ネタ！『桑子と大桑子って奴』",
+          "channel": "tower",
+          "relation": "official_title_match",
+          "timestampSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=hsHdZXayNrM"
+        }
+      ]
     }
   ],
-  "videoCount": 5579
+  "videoCount": 5110
 }

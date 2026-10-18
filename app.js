@@ -80,6 +80,7 @@ function openCharacter(id) {
         <div><p class="eyebrow">${escapeHTML(character.channelLabel)}</p><h2 id="dialogTitle">${escapeHTML(character.name)}</h2><div class="tag-list">${character.tags.map(tag => `<span class="tag">#${escapeHTML(tag)}</span>`).join("")}</div></div>
       </div>
       <p class="dialog-description">${escapeHTML(character.detail)}</p>
+      <section class="sketch-style"><span>どんなネタ？</span><p>${escapeHTML(character.sketchStyle || character.summary)}</p></section>
       <dl class="dialog-meta"><dt>種別</dt><dd>${character.entityType === "group" ? "コンビ・ユニット" : "キャラクター"}</dd><dt>初登場の目印</dt><dd>${escapeHTML(character.debut)}</dd><dt>掲載方針</dt><dd>公式YouTube動画へのリンク</dd></dl>
       ${character.facts?.length ? `<div class="fact-list" aria-label="動画内で確認した情報"><h3>動画内で確認した情報</h3>${character.facts.map(fact => `<a href="${escapeHTML(fact.url)}" target="_blank" rel="noopener noreferrer"><strong>${escapeHTML(fact.label)}</strong><span>${escapeHTML(fact.value)}</span><small>該当場面を見る ↗</small></a>`).join("")}</div>` : ""}
       <div class="video-list" aria-label="関連する公式動画">
@@ -115,6 +116,7 @@ function renderSongs() {
         <span class="song-note">♪</span>
       </div>
       <h3>${escapeHTML(song.title)}</h3>
+      ${song.titleType === "descriptive" ? `<p class="song-title-kind">整理名（公式動画タイトルから）</p>` : ""}
       ${(song.aliases || []).length ? `<p class="song-performer">別名（動画タイトル）：${escapeHTML(song.aliases.join("、"))}</p>` : ""}
       <p class="song-performer">歌う人物：${escapeHTML(song.performer)}</p>
       <p>${escapeHTML(song.summary)}</p>

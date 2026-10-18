@@ -1,77 +1,7 @@
 {
-  "generatedAt": "2026-10-18T06:37:53.678Z",
-  "total": 7,
+  "generatedAt": "2026-10-18T06:49:18.486Z",
+  "total": 21,
   "songs": [
-    {
-      "id": "yowakaran",
-      "title": "よーわからん",
-      "performer": "ジャルジャル",
-      "channel": "tower",
-      "videoId": "K5fuU5eEpqA",
-      "timestampSeconds": 0,
-      "summary": "公式動画タイトルで曲名が確認できる即興ソング。",
-      "tags": [
-        "即興ソング"
-      ],
-      "evidence": "official_video_title",
-      "status": "verified",
-      "videoTitle": "即興ソング『よーわからん』",
-      "publishedAt": "2015-07-21T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=K5fuU5eEpqA"
-    },
-    {
-      "id": "typhoon-blue-umbrella",
-      "title": "台風１号２号が来るから青い青い傘を買う",
-      "performer": "ジャルジャル",
-      "channel": "tower",
-      "videoId": "wwQ74JNCifk",
-      "timestampSeconds": 0,
-      "summary": "公式動画タイトルで曲名が確認できる即興ソング。",
-      "tags": [
-        "即興ソング"
-      ],
-      "evidence": "official_video_title",
-      "status": "verified",
-      "videoTitle": "即興ソング『台風１号２号が来るから青い青い傘を買う』",
-      "publishedAt": "2015-07-22T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=wwQ74JNCifk"
-    },
-    {
-      "id": "katakana-move",
-      "title": "カタカナだらけのMOVE",
-      "performer": "MINMIとジャルジャル",
-      "channel": "tower",
-      "videoId": "DTMm0QPVnew",
-      "timestampSeconds": 0,
-      "summary": "公式動画タイトルで曲名と共演者が確認できる即興ソング。",
-      "tags": [
-        "即興ソング",
-        "コラボ"
-      ],
-      "evidence": "official_video_title",
-      "status": "verified",
-      "videoTitle": "MINMIIと即興ソング『カタカナだらけのMOVE』",
-      "publishedAt": "2015-08-16T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=DTMm0QPVnew"
-    },
-    {
-      "id": "osaka-ninja",
-      "title": "大阪らしい忍者",
-      "performer": "MINMIとジャルジャル",
-      "channel": "tower",
-      "videoId": "yOpjtdSrvlU",
-      "timestampSeconds": 0,
-      "summary": "公式動画タイトルで曲名と共演者が確認できる即興ソング。",
-      "tags": [
-        "即興ソング",
-        "コラボ"
-      ],
-      "evidence": "official_video_title",
-      "status": "verified",
-      "videoTitle": "MINMIと即興ソング『大阪らしい忍者』",
-      "publishedAt": "2015-08-17T10:00:04Z",
-      "url": "https://www.youtube.com/watch?v=yOpjtdSrvlU"
-    },
     {
       "id": "eco-song",
       "title": "燃やそう",
@@ -129,6 +59,364 @@
       "videoTitle": "『下品な曲「玉裏屁こきラプソディー」聴いてもうた奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "publishedAt": "2024-06-10T09:00:14Z",
       "url": "https://www.youtube.com/watch?v=8_uFIq8YskE"
+    },
+    {
+      "id": "rainbow-sowelu",
+      "title": "Rainbow",
+      "performer": "動画内の人物（原曲：Sowelu）",
+      "channel": "tower",
+      "videoId": "U3H4mhvVz20",
+      "timestampSeconds": 0,
+      "summary": "公式動画タイトルでSoweluの『Rainbow』が好きな曲として確認できます。",
+      "tags": [
+        "既存曲",
+        "好きな曲",
+        "Sowelu"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "『Soweluの「Rainbow」が一番好きな曲な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+      "publishedAt": "2021-04-18T09:00:16Z",
+      "url": "https://www.youtube.com/watch?v=U3H4mhvVz20"
+    },
+    {
+      "id": "shabondama",
+      "title": "しゃぼん玉",
+      "performer": "動画内の人物",
+      "channel": "tower",
+      "videoId": "hYR1AzFYn7E",
+      "timestampSeconds": 0,
+      "summary": "公式動画タイトルで、歌詞をなかなか覚えられない歌として曲名が確認できます。",
+      "tags": [
+        "既存曲",
+        "歌詞",
+        "童謡"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "『「しゃぼん玉」の歌詞覚えられへん奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+      "publishedAt": "2021-07-01T09:00:14Z",
+      "url": "https://www.youtube.com/watch?v=hYR1AzFYn7E"
+    },
+    {
+      "id": "ojiri-bonjiri-song",
+      "title": "大尻・凡尻の歌",
+      "titleType": "descriptive",
+      "performer": "大尻・凡尻",
+      "channel": "tower",
+      "videoId": "8FMnBXyks-I",
+      "timestampSeconds": 0,
+      "summary": "1億回記念の本気ネタで大尻・凡尻が歌う楽曲。正式な曲名は確認待ちです。",
+      "tags": [
+        "本気ネタ",
+        "デュオ",
+        "歌"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "１億回記念！本気ネタ！『大尻•凡尻歌う奴』【JARUJARUTOWER】",
+      "publishedAt": "2019-05-12T03:00:02Z",
+      "url": "https://www.youtube.com/watch?v=8FMnBXyks-I"
+    },
+    {
+      "id": "enka-audition-song",
+      "title": "演歌でオーディションの歌",
+      "titleType": "descriptive",
+      "performer": "オーディションを受ける人物",
+      "channel": "tower",
+      "videoId": "0njbpGVrfTo",
+      "timestampSeconds": 0,
+      "summary": "演歌でオーディションを受ける本気ネタの歌。正式な曲名は確認待ちです。",
+      "tags": [
+        "演歌",
+        "オーディション",
+        "本気ネタ"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "１億回記念！本気ネタ！『演歌でオーディション受ける奴』【JARUJARUTOWER】",
+      "publishedAt": "2019-05-12T03:00:00Z",
+      "url": "https://www.youtube.com/watch?v=0njbpGVrfTo"
+    },
+    {
+      "id": "highschool-idol-view-song",
+      "title": "男子高校生のアイドル目線の歌",
+      "titleType": "descriptive",
+      "performer": "男子高校生",
+      "channel": "tower",
+      "videoId": "sue20eNdbvI",
+      "timestampSeconds": 0,
+      "summary": "男子高校生がアイドル目線で作る歌。正式な曲名は確認待ちです。",
+      "tags": [
+        "高校生",
+        "アイドル",
+        "本気ネタ"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "１億回記念！本気ネタ！『男子高校生のくせにアイドル目線な歌を作る奴』【JARUJARUTOWER】",
+      "publishedAt": "2019-05-12T03:00:02Z",
+      "url": "https://www.youtube.com/watch?v=sue20eNdbvI"
+    },
+    {
+      "id": "highschool-enka-song",
+      "title": "男子高校生が作る演歌",
+      "titleType": "descriptive",
+      "performer": "男子高校生",
+      "channel": "tower",
+      "videoId": "Z8L9tdWcfy8",
+      "timestampSeconds": 0,
+      "summary": "男子高校生が作って歌う演歌。正式な曲名は確認待ちです。",
+      "tags": [
+        "高校生",
+        "演歌",
+        "煩悩ネタ"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "煩悩ネタ！『男子高校生のくせに演歌を作って歌う奴』",
+      "publishedAt": "2020-03-29T01:13:59Z",
+      "url": "https://www.youtube.com/watch?v=Z8L9tdWcfy8"
+    },
+    {
+      "id": "ordinary-original-song",
+      "title": "凡人のオリジナルソング",
+      "titleType": "descriptive",
+      "performer": "動画内の人物",
+      "channel": "tower",
+      "videoId": "iaF_NzEAQqE",
+      "timestampSeconds": 0,
+      "summary": "先の展開を読まれてしまう凡人のオリジナルソング。正式な曲名は確認待ちです。",
+      "tags": [
+        "オリジナルソング",
+        "本気ネタ",
+        "予想"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "５億回記念！本気ネタ！『凡人のオリジナルソング、先わかる奴』",
+      "publishedAt": "2020-12-09T10:00:23Z",
+      "url": "https://www.youtube.com/watch?v=iaF_NzEAQqE"
+    },
+    {
+      "id": "teacher-graduation-original-song",
+      "title": "卒業式の担任のオリジナルソング",
+      "titleType": "descriptive",
+      "performer": "担任",
+      "channel": "tower",
+      "videoId": "V5hme_WkOow",
+      "timestampSeconds": 0,
+      "summary": "卒業式の日に担任が歌うオリジナルソング。正式な曲名は確認待ちです。",
+      "tags": [
+        "卒業式",
+        "先生",
+        "オリジナルソング"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "『卒業式の日にオリジナルソングを歌う担任に、「それキツい」って言われへん奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+      "publishedAt": "2022-12-13T09:00:27Z",
+      "url": "https://www.youtube.com/watch?v=V5hme_WkOow"
+    },
+    {
+      "id": "farewell-friends-song",
+      "title": "地元を出る友人とのお別れソング",
+      "titleType": "descriptive",
+      "performer": "地元を出る友人たち",
+      "channel": "tower",
+      "videoId": "oepPheixtHU",
+      "timestampSeconds": 0,
+      "summary": "地元を出る友人との別れに歌い合うオリジナルソング。正式な曲名は確認待ちです。",
+      "tags": [
+        "友達",
+        "別れ",
+        "オリジナルソング"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "『地元を出る友人とお別れにオリジナルソングを歌い合う奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+      "publishedAt": "2024-07-24T09:00:43Z",
+      "url": "https://www.youtube.com/watch?v=oepPheixtHU"
+    },
+    {
+      "id": "mothers-day-original-song",
+      "title": "母の日のオリジナルソング",
+      "titleType": "descriptive",
+      "performer": "動画内の人物",
+      "channel": "island",
+      "videoId": "KdnPpHrD8A4",
+      "timestampSeconds": 0,
+      "summary": "母の日に歌われるオリジナルソング。複数年のアイランド動画で扱われています。",
+      "tags": [
+        "母の日",
+        "家族",
+        "オリジナルソング"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "母の日にオリジナルソング歌う奴2026",
+      "publishedAt": "2026-05-21T14:00:07Z",
+      "url": "https://www.youtube.com/watch?v=KdnPpHrD8A4"
+    },
+    {
+      "id": "fathers-day-original-song",
+      "title": "父の日のオリジナルソング",
+      "titleType": "descriptive",
+      "performer": "動画内の人物",
+      "channel": "island",
+      "videoId": "jBEpUUqt_iY",
+      "timestampSeconds": 0,
+      "summary": "父の日に歌われるオリジナルソング。正式な曲名は確認待ちです。",
+      "tags": [
+        "父の日",
+        "家族",
+        "オリジナルソング"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "父の日にオリジナルソング歌う奴",
+      "publishedAt": "2026-06-18T14:00:06Z",
+      "url": "https://www.youtube.com/watch?v=jBEpUUqt_iY"
+    },
+    {
+      "id": "dance-lesson-original-song",
+      "title": "ダンスレッスン中のオリジナルソング",
+      "titleType": "descriptive",
+      "performer": "ダンスレッスン中の人物",
+      "channel": "island",
+      "videoId": "BoWje8HAMxw",
+      "timestampSeconds": 0,
+      "summary": "ダンスレッスン中に歌われるオリジナルソング。正式な曲名は確認待ちです。",
+      "tags": [
+        "ダンス",
+        "レッスン",
+        "オリジナルソング"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "ダンスレッスン中にオリジナルソング歌う奴",
+      "publishedAt": "2026-10-04T23:00:09Z",
+      "url": "https://www.youtube.com/watch?v=BoWje8HAMxw"
+    },
+    {
+      "id": "new-year-party-original-song",
+      "title": "新年会のオリジナルソング",
+      "titleType": "descriptive",
+      "performer": "新年会の参加者",
+      "channel": "island",
+      "videoId": "ZiLGwmid3po",
+      "timestampSeconds": 0,
+      "summary": "新年会で小さな声から歌い上げるオリジナルソング。正式な曲名は確認待ちです。",
+      "tags": [
+        "新年会",
+        "オリジナルソング",
+        "歌"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "新年会で「何かやれ!」と言われ蚊の鳴くような声でオリジナルソング歌いあげる奴",
+      "publishedAt": "2026-01-06T12:00:06Z",
+      "url": "https://www.youtube.com/watch?v=ZiLGwmid3po"
+    },
+    {
+      "id": "tv-sales-original-enka",
+      "title": "テレビを売るオリジナル演歌",
+      "titleType": "descriptive",
+      "performer": "家電店員",
+      "channel": "tower",
+      "videoId": "fZiZXMmrT8Y",
+      "timestampSeconds": 0,
+      "summary": "家電店員がテレビを売るために歌うオリジナル演歌。正式な曲名は確認待ちです。",
+      "tags": [
+        "演歌",
+        "店員",
+        "営業"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "『オリジナル演歌でテレビ売る店員の奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+      "publishedAt": "2026-05-03T09:00:48Z",
+      "url": "https://www.youtube.com/watch?v=fZiZXMmrT8Y"
+    },
+    {
+      "id": "cheer-up-style-song",
+      "title": "元気出そう系の歌",
+      "titleType": "descriptive",
+      "performer": "動画内の歌手",
+      "channel": "tower",
+      "videoId": "-SQyw15VLeQ",
+      "timestampSeconds": 0,
+      "summary": "元気を出そうと強く呼びかけすぎて、プロデューサーに指摘される歌。正式な曲名は確認待ちです。",
+      "tags": [
+        "応援歌",
+        "歌手",
+        "プロデューサー"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "『“元気出そう系”の歌すぎてプロデューサーに「やかましい」って言われる歌手の奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+      "publishedAt": "2026-07-10T09:00:19Z",
+      "url": "https://www.youtube.com/watch?v=-SQyw15VLeQ"
+    },
+    {
+      "id": "leave-the-band-song",
+      "title": "脱退してくれと伝える新曲",
+      "titleType": "descriptive",
+      "performer": "動画内のバンド",
+      "channel": "tower",
+      "videoId": "ZY76Hjm8zEI",
+      "timestampSeconds": 0,
+      "summary": "『脱退してくれ』というメッセージを入れた新曲。正式な曲名は確認待ちです。",
+      "tags": [
+        "新曲",
+        "バンド",
+        "メッセージ"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "『新曲に「脱退してくれ」と入れてるのに、全然伝わらん奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+      "publishedAt": "2026-07-12T09:00:39Z",
+      "url": "https://www.youtube.com/watch?v=ZY76Hjm8zEI"
+    },
+    {
+      "id": "takeda-tetsuo-song",
+      "title": "武田鉄男の「あんたが大将」みたいな曲",
+      "titleType": "descriptive",
+      "performer": "武田鉄男",
+      "channel": "tower",
+      "videoId": "kmod9gth_pQ",
+      "timestampSeconds": 0,
+      "summary": "武田鉄男が披露する『あんたが大将』のような雰囲気の曲。正式な曲名は確認待ちです。",
+      "tags": [
+        "武田鉄男",
+        "演歌",
+        "人物曲"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "『「あんたが大将」みたいな曲を披露する武田鉄男って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+      "publishedAt": "2026-05-26T09:00:41Z",
+      "url": "https://www.youtube.com/watch?v=kmod9gth_pQ"
+    },
+    {
+      "id": "breakfast-song",
+      "title": "朝ごはんの歌",
+      "titleType": "descriptive",
+      "performer": "60歳の父親",
+      "channel": "tower",
+      "videoId": "ecEcCfPeACo",
+      "timestampSeconds": 0,
+      "summary": "朝ごはんを食べない息子に聞かせる歌。正式な曲名は確認待ちです。",
+      "tags": [
+        "朝ごはん",
+        "家族",
+        "歌"
+      ],
+      "evidence": "official_video_title",
+      "status": "verified",
+      "videoTitle": "『朝ごはん食べない息子に、朝ごはんの歌聞かせる６０歳の奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
+      "publishedAt": "2020-02-15T09:00:09Z",
+      "url": "https://www.youtube.com/watch?v=ecEcCfPeACo"
     }
   ]
 }

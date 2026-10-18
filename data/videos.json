@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:37:53.670Z",
+  "generatedAt": "2026-10-18T06:49:18.478Z",
   "total": 5110,
   "topics": [
     {
@@ -69,16 +69,6 @@
   ],
   "videos": [
     {
-      "id": "tzFXNjOF2f8",
-      "title": "ジャルジャルコント会議　ロボット三等兵登場！",
-      "channel": "tower",
-      "publishedAt": "2015-07-29T10:00:03Z",
-      "url": "https://www.youtube.com/watch?v=tzFXNjOF2f8",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "1N9epOTQmXQ",
       "title": "ジャルジャルコント『人間シュレッダー』",
       "channel": "tower",
@@ -125,6 +115,16 @@
       "channel": "tower",
       "publishedAt": "2016-12-01T10:00:01Z",
       "url": "https://www.youtube.com/watch?v=bKjp-iqVT-0",
+      "topics": [
+        "芸人・ネタ"
+      ]
+    },
+    {
+      "id": "RcJByXnF2kY",
+      "title": "ジャルジャルコント「葬式」",
+      "channel": "tower",
+      "publishedAt": "2016-12-01T10:00:01Z",
+      "url": "https://www.youtube.com/watch?v=RcJByXnF2kY",
       "topics": [
         "芸人・ネタ"
       ]
@@ -1433,7 +1433,16 @@
       "channel": "tower",
       "publishedAt": "2018-06-04T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=NvAvGpjlYdE",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "pumpkin-boy",
+          "name": "パンプキンボーイ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "YmHNXCPj4kE",
@@ -1866,7 +1875,18 @@
       "channel": "tower",
       "publishedAt": "2018-07-19T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=DR0ds50yiOg",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "heart-kyoko",
+          "name": "ハート♡キョーコ",
+          "aliases": [
+            "キョーコ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "gD9Oz6XFVQk",
@@ -2413,7 +2433,16 @@
       "channel": "tower",
       "publishedAt": "2018-09-18T09:00:02Z",
       "url": "https://www.youtube.com/watch?v=NjW6plAy5Qc",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "hadatsuya-yoshi",
+          "name": "肌つやよし",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "U-nMmzand0A",
@@ -2585,6 +2614,15 @@
       "topics": [
         "芸人・ネタ",
         "音楽"
+      ],
+      "entities": [
+        {
+          "id": "haikatsuryo",
+          "name": "肺活量",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
       ]
     },
     {
@@ -4874,6 +4912,17 @@
       "url": "https://www.youtube.com/watch?v=8FMnBXyks-I",
       "topics": [
         "音楽"
+      ],
+      "entities": [
+        {
+          "id": "ojiri-bonjiri",
+          "name": "大尻・凡尻",
+          "aliases": [
+            "大尻•凡尻"
+          ],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
       ]
     },
     {
@@ -5582,7 +5631,16 @@
       "channel": "tower",
       "publishedAt": "2019-07-06T09:00:06Z",
       "url": "https://www.youtube.com/watch?v=nDaCUGGLx7U",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "minowa-hikaru",
+          "name": "三ノ輪ひかる",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "3scDFfQV0XY",
@@ -7498,7 +7556,16 @@
       "channel": "tower",
       "publishedAt": "2019-12-29T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=Iisrmz-6nK4",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "morita-tengi",
+          "name": "森田てんぎ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "LtF8oToLvRw",
@@ -7531,6 +7598,13 @@
         {
           "id": "chara-ban",
           "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        },
+        {
+          "id": "ruisen-cork",
+          "name": "涙腺コルク",
           "aliases": [],
           "entityType": "character",
           "label": "キャラ名"
@@ -8483,7 +8557,16 @@
       "channel": "tower",
       "publishedAt": "2020-03-29T01:09:31Z",
       "url": "https://www.youtube.com/watch?v=ZVGU4yPamZI",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chatarai",
+          "name": "チャタライ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "upGOovXILls",
@@ -9443,7 +9526,18 @@
       "channel": "tower",
       "publishedAt": "2020-04-03T09:00:31Z",
       "url": "https://www.youtube.com/watch?v=oQZzmy_OdOo",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "noyama-susumu",
+          "name": "野山 晋",
+          "aliases": [
+            "野山晋"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "HfB5VvnCdTQ",
@@ -9469,7 +9563,16 @@
       "channel": "tower",
       "publishedAt": "2020-04-06T09:00:02Z",
       "url": "https://www.youtube.com/watch?v=AGDKsKSl2No",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "ruisen-cork",
+          "name": "涙腺コルク",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "lZ3V3PPk_XQ",
@@ -10981,6 +11084,15 @@
       "url": "https://www.youtube.com/watch?v=47AYGLJVkiM",
       "topics": [
         "電話"
+      ],
+      "entities": [
+        {
+          "id": "negishi",
+          "name": "根岸",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -11057,7 +11169,18 @@
       "channel": "island",
       "publishedAt": "2020-09-15T11:00:23Z",
       "url": "https://www.youtube.com/watch?v=qeZ_AbcEq_0",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "heart-kyoko",
+          "name": "ハート♡キョーコ",
+          "aliases": [
+            "キョーコ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "pRmBJdUb5G4",
@@ -11365,6 +11488,15 @@
       "url": "https://www.youtube.com/watch?v=naM38054q0U",
       "topics": [
         "音楽"
+      ],
+      "entities": [
+        {
+          "id": "yada-shin",
+          "name": "矢田心",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -11542,7 +11674,16 @@
       "channel": "island",
       "publishedAt": "2020-10-14T11:00:13Z",
       "url": "https://www.youtube.com/watch?v=sJypv70HoyM",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "tokuko",
+          "name": "トクコ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "xki3I39r6V8",
@@ -11784,6 +11925,15 @@
       "url": "https://www.youtube.com/watch?v=vt9B-G1WkLo",
       "topics": [
         "電話"
+      ],
+      "entities": [
+        {
+          "id": "ultras",
+          "name": "ウルトラズ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
       ]
     },
     {
@@ -11854,7 +12004,16 @@
       "channel": "island",
       "publishedAt": "2020-11-03T11:08:00Z",
       "url": "https://www.youtube.com/watch?v=YmHq6-mVMNk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "ultras",
+          "name": "ウルトラズ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "YiMzFhR6-2w",
@@ -11973,7 +12132,16 @@
       "channel": "island",
       "publishedAt": "2020-11-11T11:00:18Z",
       "url": "https://www.youtube.com/watch?v=O845DlyTjKw",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "tokuko",
+          "name": "トクコ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "cnpb2ImkP48",
@@ -12177,7 +12345,16 @@
       "channel": "island",
       "publishedAt": "2020-11-24T12:00:11Z",
       "url": "https://www.youtube.com/watch?v=w0v3nqgK1kY",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "yada-shin",
+          "name": "矢田心",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "q_wK4IPuP_0",
@@ -12435,7 +12612,19 @@
       "channel": "tower",
       "publishedAt": "2020-12-09T10:00:11Z",
       "url": "https://www.youtube.com/watch?v=hsHdZXayNrM",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "kuwako-and-okuwa",
+          "name": "桑子と大桑子",
+          "aliases": [
+            "桑子",
+            "大桑子"
+          ],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "lnK37xF1jvU",
@@ -12505,6 +12694,15 @@
       "url": "https://www.youtube.com/watch?v=rcvejUgwn10",
       "topics": [
         "電話"
+      ],
+      "entities": [
+        {
+          "id": "tokuko",
+          "name": "トクコ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -12698,7 +12896,16 @@
       "channel": "island",
       "publishedAt": "2020-12-23T12:00:14Z",
       "url": "https://www.youtube.com/watch?v=snBMtBvSeoo",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "tokuko",
+          "name": "トクコ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "xWJvLtkF2Lc",
@@ -12706,7 +12913,16 @@
       "channel": "tower",
       "publishedAt": "2020-12-24T09:00:32Z",
       "url": "https://www.youtube.com/watch?v=xWJvLtkF2Lc",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "shay",
+          "name": "シェイ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "qvTBSVRrWIw",
@@ -12859,6 +13075,13 @@
           "aliases": [],
           "entityType": "character",
           "label": "キャラ名"
+        },
+        {
+          "id": "ruisen-cork",
+          "name": "涙腺コルク",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
         }
       ]
     },
@@ -12971,7 +13194,16 @@
       "channel": "island",
       "publishedAt": "2021-01-07T12:00:13Z",
       "url": "https://www.youtube.com/watch?v=fIZICADpVIk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "negishi",
+          "name": "根岸",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "-8gZOphaZYw",
@@ -13173,6 +13405,15 @@
       "url": "https://www.youtube.com/watch?v=QAJ8ah0hkrM",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "baribo-yamamoto",
+          "name": "バリボ山本",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -13261,6 +13502,15 @@
       "url": "https://www.youtube.com/watch?v=Cw7jgS2VvL4",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "baribo-yamamoto",
+          "name": "バリボ山本",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -13509,7 +13759,16 @@
       "channel": "island",
       "publishedAt": "2021-02-10T12:00:17Z",
       "url": "https://www.youtube.com/watch?v=yJ38ZOMSgNk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chatarai",
+          "name": "チャタライ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "8rKdgBBh3OU",
@@ -14313,6 +14572,15 @@
       "url": "https://www.youtube.com/watch?v=rBjyqKbMWDA",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "yumenashi-daigakusei",
+          "name": "夢なし大学生",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -14602,6 +14870,17 @@
       "url": "https://www.youtube.com/watch?v=tXYQT3ZLHHw",
       "topics": [
         "音楽"
+      ],
+      "entities": [
+        {
+          "id": "ojiri-bonjiri",
+          "name": "大尻・凡尻",
+          "aliases": [
+            "大尻•凡尻"
+          ],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
       ]
     },
     {
@@ -14644,7 +14923,16 @@
       "channel": "tower",
       "publishedAt": "2021-04-23T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=6LgFJZgbPFE",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "ichirinsha-boy",
+          "name": "一輪車ボーイ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "0zva9iWCTMg",
@@ -14805,6 +15093,17 @@
       "url": "https://www.youtube.com/watch?v=xYP8XeaL5Cg",
       "topics": [
         "音楽"
+      ],
+      "entities": [
+        {
+          "id": "ojiri-bonjiri",
+          "name": "大尻・凡尻",
+          "aliases": [
+            "大尻•凡尻"
+          ],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
       ]
     },
     {
@@ -15956,7 +16255,16 @@
       "channel": "island",
       "publishedAt": "2021-07-13T12:00:15Z",
       "url": "https://www.youtube.com/watch?v=vFYfe6c2t7Q",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "negishi",
+          "name": "根岸",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "MuqGA-Az6g0",
@@ -16100,6 +16408,15 @@
       "url": "https://www.youtube.com/watch?v=-ZCxPEaUE3k",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "yumenashi-daigakusei",
+          "name": "夢なし大学生",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -16760,7 +17077,16 @@
       "channel": "tower",
       "publishedAt": "2021-08-30T09:00:07Z",
       "url": "https://www.youtube.com/watch?v=9QRcAvb08n8",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "tsukamoto",
+          "name": "塚本",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "zQG_LGdwrBc",
@@ -17168,7 +17494,16 @@
       "channel": "island",
       "publishedAt": "2021-09-22T12:00:13Z",
       "url": "https://www.youtube.com/watch?v=ab1sNxCoIIQ",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "negishi",
+          "name": "根岸",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "GL83InINrYE",
@@ -17563,7 +17898,16 @@
       "channel": "tower",
       "publishedAt": "2021-10-17T09:00:13Z",
       "url": "https://www.youtube.com/watch?v=_uFOWCh2iZI",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "cutie-candy",
+          "name": "キューティーキャンディ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "miwS6Cy-cns",
@@ -17622,7 +17966,16 @@
       "channel": "tower",
       "publishedAt": "2021-10-21T09:00:32Z",
       "url": "https://www.youtube.com/watch?v=sEH1yCLMfaY",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "ruisen-cork",
+          "name": "涙腺コルク",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "P3YrGU6SFYY",
@@ -17674,6 +18027,15 @@
       "url": "https://www.youtube.com/watch?v=1z1XdCh7FLk",
       "topics": [
         "恋愛・結婚"
+      ],
+      "entities": [
+        {
+          "id": "ruisen-cork",
+          "name": "涙腺コルク",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -17776,7 +18138,16 @@
       "channel": "tower",
       "publishedAt": "2021-10-31T09:00:33Z",
       "url": "https://www.youtube.com/watch?v=oaPrre7lDuk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "pumpkin-boy",
+          "name": "パンプキンボーイ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "ss_W2bhOFkw",
@@ -17812,6 +18183,15 @@
       "url": "https://www.youtube.com/watch?v=jwUckDyEFso",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "yumenashi-daigakusei",
+          "name": "夢なし大学生",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -17917,7 +18297,18 @@
       "channel": "island",
       "publishedAt": "2021-11-09T12:00:11Z",
       "url": "https://www.youtube.com/watch?v=J2Ay1ChBfFA",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "6qqIbZlaRyk",
@@ -18063,6 +18454,17 @@
       "url": "https://www.youtube.com/watch?v=vkHlOoeQsr4",
       "topics": [
         "電話"
+      ],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -18237,7 +18639,16 @@
       "channel": "tower",
       "publishedAt": "2021-11-29T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=8HxNw1-kG2A",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "shay",
+          "name": "シェイ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "Z5KrJQDY9_0",
@@ -18253,7 +18664,18 @@
       "channel": "island",
       "publishedAt": "2021-11-30T12:00:10Z",
       "url": "https://www.youtube.com/watch?v=rNt8rp6Van4",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "M3mNykugZfk",
@@ -18271,6 +18693,15 @@
       "url": "https://www.youtube.com/watch?v=Pxl3JqcD9OQ",
       "topics": [
         "会社・仕事"
+      ],
+      "entities": [
+        {
+          "id": "pumpkin-boy",
+          "name": "パンプキンボーイ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -18345,7 +18776,16 @@
       "channel": "island",
       "publishedAt": "2021-12-05T23:13:41Z",
       "url": "https://www.youtube.com/watch?v=9Oa3PlgDytI",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "shay",
+          "name": "シェイ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "HUpNIfXC8Kw",
@@ -18751,6 +19191,15 @@
       "url": "https://www.youtube.com/watch?v=KhmIzvKqj1M",
       "topics": [
         "電話"
+      ],
+      "entities": [
+        {
+          "id": "tokuko",
+          "name": "トクコ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -18783,6 +19232,13 @@
           "aliases": [],
           "entityType": "character",
           "label": "キャラ名"
+        },
+        {
+          "id": "ruisen-cork",
+          "name": "涙腺コルク",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
         }
       ]
     },
@@ -18810,7 +19266,16 @@
       "channel": "island",
       "publishedAt": "2022-01-02T12:00:20Z",
       "url": "https://www.youtube.com/watch?v=fIP7KiXAuNE",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "cutie-candy",
+          "name": "キューティーキャンディ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "3hRS2o4vwSc",
@@ -19068,7 +19533,16 @@
       "channel": "island",
       "publishedAt": "2022-01-17T12:30:05Z",
       "url": "https://www.youtube.com/watch?v=4sd2DFWjJDE",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "ultras",
+          "name": "ウルトラズ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "teJURyDZW78",
@@ -19076,7 +19550,16 @@
       "channel": "island",
       "publishedAt": "2022-01-17T12:30:14Z",
       "url": "https://www.youtube.com/watch?v=teJURyDZW78",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "ultras",
+          "name": "ウルトラズ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "n4_cC1lvfAY",
@@ -19102,7 +19585,16 @@
       "channel": "island",
       "publishedAt": "2022-01-18T12:36:56Z",
       "url": "https://www.youtube.com/watch?v=fEVdZoFUUZ0",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "ultras",
+          "name": "ウルトラズ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "gF1KQstwjS4",
@@ -19231,6 +19723,15 @@
       "url": "https://www.youtube.com/watch?v=1dknOzK2jeY",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "power-jungle",
+          "name": "パワージャングル",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
       ]
     },
     {
@@ -19265,7 +19766,16 @@
       "channel": "island",
       "publishedAt": "2022-01-28T11:25:56Z",
       "url": "https://www.youtube.com/watch?v=rwNez5RslGo",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "yada-shin",
+          "name": "矢田心",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "YjKMhXBta9k",
@@ -19319,7 +19829,18 @@
       "channel": "island",
       "publishedAt": "2022-02-01T12:00:11Z",
       "url": "https://www.youtube.com/watch?v=ZLQiBSewa34",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "qQJ43yUtqEU",
@@ -19380,7 +19901,16 @@
       "channel": "island",
       "publishedAt": "2022-02-04T11:25:15Z",
       "url": "https://www.youtube.com/watch?v=d7XqeEL5nA8",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "baribo-yamamoto",
+          "name": "バリボ山本",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "h7caqzqgAj0",
@@ -19559,6 +20089,17 @@
       "topics": [
         "面接",
         "店・接客"
+      ],
+      "entities": [
+        {
+          "id": "tencho-yamashita",
+          "name": "店長山下",
+          "aliases": [
+            "山下"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -19611,7 +20152,18 @@
       "channel": "island",
       "publishedAt": "2022-02-18T11:00:13Z",
       "url": "https://www.youtube.com/watch?v=OO4Go2esV3s",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "sane-hyeolju",
+          "name": "サネ・ヒョルジュ",
+          "aliases": [
+            "サネ・ヒョルジュ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "4CMDJMF_rVQ",
@@ -19666,6 +20218,17 @@
       "topics": [
         "面接",
         "店・接客"
+      ],
+      "entities": [
+        {
+          "id": "tencho-yamashita",
+          "name": "店長山下",
+          "aliases": [
+            "山下"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -19724,7 +20287,18 @@
       "channel": "island",
       "publishedAt": "2022-02-25T11:00:09Z",
       "url": "https://www.youtube.com/watch?v=tKJPyCjDJgc",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "E_VhtbLXUWE",
@@ -19757,7 +20331,16 @@
       "channel": "island",
       "publishedAt": "2022-02-27T12:00:13Z",
       "url": "https://www.youtube.com/watch?v=V_8F6bkucHY",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "kujiji",
+          "name": "久地々",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "_edfMZtNyxk",
@@ -19794,6 +20377,17 @@
       "topics": [
         "面接",
         "店・接客"
+      ],
+      "entities": [
+        {
+          "id": "tencho-yamashita",
+          "name": "店長山下",
+          "aliases": [
+            "山下"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -19829,6 +20423,17 @@
       "topics": [
         "面接",
         "店・接客"
+      ],
+      "entities": [
+        {
+          "id": "tencho-yamashita",
+          "name": "店長山下",
+          "aliases": [
+            "山下"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -19871,7 +20476,16 @@
       "channel": "island",
       "publishedAt": "2022-03-06T12:00:14Z",
       "url": "https://www.youtube.com/watch?v=naSTDsJkUu4",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "kujiji",
+          "name": "久地々",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "IQdhae3iIWw",
@@ -19879,7 +20493,16 @@
       "channel": "island",
       "publishedAt": "2022-03-06T13:22:17Z",
       "url": "https://www.youtube.com/watch?v=IQdhae3iIWw",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "kujiji",
+          "name": "久地々",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "YgKZtWGxMQw",
@@ -20000,7 +20623,16 @@
       "channel": "island",
       "publishedAt": "2022-03-13T12:00:11Z",
       "url": "https://www.youtube.com/watch?v=rYxce6xrBYY",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "kujiji",
+          "name": "久地々",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "Hrud9BVFT8o",
@@ -20451,7 +21083,16 @@
       "channel": "island",
       "publishedAt": "2022-04-10T12:00:11Z",
       "url": "https://www.youtube.com/watch?v=cunZM35RkI4",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "kujiji",
+          "name": "久地々",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "9CWwbSl_FDM",
@@ -20591,7 +21232,18 @@
       "channel": "island",
       "publishedAt": "2022-04-19T12:00:14Z",
       "url": "https://www.youtube.com/watch?v=-jz6m9cmL1g",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "hbqKWgwqbLU",
@@ -20607,7 +21259,16 @@
       "channel": "island",
       "publishedAt": "2022-04-20T12:00:10Z",
       "url": "https://www.youtube.com/watch?v=WG7dvqFYo1w",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "kujiji",
+          "name": "久地々",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "ENKI2HBi5WM",
@@ -20816,7 +21477,16 @@
       "channel": "island",
       "publishedAt": "2022-05-03T12:00:13Z",
       "url": "https://www.youtube.com/watch?v=1oZ_PmIvzRU",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "yada-shin",
+          "name": "矢田心",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "icpEUEtfXbY",
@@ -21289,6 +21959,15 @@
       "url": "https://www.youtube.com/watch?v=HmTUDQHDdxs",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "yumenashi-daigakusei",
+          "name": "夢なし大学生",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -21421,7 +22100,18 @@
       "channel": "island",
       "publishedAt": "2022-06-10T09:00:11Z",
       "url": "https://www.youtube.com/watch?v=WHgZPu3eXZs",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "sane-hyeolju",
+          "name": "サネ・ヒョルジュ",
+          "aliases": [
+            "サネ・ヒョルジュ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "NOTFcXqEDsA",
@@ -21932,6 +22622,15 @@
       "url": "https://www.youtube.com/watch?v=5YLv-N4hK_g",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "yumenashi-daigakusei",
+          "name": "夢なし大学生",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -22607,6 +23306,17 @@
       "url": "https://www.youtube.com/watch?v=aPkcRTBAyaY",
       "topics": [
         "バイト"
+      ],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -22816,6 +23526,15 @@
       "url": "https://www.youtube.com/watch?v=UM3LCQ3Onp4",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "yumenashi-daigakusei",
+          "name": "夢なし大学生",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -23003,7 +23722,16 @@
       "channel": "island",
       "publishedAt": "2022-09-17T03:00:12Z",
       "url": "https://www.youtube.com/watch?v=0JFgzeCIAm4",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "ultras",
+          "name": "ウルトラズ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "a8m6xTP_2pI",
@@ -23399,7 +24127,16 @@
       "channel": "island",
       "publishedAt": "2022-10-11T12:00:11Z",
       "url": "https://www.youtube.com/watch?v=MiB2e2zYIqM",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "baribo-yamamoto",
+          "name": "バリボ山本",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "Huht7d9u79g",
@@ -23506,7 +24243,18 @@
       "channel": "island",
       "publishedAt": "2022-10-18T12:00:11Z",
       "url": "https://www.youtube.com/watch?v=tNao1WiO_14",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "schdv9z7VJo",
@@ -23751,7 +24499,18 @@
       "channel": "island",
       "publishedAt": "2022-11-02T11:45:11Z",
       "url": "https://www.youtube.com/watch?v=KVJEkG2lDf4",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "I7JiKrFEaIU",
@@ -23859,6 +24618,15 @@
       "url": "https://www.youtube.com/watch?v=ji6tcPXsDKI",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "yumenashi-daigakusei",
+          "name": "夢なし大学生",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -23945,7 +24713,16 @@
       "channel": "tower",
       "publishedAt": "2022-11-15T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=1Hq69RzctJw",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "mugcup-margin",
+          "name": "マグカップマージン",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "6t4z04h9SQo",
@@ -24762,6 +25539,13 @@
         {
           "id": "chara-ban",
           "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        },
+        {
+          "id": "ruisen-cork",
+          "name": "涙腺コルク",
           "aliases": [],
           "entityType": "character",
           "label": "キャラ名"
@@ -25781,6 +26565,15 @@
       "url": "https://www.youtube.com/watch?v=zgs8xGM4c9M",
       "topics": [
         "会社・仕事"
+      ],
+      "entities": [
+        {
+          "id": "makikomi-shacho",
+          "name": "巻込社長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -26493,7 +27286,16 @@
       "channel": "tower",
       "publishedAt": "2023-04-16T09:00:14Z",
       "url": "https://www.youtube.com/watch?v=QjN7gX25QFU",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "limousine-kyosuke",
+          "name": "リムジン恭介",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "J3L714nWiIA",
@@ -26569,7 +27371,23 @@
       "channel": "tower",
       "publishedAt": "2023-04-21T09:00:10Z",
       "url": "https://www.youtube.com/watch?v=HgRn99XIlHs",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "limousine-kyosuke",
+          "name": "リムジン恭介",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        },
+        {
+          "id": "opera-shinji",
+          "name": "オペラ慎二",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "_1giYgeOqH8",
@@ -27078,7 +27896,18 @@
       "channel": "island",
       "publishedAt": "2023-05-24T12:00:07Z",
       "url": "https://www.youtube.com/watch?v=TwF_GqaBMNA",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "HiuzBAQuVz4",
@@ -27232,6 +28061,17 @@
       "url": "https://www.youtube.com/watch?v=wAtZ6J-2oKU",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "makerumata",
+          "name": "負俣",
+          "aliases": [
+            "まけるまた"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -27318,7 +28158,16 @@
       "channel": "tower",
       "publishedAt": "2023-06-09T09:00:30Z",
       "url": "https://www.youtube.com/watch?v=U5gLzuDpK2s",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "chameleon-nosuke",
+          "name": "カメレ・オンの助",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "32zhGT7Htjg",
@@ -27512,7 +28361,16 @@
       "channel": "tower",
       "publishedAt": "2023-06-22T09:00:13Z",
       "url": "https://www.youtube.com/watch?v=Vlybl_CoeIk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "onishi-ben",
+          "name": "大西便",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "UopWR5pCIrY",
@@ -27959,7 +28817,16 @@
       "channel": "island",
       "publishedAt": "2023-07-21T03:00:15Z",
       "url": "https://www.youtube.com/watch?v=ZLmRD16tmo8",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "ultras",
+          "name": "ウルトラズ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "db1nmQRCjqA",
@@ -28093,6 +28960,15 @@
       "url": "https://www.youtube.com/watch?v=cYe28GTxK8o",
       "topics": [
         "音楽"
+      ],
+      "entities": [
+        {
+          "id": "tanaka-hotchkiss",
+          "name": "田中ホッチキス",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -28420,6 +29296,15 @@
       "url": "https://www.youtube.com/watch?v=gE0cmg8ON3A",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "haikatsuryo",
+          "name": "肺活量",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
       ]
     },
     {
@@ -28430,6 +29315,15 @@
       "url": "https://www.youtube.com/watch?v=wmvDfri3JL8",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "haikatsuryo",
+          "name": "肺活量",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
       ]
     },
     {
@@ -28981,7 +29875,18 @@
       "channel": "island",
       "publishedAt": "2023-09-26T12:00:08Z",
       "url": "https://www.youtube.com/watch?v=oR8Es1ensCg",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "8HM88b1uiC4",
@@ -29102,7 +30007,16 @@
       "channel": "island",
       "publishedAt": "2023-10-04T11:00:12Z",
       "url": "https://www.youtube.com/watch?v=N8eHnDMp9GY",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "baribo-yamamoto",
+          "name": "バリボ山本",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "WwkE5QusL1g",
@@ -29410,6 +30324,15 @@
       "url": "https://www.youtube.com/watch?v=ZPSnfuJoFUA",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "yumenashi-daigakusei",
+          "name": "夢なし大学生",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -29576,7 +30499,19 @@
       "channel": "tower",
       "publishedAt": "2023-11-04T09:00:19Z",
       "url": "https://www.youtube.com/watch?v=Sco844nk2jU",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "qBRN9jv5sFM",
@@ -29796,6 +30731,18 @@
       "url": "https://www.youtube.com/watch?v=HmHYO5Shfo0",
       "topics": [
         "恋愛・結婚"
+      ],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -29870,7 +30817,19 @@
       "channel": "island",
       "publishedAt": "2023-11-23T14:00:12Z",
       "url": "https://www.youtube.com/watch?v=TBYe3mzM71Q",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "SD5Q-i8CNAQ",
@@ -29912,7 +30871,19 @@
       "channel": "island",
       "publishedAt": "2023-11-26T23:00:09Z",
       "url": "https://www.youtube.com/watch?v=Bo2jYlrlAaA",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "Vrf2Q_FKcXc",
@@ -29960,7 +30931,16 @@
       "channel": "island",
       "publishedAt": "2023-11-29T13:00:00Z",
       "url": "https://www.youtube.com/watch?v=-NJ8K6KhXGk",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "ultras",
+          "name": "ウルトラズ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "iG68SFT7Lrs",
@@ -29984,7 +30964,16 @@
       "channel": "island",
       "publishedAt": "2023-11-30T14:00:09Z",
       "url": "https://www.youtube.com/watch?v=ynMhGk0WiKQ",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "yada-shin",
+          "name": "矢田心",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "fcZR1C5YRuE",
@@ -30018,7 +31007,19 @@
       "channel": "tower",
       "publishedAt": "2023-12-03T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=1lUaPkUE3zY",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "l8AY5LwkZ_Q",
@@ -30327,6 +31328,18 @@
       "topics": [
         "芸人・ネタ",
         "スポーツ"
+      ],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -30345,6 +31358,18 @@
       "url": "https://www.youtube.com/watch?v=7j53ILiAOGg",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -30441,7 +31466,19 @@
       "channel": "tower",
       "publishedAt": "2023-12-31T09:00:30Z",
       "url": "https://www.youtube.com/watch?v=nOEe_wN1b_s",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "l1CE_t7VuRA",
@@ -30454,6 +31491,13 @@
         {
           "id": "chara-ban",
           "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        },
+        {
+          "id": "ruisen-cork",
+          "name": "涙腺コルク",
           "aliases": [],
           "entityType": "character",
           "label": "キャラ名"
@@ -30505,6 +31549,18 @@
       "url": "https://www.youtube.com/watch?v=tnayiz0zqwg",
       "topics": [
         "オーディション"
+      ],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -31025,7 +32081,16 @@
       "channel": "tower",
       "publishedAt": "2024-02-09T09:00:20Z",
       "url": "https://www.youtube.com/watch?v=U6xN13iepTg",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "beginners-lucker-ken",
+          "name": "ビギナーズラッカーケン",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "23u0XjUQwi4",
@@ -31113,6 +32178,15 @@
       "url": "https://www.youtube.com/watch?v=iT0NteV4JAI",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "yumenashi-daigakusei",
+          "name": "夢なし大学生",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -31424,7 +32498,16 @@
       "channel": "tower",
       "publishedAt": "2024-03-06T09:00:14Z",
       "url": "https://www.youtube.com/watch?v=FHBkflMQMF4",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "nikoniko-kun",
+          "name": "ニコニコくん",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "XgldY1rsog4",
@@ -31814,7 +32897,18 @@
       "channel": "tower",
       "publishedAt": "2024-03-31T09:00:38Z",
       "url": "https://www.youtube.com/watch?v=qnOvOrCurFA",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "rojo-taidanshi-shun",
+          "name": "路上対談師シュン",
+          "aliases": [
+            "シュン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "ipgIZk2eNPY",
@@ -32241,6 +33335,15 @@
       "url": "https://www.youtube.com/watch?v=WpUVLPN4w_k",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "yumenashi-daigakusei",
+          "name": "夢なし大学生",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -32755,6 +33858,15 @@
       "url": "https://www.youtube.com/watch?v=zk0Q3XVCDeA",
       "topics": [
         "音楽"
+      ],
+      "entities": [
+        {
+          "id": "highbends",
+          "name": "ハイベンズ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
       ]
     },
     {
@@ -33061,6 +34173,15 @@
       "url": "https://www.youtube.com/watch?v=e9hWpqYNHyg",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "yumenashi-daigakusei",
+          "name": "夢なし大学生",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -33171,6 +34292,18 @@
       "url": "https://www.youtube.com/watch?v=SInNnzz5cds",
       "topics": [
         "電話"
+      ],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -34464,7 +35597,16 @@
       "channel": "tower",
       "publishedAt": "2024-09-09T09:00:37Z",
       "url": "https://www.youtube.com/watch?v=e6u0G2Ige5I",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "yoji",
+          "name": "ヨージ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "yK73RvKOSnI",
@@ -34501,7 +35643,18 @@
       "channel": "island",
       "publishedAt": "2024-09-11T12:00:07Z",
       "url": "https://www.youtube.com/watch?v=WViHpGd0V8c",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "UwIfEoTCiz0",
@@ -34567,7 +35720,16 @@
       "channel": "island",
       "publishedAt": "2024-09-15T23:32:17Z",
       "url": "https://www.youtube.com/watch?v=LISSEUL-RYU",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "yoji",
+          "name": "ヨージ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "ECYM-5jdW7U",
@@ -34616,6 +35778,15 @@
       "url": "https://www.youtube.com/watch?v=XlU52Xq-_i8",
       "topics": [
         "音楽"
+      ],
+      "entities": [
+        {
+          "id": "yada-shin",
+          "name": "矢田心",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -35154,6 +36325,15 @@
       "topics": [
         "面接",
         "バイト"
+      ],
+      "entities": [
+        {
+          "id": "nikoniko-kun",
+          "name": "ニコニコくん",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -35360,6 +36540,15 @@
       "url": "https://www.youtube.com/watch?v=4HrBZFolpb4",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "baribo-yamamoto",
+          "name": "バリボ山本",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -36220,6 +37409,13 @@
           "aliases": [],
           "entityType": "character",
           "label": "キャラ名"
+        },
+        {
+          "id": "ruisen-cork",
+          "name": "涙腺コルク",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
         }
       ]
     },
@@ -36806,7 +38002,19 @@
       "channel": "tower",
       "publishedAt": "2025-02-08T09:00:12Z",
       "url": "https://www.youtube.com/watch?v=Cf7w-w3qajs",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "1COAIZpo6K8",
@@ -36928,7 +38136,16 @@
       "channel": "island",
       "publishedAt": "2025-02-16T23:00:06Z",
       "url": "https://www.youtube.com/watch?v=2QRISDf2UQs",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "power-jungle",
+          "name": "パワージャングル",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "k5zCNei4kLA",
@@ -37364,7 +38581,16 @@
       "channel": "tower",
       "publishedAt": "2025-03-17T09:00:44Z",
       "url": "https://www.youtube.com/watch?v=cax778GMLYo",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "kanshiki",
+          "name": "カンシキ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "wpXozsrysKw",
@@ -37869,7 +39095,18 @@
       "channel": "island",
       "publishedAt": "2025-04-18T12:00:06Z",
       "url": "https://www.youtube.com/watch?v=0MG3xNajspA",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "20DwAqXMLsY",
@@ -37982,6 +39219,15 @@
       "url": "https://www.youtube.com/watch?v=SjqNgUJprQc",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "aikata-fuzai-taro",
+          "name": "相方不在タロー",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -38745,6 +39991,15 @@
       "url": "https://www.youtube.com/watch?v=szfQYsMGhrw",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "muscle-taro",
+          "name": "マッスル太郎",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -39684,6 +40939,18 @@
       "url": "https://www.youtube.com/watch?v=JCz-UjLRINY",
       "topics": [
         "店・接客"
+      ],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -40247,7 +41514,16 @@
       "channel": "tower",
       "publishedAt": "2025-09-16T09:00:50Z",
       "url": "https://www.youtube.com/watch?v=VnPsvqMWlLI",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "uriki-manman",
+          "name": "売木満々",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "HOxi4AY0Ffk",
@@ -40521,6 +41797,15 @@
       "url": "https://www.youtube.com/watch?v=_eqEcXSTNAw",
       "topics": [
         "スポーツ"
+      ],
+      "entities": [
+        {
+          "id": "common",
+          "name": "コモン",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -41961,6 +43246,13 @@
         {
           "id": "chara-ban",
           "name": "チャラ男番長",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        },
+        {
+          "id": "ruisen-cork",
+          "name": "涙腺コルク",
           "aliases": [],
           "entityType": "character",
           "label": "キャラ名"
@@ -43411,7 +44703,16 @@
       "channel": "tower",
       "publishedAt": "2026-04-05T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=aEiga4Rkm-4",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "tsukamoto",
+          "name": "塚本",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "0e4FB-rDRHI",
@@ -44074,7 +45375,19 @@
       "channel": "island",
       "publishedAt": "2026-05-15T12:00:06Z",
       "url": "https://www.youtube.com/watch?v=MInDDtYphps",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "big-chintama-john",
+          "name": "BIGちん玉ジョン",
+          "aliases": [
+            "BIG ちん玉ジョン",
+            "BIGちん玉ジョン"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "F9wxCGQr5I4",
@@ -44231,6 +45544,15 @@
       "url": "https://www.youtube.com/watch?v=kmod9gth_pQ",
       "topics": [
         "音楽"
+      ],
+      "entities": [
+        {
+          "id": "takeda-tetsuo",
+          "name": "武田鉄男",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -44985,7 +46307,18 @@
       "channel": "island",
       "publishedAt": "2026-07-14T12:00:06Z",
       "url": "https://www.youtube.com/watch?v=TEi8RE6b9r4",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "momiji-youtuber",
+          "name": "もみじ",
+          "aliases": [
+            "もみじ"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "7AKA-TMc01Y",
@@ -45681,6 +47014,15 @@
       "url": "https://www.youtube.com/watch?v=ZmizULeCvdY",
       "topics": [
         "学校"
+      ],
+      "entities": [
+        {
+          "id": "yumenashi-daigakusei",
+          "name": "夢なし大学生",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
