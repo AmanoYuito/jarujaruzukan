@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:15:21.663Z",
+  "generatedAt": "2026-10-18T06:27:53.027Z",
   "total": 7,
   "songs": [
     {
@@ -74,12 +74,15 @@
     },
     {
       "id": "eco-song",
-      "title": "ECOの歌",
+      "title": "燃やそう",
+      "aliases": [
+        "ECOの歌"
+      ],
       "performer": "学園祭で歌う高校生",
       "channel": "tower",
       "videoId": "5jHME8RYscg",
       "timestampSeconds": 28,
-      "summary": "ゴミの分別と未来への意識を題材にした歌。曲名は作中の呼ばれ方を掲載しています。",
+      "summary": "作中で「燃やそう」と紹介される、ゴミの分別と未来への意識を題材にした歌。動画タイトルでは「ECOの歌」と表現されています。",
       "tags": [
         "高校生",
         "学園祭",

@@ -99,7 +99,7 @@ function openRandom() {
 function filteredSongs() {
   const query = normalize(els.songSearch.value);
   return songs.filter(song => {
-    const haystack = normalize([song.title, song.performer, song.summary, ...(song.tags || []), song.videoTitle].join(" "));
+    const haystack = normalize([song.title, ...(song.aliases || []), song.performer, song.summary, ...(song.tags || []), song.videoTitle].join(" "));
     return !query || haystack.includes(query);
   });
 }
@@ -115,6 +115,7 @@ function renderSongs() {
         <span class="song-note">♪</span>
       </div>
       <h3>${escapeHTML(song.title)}</h3>
+      ${(song.aliases || []).length ? `<p class="song-performer">別名（動画タイトル）：${escapeHTML(song.aliases.join("、"))}</p>` : ""}
       <p class="song-performer">歌う人物：${escapeHTML(song.performer)}</p>
       <p>${escapeHTML(song.summary)}</p>
       <div class="tag-list">${(song.tags || []).map(tag => `<span class="tag">#${escapeHTML(tag)}</span>`).join("")}</div>
