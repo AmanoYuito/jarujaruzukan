@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:49:18.478Z",
+  "generatedAt": "2026-10-18T07:03:06.641Z",
   "total": 5110,
   "topics": [
     {
@@ -8916,7 +8916,18 @@
       "channel": "tower",
       "publishedAt": "2020-03-29T01:16:15Z",
       "url": "https://www.youtube.com/watch?v=hFnhrRqDrA0",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "okintama-dekao",
+          "name": "おきんたまでか男",
+          "aliases": [
+            "オキンタマデカ男"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "tGze92-2T4A",
@@ -19481,6 +19492,15 @@
       "url": "https://www.youtube.com/watch?v=Eg55shJ0DT4",
       "topics": [
         "芸人・ネタ"
+      ],
+      "entities": [
+        {
+          "id": "power-jungle",
+          "name": "パワージャングル",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
       ]
     },
     {
@@ -27662,7 +27682,18 @@
       "channel": "tower",
       "publishedAt": "2023-05-09T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=0Xj2zt8bCKI",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "mudoku-no-tarantula",
+          "name": "無毒のタランチュラ",
+          "aliases": [
+            "無毒／のタランチュラ"
+          ],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "XYXME9IY00I",
@@ -30948,7 +30979,16 @@
       "channel": "island",
       "publishedAt": "2023-11-29T13:00:38Z",
       "url": "https://www.youtube.com/watch?v=iG68SFT7Lrs",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "ultras",
+          "name": "ウルトラズ",
+          "aliases": [],
+          "entityType": "group",
+          "label": "コンビ名"
+        }
+      ]
     },
     {
       "id": "LcbxRDkSDJM",
@@ -34492,6 +34532,15 @@
       "url": "https://www.youtube.com/watch?v=QD3A6RKDaBg",
       "topics": [
         "恋愛・結婚"
+      ],
+      "entities": [
+        {
+          "id": "baribo-yamamoto",
+          "name": "バリボ山本",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -39812,7 +39861,18 @@
       "channel": "tower",
       "publishedAt": "2025-05-31T09:01:17Z",
       "url": "https://www.youtube.com/watch?v=oJlqMI7-dPE",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "dose-dai",
+          "name": "同瀬 大",
+          "aliases": [
+            "同瀬大"
+          ],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "DJSh-iXUrfY",
@@ -40232,6 +40292,15 @@
       "url": "https://www.youtube.com/watch?v=5E2hgpsmht0",
       "topics": [
         "電話"
+      ],
+      "entities": [
+        {
+          "id": "yoji",
+          "name": "ヨージ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -42533,6 +42602,15 @@
       "url": "https://www.youtube.com/watch?v=sn9sKJ7cg3U",
       "topics": [
         "恋愛・結婚"
+      ],
+      "entities": [
+        {
+          "id": "yoji",
+          "name": "ヨージ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
       ]
     },
     {
@@ -47423,7 +47501,16 @@
       "channel": "island",
       "publishedAt": "2026-09-23T12:00:10Z",
       "url": "https://www.youtube.com/watch?v=OoTf-ark1ew",
-      "topics": []
+      "topics": [],
+      "entities": [
+        {
+          "id": "yoji",
+          "name": "ヨージ",
+          "aliases": [],
+          "entityType": "character",
+          "label": "キャラ名"
+        }
+      ]
     },
     {
       "id": "BlQbaRsiKWY",

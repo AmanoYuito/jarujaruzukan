@@ -33,6 +33,7 @@ let favorites = new Set(JSON.parse(localStorage.getItem("yatsu-favorites") || "[
 
 const normalize = value => value.toLowerCase().normalize("NFKC").replace(/\s/g, "");
 const escapeHTML = value => String(value).replace(/[&<>'"]/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[char]));
+const thumbnailUrl = videoId => `https://i.ytimg.com/vi/${encodeURIComponent(videoId)}/hqdefault.jpg`;
 
 function filteredCharacters() {
   const query = normalize(els.search.value);
@@ -52,19 +53,25 @@ function render() {
   const matches = filteredCharacters();
   els.count.textContent = matches.length;
   els.empty.hidden = matches.length !== 0;
-  els.grid.innerHTML = matches.map(character => `
+  els.grid.innerHTML = matches.map(character => {
+    const firstVideo = character.relatedVideos?.[0];
+    return `
     <article class="character-card" style="--card-color:${character.color};--accent:${character.channel === "island" ? "#ff6b35" : "#2f66ef"}">
+      ${firstVideo ? `<div class="character-thumbnail"><img src="${thumbnailUrl(firstVideo.id)}" alt="${escapeHTML(character.name)}の初回掲載動画のサムネイル" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="480" height="360"><span>最初の動画</span></div>` : `<div class="character-thumbnail is-placeholder" aria-label="サムネイル準備中"><span>${escapeHTML(character.symbol)}</span></div>`}
       <div class="card-top">
         <span class="channel-badge">${escapeHTML(character.channelLabel)}</span>
         <button class="favorite-button" type="button" data-favorite="${character.id}" aria-label="${escapeHTML(character.name)}をお気に入り${favorites.has(character.id) ? "から外す" : "に追加"}" aria-pressed="${favorites.has(character.id)}">${favorites.has(character.id) ? "★" : "☆"}</button>
       </div>
-      <div class="character-symbol" aria-hidden="true">${escapeHTML(character.symbol)}</div>
       <h3>${escapeHTML(character.name)}</h3>
       <p>${escapeHTML(character.summary)}</p>
       <div class="tag-list">${character.tags.slice(0, 3).map(tag => `<span class="tag">#${escapeHTML(tag)}</span>`).join("")}</div>
       <button class="card-open" type="button" data-open="${character.id}" aria-label="${escapeHTML(character.name)}の詳細を見る">詳細を見る</button>
     </article>
-  `).join("");
+  `;}).join("");
+
+  els.grid.querySelectorAll(".character-thumbnail img").forEach(image => {
+    image.addEventListener("error", () => image.closest(".character-thumbnail")?.classList.add("is-unavailable"), { once: true });
+  });
 }
 
 function openCharacter(id) {
@@ -111,6 +118,10 @@ function renderSongs() {
   els.songEmpty.hidden = matches.length !== 0;
   els.songGrid.innerHTML = matches.map(song => `
     <article class="song-card">
+      <a class="song-thumbnail" href="${escapeHTML(song.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHTML(song.title)}を公式YouTubeで聴く">
+        <img src="${thumbnailUrl(song.videoId)}" alt="${escapeHTML(song.title)}の掲載動画のサムネイル" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="480" height="360">
+        <span>最初の動画</span>
+      </a>
       <div class="song-card-top">
         <span class="video-channel ${song.channel}">${song.channel === "island" ? "ISLAND" : "TOWER"}</span>
         <span class="song-note">♪</span>
@@ -124,6 +135,10 @@ function renderSongs() {
       <a class="button song-link" href="${escapeHTML(song.url)}" target="_blank" rel="noopener noreferrer">公式動画で聴く ↗</a>
     </article>
   `).join("");
+
+  els.songGrid.querySelectorAll(".song-thumbnail img").forEach(image => {
+    image.addEventListener("error", () => image.closest(".song-thumbnail")?.classList.add("is-unavailable"), { once: true });
+  });
 }
 
 function filteredVideos() {
@@ -149,14 +164,19 @@ function filteredVideos() {
 }
 
 function renderVideoInfo(video) {
-  const entities = (video.entities || []).map(entity => `
-    <button type="button" data-open="${escapeHTML(entity.id)}"><strong>${escapeHTML(entity.label)}</strong><span>${escapeHTML(entity.name)}</span></button>
-  `);
-  const facts = (video.facts || []).map(fact => `
-    <a href="${escapeHTML(fact.url)}" target="_blank" rel="noopener noreferrer"><strong>${escapeHTML(fact.label)}</strong><span>${escapeHTML(fact.value)}</span></a>
-  `);
-  if (!entities.length && !facts.length) return "";
-  return `<div class="video-verified-info"><p>動画内で確認した情報</p><div>${[...entities, ...facts].join("")}</div></div>`;
+  const people = (video.entities || []).filter(entity => entity.entityType === "character");
+  const groups = (video.entities || []).filter(entity => entity.entityType === "group");
+  const facts = video.facts || [];
+  if (!people.length && !groups.length && !facts.length) return "";
+  return `<div class="video-verified-info">
+    <p>動画内の人物・設定</p>
+    <dl>
+      ${people.length ? `<div><dt>人物・キャラ</dt><dd>${people.map(entity => `<button type="button" data-open="${escapeHTML(entity.id)}">${escapeHTML(entity.name)}</button>`).join("")}</dd></div>` : ""}
+      ${groups.length ? `<div><dt>コンビ・ユニット</dt><dd>${groups.map(entity => `<button type="button" data-open="${escapeHTML(entity.id)}">${escapeHTML(entity.name)}</button>`).join("")}</dd></div>` : ""}
+      ${facts.length ? `<div><dt>確認できた情報</dt><dd>${facts.map(fact => `<a href="${escapeHTML(fact.url)}" target="_blank" rel="noopener noreferrer"><strong>${escapeHTML(fact.label)}</strong>：${escapeHTML(fact.value)}</a>`).join("")}</dd></div>` : ""}
+    </dl>
+    <small>公式タイトルまたは確認済みの動画内容から掲載</small>
+  </div>`;
 }
 
 function formatDate(value) {
@@ -181,7 +201,7 @@ function renderVideos({ reset = false } = {}) {
   els.videoGrid.innerHTML = visible.map(video => `
     <article class="video-card">
       <a class="video-thumbnail" href="${escapeHTML(video.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHTML(video.title)}を公式YouTubeで見る">
-        <img src="https://i.ytimg.com/vi/${encodeURIComponent(video.id)}/hqdefault.jpg" alt="${escapeHTML(video.title)}のYouTubeサムネイル" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="480" height="360">
+        <img src="${thumbnailUrl(video.id)}" alt="${escapeHTML(video.title)}のYouTubeサムネイル" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="480" height="360">
         <span aria-hidden="true">▶</span>
       </a>
       <div class="video-card-meta">
