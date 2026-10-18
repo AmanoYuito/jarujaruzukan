@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T06:33:31.601Z",
-  "total": 5579,
+  "generatedAt": "2026-10-18T06:37:53.670Z",
+  "total": 5110,
   "topics": [
     {
       "name": "面接",
-      "count": 192
+      "count": 191
     },
     {
       "name": "電話",
@@ -12,7 +12,7 @@
     },
     {
       "name": "オーディション",
-      "count": 46
+      "count": 44
     },
     {
       "name": "バイト",
@@ -20,23 +20,23 @@
     },
     {
       "name": "会社・仕事",
-      "count": 208
+      "count": 203
     },
     {
       "name": "学校",
-      "count": 194
+      "count": 187
     },
     {
       "name": "友達",
-      "count": 196
+      "count": 193
     },
     {
       "name": "恋愛・結婚",
-      "count": 101
+      "count": 99
     },
     {
       "name": "店・接客",
-      "count": 213
+      "count": 212
     },
     {
       "name": "医療",
@@ -44,2189 +44,36 @@
     },
     {
       "name": "芸人・ネタ",
-      "count": 545
+      "count": 337
     },
     {
       "name": "音楽",
-      "count": 218
+      "count": 184
     },
     {
       "name": "家族",
-      "count": 110
+      "count": 108
     },
     {
       "name": "食べ物",
-      "count": 114
+      "count": 99
     },
     {
       "name": "スポーツ",
-      "count": 69
+      "count": 64
     },
     {
       "name": "美容・髪",
-      "count": 83
+      "count": 80
     }
   ],
   "videos": [
-    {
-      "id": "jADMPL2DNNs",
-      "title": "ジャルジャル即興コント　「守りたいスティーブ青木」",
-      "channel": "tower",
-      "publishedAt": "2014-10-31T09:13:34Z",
-      "url": "https://www.youtube.com/watch?v=jADMPL2DNNs",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "DKj4X4vpBe4",
-      "title": "ジャルジャル即興コント『あわせられない夜8時』",
-      "channel": "tower",
-      "publishedAt": "2014-11-03T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=DKj4X4vpBe4",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "DKXLAbpCUv0",
-      "title": "開放！ジャルジャルのコント会議～誰でも参加して意見言うてくれてええんやで、いや言うてくれ！～",
-      "channel": "tower",
-      "publishedAt": "2014-11-04T08:32:26Z",
-      "url": "https://www.youtube.com/watch?v=DKXLAbpCUv0",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "t--AhBE2k58",
-      "title": "ジャルジャル即興コント『食べたい猫の手』",
-      "channel": "tower",
-      "publishedAt": "2014-11-05T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=t--AhBE2k58",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "1iRPmI1kwsU",
-      "title": "ジャルジャル即興コント『あなたの町のでかめの鬼』",
-      "channel": "tower",
-      "publishedAt": "2014-11-07T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=1iRPmI1kwsU",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "0MLEa3qaDrk",
-      "title": "ジャルジャル即興コント『世間知らずの女子』",
-      "channel": "tower",
-      "publishedAt": "2014-11-10T09:00:05Z",
-      "url": "https://www.youtube.com/watch?v=0MLEa3qaDrk",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Nv_pv5DxQIs",
-      "title": "ジャルジャル即興コント『威勢のいいかけおち』",
-      "channel": "tower",
-      "publishedAt": "2014-11-12T09:00:05Z",
-      "url": "https://www.youtube.com/watch?v=Nv_pv5DxQIs",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "LvaF71FIy50",
-      "title": "ジャルジャル即興コント『偶然が重なったかけおち』",
-      "channel": "tower",
-      "publishedAt": "2014-11-14T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=LvaF71FIy50",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Op0uHBQPEjc",
-      "title": "ジャルジャル即興漫才『しばきたい漫才師』",
-      "channel": "tower",
-      "publishedAt": "2014-11-17T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=Op0uHBQPEjc",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "qyCEin5DOMY",
-      "title": "ジャルジャル即興コント『改良されたお墓参り』",
-      "channel": "tower",
-      "publishedAt": "2014-11-19T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=qyCEin5DOMY",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "TdW6F3A7JxQ",
-      "title": "ジャルジャル即興コント『おもしろくないグルメリポーター』",
-      "channel": "tower",
-      "publishedAt": "2014-11-21T09:00:05Z",
-      "url": "https://www.youtube.com/watch?v=TdW6F3A7JxQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "AaB7KPbyKIs",
-      "title": "ジャルジャル即興コント『内気な先っぽ』",
-      "channel": "tower",
-      "publishedAt": "2014-11-24T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=AaB7KPbyKIs",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "nyMcLGdGIHY",
-      "title": "ジャルジャル即興漫才『社長をなめてる漫才師』",
-      "channel": "tower",
-      "publishedAt": "2014-11-26T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=nyMcLGdGIHY",
-      "topics": [
-        "会社・仕事",
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "I5Acjk1SNN8",
-      "title": "ジャルジャル即興コント『堅い海賊』",
-      "channel": "tower",
-      "publishedAt": "2014-11-28T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=I5Acjk1SNN8",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "lOR9oqHirSU",
-      "title": "ジャルジャル即興コント『一回はあきらめた約束』",
-      "channel": "tower",
-      "publishedAt": "2014-12-01T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=lOR9oqHirSU",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "2SW3p6S8Fl4",
-      "title": "ジャルジャル即興コント『最初だけ元気のいい隣人』",
-      "channel": "tower",
-      "publishedAt": "2014-12-03T09:00:12Z",
-      "url": "https://www.youtube.com/watch?v=2SW3p6S8Fl4",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "5PU9ks2JNMQ",
-      "title": "ジャルジャル即興コント『大量のルール』",
-      "channel": "tower",
-      "publishedAt": "2014-12-05T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=5PU9ks2JNMQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "VQQwIXjafPQ",
-      "title": "ジャルジャル即興コント『箱の中のガラスの靴』（ニコニコ生放送）",
-      "channel": "tower",
-      "publishedAt": "2014-12-08T09:00:06Z",
-      "url": "https://www.youtube.com/watch?v=VQQwIXjafPQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "-fSE0ihN0NA",
-      "title": "ジャルジャル即興コント『夏に向けて板東英二』",
-      "channel": "tower",
-      "publishedAt": "2014-12-10T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=-fSE0ihN0NA",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "zD6t0OqT2vM",
-      "title": "ジャルジャル即興コント『崖の上の外国人』",
-      "channel": "tower",
-      "publishedAt": "2014-12-12T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=zD6t0OqT2vM",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "DtwDoEnce0o",
-      "title": "ジャルジャル即興コント『クリスマスの水』（ニコニコ生放送）",
-      "channel": "tower",
-      "publishedAt": "2014-12-15T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=DtwDoEnce0o",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Guvpu1HKo6w",
-      "title": "ジャルジャル即興漫才『未来のつっこみ担当』",
-      "channel": "tower",
-      "publishedAt": "2014-12-17T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=Guvpu1HKo6w",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "DzaosgQ112o",
-      "title": "ジャルジャル即興コント『安めのすし職人』",
-      "channel": "tower",
-      "publishedAt": "2014-12-19T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=DzaosgQ112o",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "WeRQu7KORGY",
-      "title": "【エッグ矢沢見参！！】ジャルジャル即興コント『生き別れた劇団』",
-      "channel": "tower",
-      "publishedAt": "2014-12-22T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=WeRQu7KORGY",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "bSynVKfHe6U",
-      "title": "【エッグ矢沢見参！！】ジャルジャル即興コント『誰かに似ている食堂』",
-      "channel": "tower",
-      "publishedAt": "2014-12-24T09:00:17Z",
-      "url": "https://www.youtube.com/watch?v=bSynVKfHe6U",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "IgOrBA9T1yg",
-      "title": "ジャルジャル即興コント『囚われたサンタクロース』（あっぷくライブ大阪公演）",
-      "channel": "tower",
-      "publishedAt": "2015-01-12T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=IgOrBA9T1yg",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "4XvOIJyd0f8",
-      "title": "ジャルジャル即興コント『ダミ声すぎる一人っ子』",
-      "channel": "tower",
-      "publishedAt": "2015-01-14T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=4XvOIJyd0f8",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "K8qo-rsBIFQ",
-      "title": "ジャルジャル即興コント『おいしい突っ張り棒』",
-      "channel": "tower",
-      "publishedAt": "2015-01-16T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=K8qo-rsBIFQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "6-S_7WS0vQs",
-      "title": "ジャルジャル即興コント『ビショビショのお調子者』",
-      "channel": "tower",
-      "publishedAt": "2015-01-19T09:00:06Z",
-      "url": "https://www.youtube.com/watch?v=6-S_7WS0vQs",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Ydgon_usC3I",
-      "title": "ジャルジャル即興コント『恐ろしいメガネ』",
-      "channel": "tower",
-      "publishedAt": "2015-01-21T09:00:08Z",
-      "url": "https://www.youtube.com/watch?v=Ydgon_usC3I",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "H7BH90OKWWA",
-      "title": "ジャルジャル即興コント『べちょべちょした次長』",
-      "channel": "tower",
-      "publishedAt": "2015-01-23T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=H7BH90OKWWA",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "X0OREqIKvHU",
-      "title": "ジャルジャル即興コント『うまくできない和尚さん』",
-      "channel": "tower",
-      "publishedAt": "2015-01-26T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=X0OREqIKvHU",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "kSkENV9Hxk4",
-      "title": "ジャルジャル即興コント『情緒不安定なマスターが作る揚げパスタ』",
-      "channel": "tower",
-      "publishedAt": "2015-01-28T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=kSkENV9Hxk4",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "8A4ghpEEGik",
-      "title": "KENTO MORI 参上！！『実在の兄』",
-      "channel": "tower",
-      "publishedAt": "2015-01-30T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=8A4ghpEEGik",
-      "topics": []
-    },
-    {
-      "id": "UkGi6NGs9Ao",
-      "title": "ケントモリ参上！！『要するにバイク乗り』",
-      "channel": "tower",
-      "publishedAt": "2015-02-02T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=UkGi6NGs9Ao",
-      "topics": []
-    },
-    {
-      "id": "c_LZqNAmNfM",
-      "title": "ケントモリがコントに挑戦！？『Ｖネックのビブラート』",
-      "channel": "tower",
-      "publishedAt": "2015-02-04T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=c_LZqNAmNfM",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "OWuS9EZmU0s",
-      "title": "マドンナのバックダンサー　ケント・モリ参上『遠慮がちな鬼ごっこ』",
-      "channel": "tower",
-      "publishedAt": "2015-02-06T09:00:09Z",
-      "url": "https://www.youtube.com/watch?v=OWuS9EZmU0s",
-      "topics": []
-    },
-    {
-      "id": "gRkeCFpD1Eg",
-      "title": "ジャルジャル即興コント『超絶すごいwi-fi』（あっぷくライブ東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-02-09T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=gRkeCFpD1Eg",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "9srYrRkNKWs",
-      "title": "ジャルジャル即興コント『最近痩せたインドちゃん』（あっぷくライブ東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-02-11T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=9srYrRkNKWs",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "BdulNIA3H_M",
-      "title": "ジャルジャル即興コント『異常にサラサラとした福徳さん』（あっぷくライブ東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-02-13T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=BdulNIA3H_M",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "dkQfF7aRQ0g",
-      "title": "ジャルジャル即興コント『喧嘩腰のオカマ』（あっぷくライブ東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-02-16T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=dkQfF7aRQ0g",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "i1IJrHmeaWE",
-      "title": "ジャルジャル即興コント『wonderfulスクランブル交差点』（あっぷくライブ東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-02-18T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=i1IJrHmeaWE",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "7n_bM8VomPE",
-      "title": "ジャルジャル即興コント『おびただしい新しめの便器』（あっぷくライブ東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-02-20T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=7n_bM8VomPE",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "p_DJriGGcFM",
-      "title": "ジャルジャル即興コント『諦めの悪いキュウリ』",
-      "channel": "tower",
-      "publishedAt": "2015-02-23T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=p_DJriGGcFM",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "PdLj_xikmY4",
-      "title": "ジャルジャル即興コント『ありがたいブラック会社』",
-      "channel": "tower",
-      "publishedAt": "2015-02-25T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=PdLj_xikmY4",
-      "topics": [
-        "会社・仕事",
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "NnuGcl3y2Rc",
-      "title": "ジャルジャル即興コント『これから挑戦するブラック企業』",
-      "channel": "tower",
-      "publishedAt": "2015-03-02T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=NnuGcl3y2Rc",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "UoYLPR5iWxo",
-      "title": "ジャルジャル即興コント『机みたいなカップル』",
-      "channel": "tower",
-      "publishedAt": "2015-03-04T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=UoYLPR5iWxo",
-      "topics": [
-        "恋愛・結婚",
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "ZVrlkVKjfaM",
-      "title": "ジャルジャル即興コント『トイレを我慢している召使』",
-      "channel": "tower",
-      "publishedAt": "2015-03-06T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=ZVrlkVKjfaM",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "z-cozVKr4BQ",
-      "title": "ジャルジャル即興コント『しつこいヤドカリ』（あっぷくライブ第１回東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-03-09T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=z-cozVKr4BQ",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "G16vnKGTNw4",
-      "title": "ジャルジャル即興コント『珍しい元栓』（あっぷくライブ第１回東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-03-11T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=G16vnKGTNw4",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "q79UK24xyho",
-      "title": "【ジャルジャル倉本美津留のコント会議】新ＯＰソング",
-      "channel": "tower",
-      "publishedAt": "2015-03-12T14:46:15Z",
-      "url": "https://www.youtube.com/watch?v=q79UK24xyho",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "_z1PT5CDW40",
-      "title": "【ジャルジャル倉本美津留のコント会議】新エンディングソング",
-      "channel": "tower",
-      "publishedAt": "2015-03-12T14:46:20Z",
-      "url": "https://www.youtube.com/watch?v=_z1PT5CDW40",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "GQSk38VnCtk",
-      "title": "ジャルジャル即興コント『うさんくさいチョコレート』（あっぷくライブ第１回東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-03-13T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=GQSk38VnCtk",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "gY9zsAO8rjo",
-      "title": "ジャルジャル即興コント『みずみずしい宇宙人』（あっぷくライブ第一回東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-03-16T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=gY9zsAO8rjo",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "AcREuPEPZ18",
-      "title": "ジャルジャル即興コント『しゃくれた和尚さんと客引き』（あっぷくライブ第一回東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-03-18T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=AcREuPEPZ18",
-      "topics": [
-        "店・接客",
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "lFll81wDUWA",
-      "title": "ジャルジャル即興コント『うすっぺらいエキストラ』（あっぷくライブ第一回東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-03-20T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=lFll81wDUWA",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "_fxLvwLSlzM",
-      "title": "ジャルジャル即興コント『めずらしい適齢期』（あっぷくライブ東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-03-23T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=_fxLvwLSlzM",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "YDtX-Mk89XA",
-      "title": "ジャルジャル即興コント『楽しいおでこ』（あっぷくライブ東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-03-25T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=YDtX-Mk89XA",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "lElJpQd5lqQ",
-      "title": "ジャルジャル即興コント『芳しい気管支炎』（あっぷくライブ東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-03-27T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=lElJpQd5lqQ",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "Fmte2w8d9oA",
-      "title": "ジャルジャル即興コント『痛々しいお祭り』（あっぷくライブ東京公演）",
-      "channel": "tower",
-      "publishedAt": "2015-03-30T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=Fmte2w8d9oA",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "vbcS8sgVXTM",
-      "title": "ジャルジャル即興コント『ウソっぽいカタログ』",
-      "channel": "tower",
-      "publishedAt": "2015-04-01T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=vbcS8sgVXTM",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "qrcDUQ9H60A",
-      "title": "ジャルジャル即興コント『最後のバイキンマン』",
-      "channel": "tower",
-      "publishedAt": "2015-04-03T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=qrcDUQ9H60A",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "TgZfr2Dz-tw",
-      "title": "ジャルジャル即興コント『女々しい作曲家』",
-      "channel": "tower",
-      "publishedAt": "2015-04-06T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=TgZfr2Dz-tw",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "cGZdPvNh20E",
-      "title": "ジャルジャル即興コント『双子の高低差』",
-      "channel": "tower",
-      "publishedAt": "2015-04-08T09:00:09Z",
-      "url": "https://www.youtube.com/watch?v=cGZdPvNh20E",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Tg0rZMLAMGQ",
-      "title": "ジャルジャル即興コント『いつも正直者』",
-      "channel": "tower",
-      "publishedAt": "2015-04-10T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=Tg0rZMLAMGQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "PKGhFpMjWxc",
-      "title": "ジャルジャル即興コント『食べそうなピエロ』",
-      "channel": "tower",
-      "publishedAt": "2015-04-13T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=PKGhFpMjWxc",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "IT-mDKhrC9s",
-      "title": "ジャルジャル即興コント『丸々全部仕返し』",
-      "channel": "tower",
-      "publishedAt": "2015-04-15T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=IT-mDKhrC9s",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "F8qFSlXkYDs",
-      "title": "ジャルジャル即興コント『まどろっこしい赤ずきん』",
-      "channel": "tower",
-      "publishedAt": "2015-04-17T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=F8qFSlXkYDs",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "D_e7qubSzGQ",
-      "title": "ジャルジャル即興コント『スタイリッシュなオカマ』",
-      "channel": "tower",
-      "publishedAt": "2015-04-22T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=D_e7qubSzGQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "WgO3cnA3blc",
-      "title": "ジャルジャル即興コント『カラフルな東大阪』",
-      "channel": "tower",
-      "publishedAt": "2015-04-24T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=WgO3cnA3blc",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "NxF5mko_FUg",
-      "title": "ジャルジャル即興コント『美容院に鷹を連れてくる奴』",
-      "channel": "tower",
-      "publishedAt": "2015-04-27T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=NxF5mko_FUg",
-      "topics": [
-        "芸人・ネタ",
-        "美容・髪"
-      ]
-    },
-    {
-      "id": "BOMQuE5do4I",
-      "title": "ジャルジャル即興コント『運命の出会い』",
-      "channel": "tower",
-      "publishedAt": "2015-04-29T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=BOMQuE5do4I",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "jwHyv6J_51Q",
-      "title": "ジャルジャル即興ドライブ",
-      "channel": "tower",
-      "publishedAt": "2015-05-01T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=jwHyv6J_51Q",
-      "topics": [
-        "音楽"
-      ]
-    },
-    {
-      "id": "Yj9qsyELHZQ",
-      "title": "ジャルジャル即興ドライブ　後編",
-      "channel": "tower",
-      "publishedAt": "2015-05-04T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=Yj9qsyELHZQ",
-      "topics": [
-        "音楽"
-      ]
-    },
-    {
-      "id": "bWfkok79Emk",
-      "title": "ジャルジャル即興コント『小さい声』",
-      "channel": "tower",
-      "publishedAt": "2015-05-06T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=bWfkok79Emk",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "5P2Waq-Entc",
-      "title": "ジャルジャル即興コント『ハエ』",
-      "channel": "tower",
-      "publishedAt": "2015-05-08T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=5P2Waq-Entc",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "8RbdiI3rzbk",
-      "title": "【ジャルジャル即興コント】『ブサイクな整理番号100番』（第4回あっぷくライブ）",
-      "channel": "tower",
-      "publishedAt": "2015-05-11T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=8RbdiI3rzbk",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "ncIUo0ppPuI",
-      "title": "ジャルジャル後藤の妻との出会い方",
-      "channel": "tower",
-      "publishedAt": "2015-05-14T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=ncIUo0ppPuI",
-      "topics": []
-    },
-    {
-      "id": "O-QZLBXGCRo",
-      "title": "ジャルジャル即興コント『牛丼屋でプロポーズする奴』",
-      "channel": "tower",
-      "publishedAt": "2015-05-17T00:38:37Z",
-      "url": "https://www.youtube.com/watch?v=O-QZLBXGCRo",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "S-yZ1H-urNI",
-      "title": "現代美術家・名和晃平とコラボ!!『めっちゃ動く画家の専属モデル』",
-      "channel": "tower",
-      "publishedAt": "2015-05-18T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=S-yZ1H-urNI",
-      "topics": []
-    },
-    {
-      "id": "7QojzOL3z3g",
-      "title": "現代美術家・名和晃平とコラボ!!『笑いが止まらない刑事』",
-      "channel": "tower",
-      "publishedAt": "2015-05-20T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=7QojzOL3z3g",
-      "topics": []
-    },
-    {
-      "id": "0ldDsYv3OnY",
-      "title": "現代美術家・名和晃平とコラボ!!『泡泡の漫才』",
-      "channel": "tower",
-      "publishedAt": "2015-05-22T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=0ldDsYv3OnY",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "16dzqrLL7aI",
-      "title": "ジャルジャル即興コント『ドードーマ』",
-      "channel": "tower",
-      "publishedAt": "2015-05-25T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=16dzqrLL7aI",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "XGFclUZ34dA",
-      "title": "ジャルジャル即興コント『ひなあられうまっ！！』",
-      "channel": "tower",
-      "publishedAt": "2015-05-29T10:12:11Z",
-      "url": "https://www.youtube.com/watch?v=XGFclUZ34dA",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "2k8ethrPKOg",
-      "title": "ジャルジャル即興コント『オーディション』",
-      "channel": "tower",
-      "publishedAt": "2015-05-30T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=2k8ethrPKOg",
-      "topics": [
-        "オーディション",
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "tzx-7vd7ndU",
-      "title": "ジャルジャル福徳の姉ちゃんの話",
-      "channel": "tower",
-      "publishedAt": "2015-06-02T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=tzx-7vd7ndU",
-      "topics": [
-        "家族"
-      ]
-    },
-    {
-      "id": "teu-Rit_fhs",
-      "title": "ジャルジャル即興コント『剣道着を洗う』",
-      "channel": "tower",
-      "publishedAt": "2015-06-03T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=teu-Rit_fhs",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "RWgM2p0qc1Y",
-      "title": "ジャルジャル即興コント『錦鯉と僕』",
-      "channel": "tower",
-      "publishedAt": "2015-06-05T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=RWgM2p0qc1Y",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "gROIAC66cSc",
-      "title": "ジャルジャル『トークライブでケガした話』",
-      "channel": "tower",
-      "publishedAt": "2015-06-08T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=gROIAC66cSc",
-      "topics": [
-        "音楽"
-      ]
-    },
-    {
-      "id": "IPwXBtT_NAg",
-      "title": "ジャルジャル福徳のアゴの中に閉じ込められたヤツ",
-      "channel": "tower",
-      "publishedAt": "2015-06-10T09:30:01Z",
-      "url": "https://www.youtube.com/watch?v=IPwXBtT_NAg",
-      "topics": []
-    },
-    {
-      "id": "KewaaCmrSNg",
-      "title": "ジャルジャル福徳のアゴの中に閉じ込められたヤツpart2",
-      "channel": "tower",
-      "publishedAt": "2015-06-12T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=KewaaCmrSNg",
-      "topics": []
-    },
-    {
-      "id": "GktSAIqW6VE",
-      "title": "ジャルジャル即興コント『食べかけの弁当』",
-      "channel": "tower",
-      "publishedAt": "2015-06-16T12:00:00Z",
-      "url": "https://www.youtube.com/watch?v=GktSAIqW6VE",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "gLlgQgYbrGg",
-      "title": "ジャルジャル即興コント『幽霊から見た人間』",
-      "channel": "tower",
-      "publishedAt": "2015-06-17T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=gLlgQgYbrGg",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "32LJ_UQdqWo",
-      "title": "ジャルジャル即興コント『よじ登り』",
-      "channel": "tower",
-      "publishedAt": "2015-06-19T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=32LJ_UQdqWo",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "9oxb_ojZTLQ",
-      "title": "ジャルジャル即興コント『おーい片足立ち』",
-      "channel": "tower",
-      "publishedAt": "2015-06-22T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=9oxb_ojZTLQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "H5XM8ATHycQ",
-      "title": "ジャルジャル即興コント『ＣＭの後は一点モノ』",
-      "channel": "tower",
-      "publishedAt": "2015-06-24T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=H5XM8ATHycQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "P3hpJulTMCM",
-      "title": "ジャルジャル即興コント『低反発リビドー』",
-      "channel": "tower",
-      "publishedAt": "2015-06-25T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=P3hpJulTMCM",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "wdiryqUIRBE",
-      "title": "ジャルジャル即興コント『めげないティッシュ配り』",
-      "channel": "tower",
-      "publishedAt": "2015-06-29T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=wdiryqUIRBE",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "ZhhCPgjVEZM",
-      "title": "ジャルジャル即興コント『菜っ葉となすびの言い合い』",
-      "channel": "tower",
-      "publishedAt": "2015-07-06T11:06:23Z",
-      "url": "https://www.youtube.com/watch?v=ZhhCPgjVEZM",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "N00IzTKArIA",
-      "title": "ジャルジャル即興コント『部活別の告白の仕方』",
-      "channel": "tower",
-      "publishedAt": "2015-07-07T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=N00IzTKArIA",
-      "topics": [
-        "学校",
-        "恋愛・結婚",
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "wx0nCPJF7Vg",
-      "title": "ジャルジャル即興コント『にぎりっぺ貯金』",
-      "channel": "tower",
-      "publishedAt": "2015-07-08T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=wx0nCPJF7Vg",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "08frimsQ5IE",
-      "title": "ジャルジャル即興コント『お肉を食べたくなるシマウマ』",
-      "channel": "tower",
-      "publishedAt": "2015-07-09T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=08frimsQ5IE",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "5oVUqU8iiA4",
-      "title": "ダウンタウンＤＸでのエピソード",
-      "channel": "tower",
-      "publishedAt": "2015-07-10T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=5oVUqU8iiA4",
-      "topics": []
-    },
-    {
-      "id": "rqGLNBz1vjU",
-      "title": "ジャルジャル即興コント『アホな二人』",
-      "channel": "tower",
-      "publishedAt": "2015-07-16T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=rqGLNBz1vjU",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "E0zs0pFlZz8",
-      "title": "ジャルジャル即興コント『仮想ジャルジャル冠番組』",
-      "channel": "tower",
-      "publishedAt": "2015-07-17T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=E0zs0pFlZz8",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "BkRPdiPwdT8",
-      "title": "あの曲を歌っている方がゲストに!!ミュージシャン HARCO",
-      "channel": "tower",
-      "publishedAt": "2015-07-20T13:42:55Z",
-      "url": "https://www.youtube.com/watch?v=BkRPdiPwdT8",
-      "topics": [
-        "音楽"
-      ]
-    },
-    {
-      "id": "K5fuU5eEpqA",
-      "title": "即興ソング『よーわからん』",
-      "channel": "tower",
-      "publishedAt": "2015-07-21T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=K5fuU5eEpqA",
-      "topics": []
-    },
-    {
-      "id": "wwQ74JNCifk",
-      "title": "即興ソング『台風１号２号が来るから青い青い傘を買う』",
-      "channel": "tower",
-      "publishedAt": "2015-07-22T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=wwQ74JNCifk",
-      "topics": []
-    },
     {
       "id": "tzFXNjOF2f8",
       "title": "ジャルジャルコント会議　ロボット三等兵登場！",
       "channel": "tower",
       "publishedAt": "2015-07-29T10:00:03Z",
       "url": "https://www.youtube.com/watch?v=tzFXNjOF2f8",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "JGM-5uwx0Zw",
-      "title": "ジャルジャルHP作り　ロボット三等兵パート２",
-      "channel": "tower",
-      "publishedAt": "2015-07-30T22:00:01Z",
-      "url": "https://www.youtube.com/watch?v=JGM-5uwx0Zw",
-      "topics": []
-    },
-    {
-      "id": "qOuj7MPICgI",
-      "title": "コミックゼノンコラボ企画『まりもとくんこまってる』",
-      "channel": "tower",
-      "publishedAt": "2015-08-07T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=qOuj7MPICgI",
-      "topics": []
-    },
-    {
-      "id": "DTMm0QPVnew",
-      "title": "MINMIIと即興ソング『カタカナだらけのMOVE』",
-      "channel": "tower",
-      "publishedAt": "2015-08-16T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=DTMm0QPVnew",
-      "topics": []
-    },
-    {
-      "id": "yOpjtdSrvlU",
-      "title": "MINMIと即興ソング『大阪らしい忍者』",
-      "channel": "tower",
-      "publishedAt": "2015-08-17T10:00:04Z",
-      "url": "https://www.youtube.com/watch?v=yOpjtdSrvlU",
-      "topics": []
-    },
-    {
-      "id": "QU5wzVbqXn4",
-      "title": "ジャルジャル即興コント『要するにクセになるリズム』",
-      "channel": "tower",
-      "publishedAt": "2015-08-18T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=QU5wzVbqXn4",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "GgoEPW-QtF8",
-      "title": "MINMIと即興コント『アメリカでオナラ』",
-      "channel": "tower",
-      "publishedAt": "2015-08-19T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=GgoEPW-QtF8",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Hx_0nLg4IVs",
-      "title": "MINMIと即興コント『MINMIの32本』",
-      "channel": "tower",
-      "publishedAt": "2015-08-20T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=Hx_0nLg4IVs",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "y18_PAZNH94",
-      "title": "UTB映像アカデミーにスタッフ探ししてみた",
-      "channel": "tower",
-      "publishedAt": "2015-08-22T13:16:17Z",
-      "url": "https://www.youtube.com/watch?v=y18_PAZNH94",
-      "topics": []
-    },
-    {
-      "id": "05eELpvTJEg",
-      "title": "ESPギタークラフトアカデミーを覗いてみた",
-      "channel": "tower",
-      "publishedAt": "2015-08-23T10:25:49Z",
-      "url": "https://www.youtube.com/watch?v=05eELpvTJEg",
-      "topics": [
-        "音楽"
-      ]
-    },
-    {
-      "id": "6WkXAiBJeaQ",
-      "title": "ジャルジャル即興コント『そんなこんなで社長』",
-      "channel": "tower",
-      "publishedAt": "2015-09-23T10:34:10Z",
-      "url": "https://www.youtube.com/watch?v=6WkXAiBJeaQ",
-      "topics": [
-        "会社・仕事",
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "lbr8ahFnRvw",
-      "title": "ジャルジャル即興コント『やわらかくて大きい改札口』",
-      "channel": "tower",
-      "publishedAt": "2015-09-24T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=lbr8ahFnRvw",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "f4C5ftMthNA",
-      "title": "ジャルジャル即興コント『箱庭とパピヨン』コミックゼノンコラボ企画",
-      "channel": "tower",
-      "publishedAt": "2015-09-25T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=f4C5ftMthNA",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "rQ61XYTDbmM",
-      "title": "ジャルジャル即興コント『白すぎるグランプリ』",
-      "channel": "tower",
-      "publishedAt": "2015-09-25T10:00:30Z",
-      "url": "https://www.youtube.com/watch?v=rQ61XYTDbmM",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "1RMoXLQdg-Q",
-      "title": "ジャルジャル即興コント『半目のピザ職人』",
-      "channel": "tower",
-      "publishedAt": "2015-09-26T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=1RMoXLQdg-Q",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "u8WR5Ggy08w",
-      "title": "ジャルジャル即興コント『明日から10年目』",
-      "channel": "tower",
-      "publishedAt": "2015-09-27T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=u8WR5Ggy08w",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Oky0Qpb4pgg",
-      "title": "【大人が怒られる瞬間】『塩味の１・２・３』ジャルジャル即興コント",
-      "channel": "tower",
-      "publishedAt": "2015-09-28T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=Oky0Qpb4pgg",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "SSfxrnHHxj0",
-      "title": "【警告】夢を追いかける生ぬるい若者のために送る動画",
-      "channel": "tower",
-      "publishedAt": "2015-09-29T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=SSfxrnHHxj0",
-      "topics": []
-    },
-    {
-      "id": "rysnxWSOMss",
-      "title": "【ネクストブレイクの予感！】チャラ男番長見参！！",
-      "channel": "tower",
-      "publishedAt": "2015-10-05T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=rysnxWSOMss",
-      "topics": [],
-      "entities": [
-        {
-          "id": "chara-ban",
-          "name": "チャラ男番長",
-          "aliases": [],
-          "entityType": "character",
-          "label": "キャラ名"
-        }
-      ]
-    },
-    {
-      "id": "2EEeRYvqsz0",
-      "title": "東放学園映画専門学校に行ってみた！",
-      "channel": "tower",
-      "publishedAt": "2015-10-11T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=2EEeRYvqsz0",
-      "topics": [
-        "学校"
-      ]
-    },
-    {
-      "id": "ElZ8LZ5u_60",
-      "title": "チャラ男番長のやり方を教えチャラ男～！！！",
-      "channel": "tower",
-      "publishedAt": "2015-10-12T13:11:04Z",
-      "url": "https://www.youtube.com/watch?v=ElZ8LZ5u_60",
-      "topics": [],
-      "entities": [
-        {
-          "id": "chara-ban",
-          "name": "チャラ男番長",
-          "aliases": [],
-          "entityType": "character",
-          "label": "キャラ名"
-        }
-      ]
-    },
-    {
-      "id": "M6QGdWjaZf4",
-      "title": "嘉門達夫に招待状を渡しに行こう！",
-      "channel": "tower",
-      "publishedAt": "2015-10-15T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=M6QGdWjaZf4",
-      "topics": []
-    },
-    {
-      "id": "Rv1iKuqhp8g",
-      "title": "JAM Project福山芳樹に招待状を渡しに行ってきた！",
-      "channel": "tower",
-      "publishedAt": "2015-10-16T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=Rv1iKuqhp8g",
-      "topics": []
-    },
-    {
-      "id": "LaUEgXc5Fm4",
-      "title": "招待状配りの合間に食事",
-      "channel": "tower",
-      "publishedAt": "2015-10-17T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=LaUEgXc5Fm4",
-      "topics": []
-    },
-    {
-      "id": "r8utY3i8H2c",
-      "title": "浅野忠信に招待状を渡しに行ってきた！",
-      "channel": "tower",
-      "publishedAt": "2015-10-18T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=r8utY3i8H2c",
-      "topics": []
-    },
-    {
-      "id": "VsDzhkV6_Po",
-      "title": "ジャルジャルの空き時間の過ごし方",
-      "channel": "tower",
-      "publishedAt": "2015-10-19T10:00:04Z",
-      "url": "https://www.youtube.com/watch?v=VsDzhkV6_Po",
-      "topics": []
-    },
-    {
-      "id": "IODWTiePHgw",
-      "title": "山田孝之に招待状を渡しに行こう！",
-      "channel": "tower",
-      "publishedAt": "2015-10-21T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=IODWTiePHgw",
-      "topics": []
-    },
-    {
-      "id": "INOb6w68ROU",
-      "title": "鼻からでもイヤホンで音楽は聴ける！！",
-      "channel": "tower",
-      "publishedAt": "2015-10-28T11:20:00Z",
-      "url": "https://www.youtube.com/watch?v=INOb6w68ROU",
-      "topics": []
-    },
-    {
-      "id": "Wya409mGV-Y",
-      "title": "ジャルジャル即興コント『老女的少女ひなたちゃん』コミックゼノンコラボ企画",
-      "channel": "tower",
-      "publishedAt": "2015-10-29T09:30:00Z",
-      "url": "https://www.youtube.com/watch?v=Wya409mGV-Y",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "3PHUlI2Swck",
-      "title": "懐かしの会議風景『サッカー原人』",
-      "channel": "tower",
-      "publishedAt": "2015-10-31T10:31:32Z",
-      "url": "https://www.youtube.com/watch?v=3PHUlI2Swck",
-      "topics": [
-        "スポーツ"
-      ]
-    },
-    {
-      "id": "1wIQRE4DuTk",
-      "title": "園子温監督の素顔",
-      "channel": "tower",
-      "publishedAt": "2015-11-15T13:29:53Z",
-      "url": "https://www.youtube.com/watch?v=1wIQRE4DuTk",
-      "topics": []
-    },
-    {
-      "id": "9SRYCBEz-w4",
-      "title": "即興ボケの裏側",
-      "channel": "tower",
-      "publishedAt": "2015-11-16T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=9SRYCBEz-w4",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "hMwzajAayOw",
-      "title": "ジャルジャル即興コント『酸っぱいモノを言い合う奴ら』",
-      "channel": "tower",
-      "publishedAt": "2015-11-17T12:03:01Z",
-      "url": "https://www.youtube.com/watch?v=hMwzajAayOw",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "36o5nN1peKw",
-      "title": "ジャルジャル即興コント『双子のバレリーナ』",
-      "channel": "tower",
-      "publishedAt": "2015-11-18T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=36o5nN1peKw",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "ChraY_YaAUs",
-      "title": "【吉本芸人になりたい人への注意点】マネージャーのスケジュール管理による仕事への恐怖心",
-      "channel": "tower",
-      "publishedAt": "2015-11-20T09:25:05Z",
-      "url": "https://www.youtube.com/watch?v=ChraY_YaAUs",
-      "topics": [
-        "会社・仕事",
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "T7TF16SbvIg",
-      "title": "ジャルジャル福徳のイタズラ",
-      "channel": "tower",
-      "publishedAt": "2015-11-21T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=T7TF16SbvIg",
-      "topics": []
-    },
-    {
-      "id": "x60yfBc32OM",
-      "title": "ジャルジャル後藤家の実態",
-      "channel": "tower",
-      "publishedAt": "2015-11-22T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=x60yfBc32OM",
-      "topics": []
-    },
-    {
-      "id": "RZLsbwZByIk",
-      "title": "ジャルジャル後藤の用意したスペシャルゲスト",
-      "channel": "tower",
-      "publishedAt": "2015-11-23T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=RZLsbwZByIk",
-      "topics": []
-    },
-    {
-      "id": "lfC__0HVd3Y",
-      "title": "ジャルジャル後藤の衝撃的な行動",
-      "channel": "tower",
-      "publishedAt": "2015-11-24T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=lfC__0HVd3Y",
-      "topics": []
-    },
-    {
-      "id": "u5Y7xYUWQCU",
-      "title": "ジャルジャルも体験している芸人あるある",
-      "channel": "tower",
-      "publishedAt": "2015-11-25T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=u5Y7xYUWQCU",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "qYyeQZts0RY",
-      "title": "ジャルジャル即興コント『鳴沢君はおいしい顔に恋してる』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2015-11-26T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=qYyeQZts0RY",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "222LBg5Qcx4",
-      "title": "ジャルジャル福徳が激怒した話",
-      "channel": "tower",
-      "publishedAt": "2015-11-30T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=222LBg5Qcx4",
-      "topics": []
-    },
-    {
-      "id": "2rdUjnK0buU",
-      "title": "ジャルジャル福徳という男",
-      "channel": "tower",
-      "publishedAt": "2015-12-01T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=2rdUjnK0buU",
-      "topics": []
-    },
-    {
-      "id": "2YUDnxmOeww",
-      "title": "れもんらいふ展トークイベントにジャルジャルと倉本美津留が登場！",
-      "channel": "tower",
-      "publishedAt": "2015-12-05T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=2YUDnxmOeww",
-      "topics": []
-    },
-    {
-      "id": "wlYt88QvhIc",
-      "title": "GAG少年楽団即興コント『スポーツジム』",
-      "channel": "tower",
-      "publishedAt": "2015-12-21T10:30:19Z",
-      "url": "https://www.youtube.com/watch?v=wlYt88QvhIc",
-      "topics": [
-        "芸人・ネタ",
-        "スポーツ"
-      ]
-    },
-    {
-      "id": "iLJTWNLhJ9E",
-      "title": "GAG少年楽団即興コント『上京物語』",
-      "channel": "tower",
-      "publishedAt": "2015-12-22T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=iLJTWNLhJ9E",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "bCvOB1U3cpw",
-      "title": "GAG少年楽団即興コント『卒業式』",
-      "channel": "tower",
-      "publishedAt": "2015-12-23T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=bCvOB1U3cpw",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "EyNZFkw60Jg",
-      "title": "ジャルジャル即興コント『東京シェアストーリー』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2015-12-24T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=EyNZFkw60Jg",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "J0teb5aqee4",
-      "title": "Aマッソ登場！！『笑けずりの裏側』",
-      "channel": "tower",
-      "publishedAt": "2015-12-25T10:10:50Z",
-      "url": "https://www.youtube.com/watch?v=J0teb5aqee4",
-      "topics": []
-    },
-    {
-      "id": "cL8ZymqUrhE",
-      "title": "奇抜な女芸人Aマッソ",
-      "channel": "tower",
-      "publishedAt": "2015-12-26T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=cL8ZymqUrhE",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Mmt4ouM4a6I",
-      "title": "ジャルジャル×Aマッソ即興ラジオ",
-      "channel": "tower",
-      "publishedAt": "2015-12-27T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=Mmt4ouM4a6I",
-      "topics": []
-    },
-    {
-      "id": "U-M99bgMdOk",
-      "title": "芸人の衣装の裏話",
-      "channel": "tower",
-      "publishedAt": "2015-12-29T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=U-M99bgMdOk",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "RJbacTYAa1g",
-      "title": "芸人たちの悩み",
-      "channel": "tower",
-      "publishedAt": "2015-12-30T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=RJbacTYAa1g",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "6eXo147rvkQ",
-      "title": "Aマッソのコント",
-      "channel": "tower",
-      "publishedAt": "2016-01-01T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=6eXo147rvkQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "whvscfO6AtM",
-      "title": "ジャルジャルの学生時代のあだ名",
-      "channel": "tower",
-      "publishedAt": "2016-01-02T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=whvscfO6AtM",
-      "topics": []
-    },
-    {
-      "id": "cqCj0Q-gbwE",
-      "title": "ジャルジャル福徳の先見性",
-      "channel": "tower",
-      "publishedAt": "2016-01-20T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=cqCj0Q-gbwE",
-      "topics": []
-    },
-    {
-      "id": "fT3JGXgs-xA",
-      "title": "ジャルジャルの最初に作ったネタ",
-      "channel": "tower",
-      "publishedAt": "2016-01-21T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=fT3JGXgs-xA",
-      "topics": []
-    },
-    {
-      "id": "1cXgsR16MSs",
-      "title": "ジャルジャルのNSCでの初めてのネタ見せ",
-      "channel": "tower",
-      "publishedAt": "2016-01-22T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=1cXgsR16MSs",
-      "topics": []
-    },
-    {
-      "id": "yw8IWhkb0bs",
-      "title": "ジャルジャル即興コントライブ『超コントライブ』OPテーマ曲",
-      "channel": "tower",
-      "publishedAt": "2016-01-24T13:50:51Z",
-      "url": "https://www.youtube.com/watch?v=yw8IWhkb0bs",
-      "topics": [
-        "芸人・ネタ",
-        "音楽"
-      ]
-    },
-    {
-      "id": "GkB-WwRSSHM",
-      "title": "ジャルジャル即興コント『オッチャンがいない』",
-      "channel": "tower",
-      "publishedAt": "2016-01-25T10:01:01Z",
-      "url": "https://www.youtube.com/watch?v=GkB-WwRSSHM",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "5WulI0zAf6g",
-      "title": "ジャルジャル即興コント『オッチャンの話２』",
-      "channel": "tower",
-      "publishedAt": "2016-01-26T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=5WulI0zAf6g",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "d0Bgjn0BHkc",
-      "title": "ジャルジャル即興コント『オッチャンの話３』",
-      "channel": "tower",
-      "publishedAt": "2016-01-27T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=d0Bgjn0BHkc",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "30uYbhTZVoE",
-      "title": "ジャルジャル即興コント『一人暮らしのOLを描きました』（コミックゼノンコラボコント）",
-      "channel": "tower",
-      "publishedAt": "2016-01-28T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=30uYbhTZVoE",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "_x9VVPG1PeQ",
-      "title": "ジャルジャル即興コント『オッチャンの話４』",
-      "channel": "tower",
-      "publishedAt": "2016-01-29T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=_x9VVPG1PeQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "o13ZxE-ihkM",
-      "title": "ジャルジャル即興コント『オッチャンの話５』",
-      "channel": "tower",
-      "publishedAt": "2016-01-30T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=o13ZxE-ihkM",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "i1emitMLZzg",
-      "title": "ジャルジャル即興コント『本物のオッチャン到着』",
-      "channel": "tower",
-      "publishedAt": "2016-01-31T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=i1emitMLZzg",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "_CaNdtAi7VU",
-      "title": "【台湾の犯罪映像】",
-      "channel": "tower",
-      "publishedAt": "2016-02-06T10:34:02Z",
-      "url": "https://www.youtube.com/watch?v=_CaNdtAi7VU",
-      "topics": []
-    },
-    {
-      "id": "OeZCalQD2AY",
-      "title": "【台湾人に相撲を教える宣教師】",
-      "channel": "tower",
-      "publishedAt": "2016-02-07T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=OeZCalQD2AY",
-      "topics": [
-        "学校",
-        "スポーツ"
-      ]
-    },
-    {
-      "id": "1mmf1xI1slY",
-      "title": "【ジャルジャル】台湾にしんぺーさん現る！",
-      "channel": "tower",
-      "publishedAt": "2016-02-08T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=1mmf1xI1slY",
-      "topics": []
-    },
-    {
-      "id": "pTarACCuUB8",
-      "title": "ジャルジャル×コミックゼノン『織田シナモン信長』",
-      "channel": "tower",
-      "publishedAt": "2016-02-25T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=pTarACCuUB8",
-      "topics": []
-    },
-    {
-      "id": "vZnkt6x7TaY",
-      "title": "ジャルジャル即興コント『超コントLIVE』の予習",
-      "channel": "tower",
-      "publishedAt": "2016-02-27T13:14:11Z",
-      "url": "https://www.youtube.com/watch?v=vZnkt6x7TaY",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "RcedvWzCPlw",
-      "title": "数え歌のできないジャルジャル福徳",
-      "channel": "tower",
-      "publishedAt": "2016-02-29T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=RcedvWzCPlw",
-      "topics": [
-        "音楽"
-      ]
-    },
-    {
-      "id": "rHwczzakTe4",
-      "title": "ショーンKとスタバで会った時のジャルジャル福徳のエピソード",
-      "channel": "tower",
-      "publishedAt": "2016-03-22T13:05:54Z",
-      "url": "https://www.youtube.com/watch?v=rHwczzakTe4",
-      "topics": []
-    },
-    {
-      "id": "og3eibuoNto",
-      "title": "ショーンK騒動の裏側を見たスタッフ登場！",
-      "channel": "tower",
-      "publishedAt": "2016-03-23T08:27:14Z",
-      "url": "https://www.youtube.com/watch?v=og3eibuoNto",
-      "topics": []
-    },
-    {
-      "id": "_ppMXzowrAM",
-      "title": "ショーンK騒動渦中のスタッフの反応",
-      "channel": "tower",
-      "publishedAt": "2016-03-24T09:12:40Z",
-      "url": "https://www.youtube.com/watch?v=_ppMXzowrAM",
-      "topics": []
-    },
-    {
-      "id": "PNftsAN4RB0",
-      "title": "ショーンK騒動！報道ステーションは予測していた！？",
-      "channel": "tower",
-      "publishedAt": "2016-03-25T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=PNftsAN4RB0",
-      "topics": []
-    },
-    {
-      "id": "yMlytYt9Pe0",
-      "title": "ショーンK騒動には黒幕がいた！？",
-      "channel": "tower",
-      "publishedAt": "2016-03-26T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=yMlytYt9Pe0",
-      "topics": []
-    },
-    {
-      "id": "xUx2LOZevO8",
-      "title": "ナオトインティライミとジャルジャル後藤",
-      "channel": "tower",
-      "publishedAt": "2016-03-27T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=xUx2LOZevO8",
-      "topics": []
-    },
-    {
-      "id": "Ru4HOuEL9FM",
-      "title": "エジソンボディを手に入れた男たちの末路",
-      "channel": "tower",
-      "publishedAt": "2016-03-28T09:50:09Z",
-      "url": "https://www.youtube.com/watch?v=Ru4HOuEL9FM",
-      "topics": []
-    },
-    {
-      "id": "rYBtzw1XWjs",
-      "title": "ジャルジャルの朝活",
-      "channel": "tower",
-      "publishedAt": "2016-03-30T12:27:57Z",
-      "url": "https://www.youtube.com/watch?v=rYBtzw1XWjs",
-      "topics": []
-    },
-    {
-      "id": "x-5RYNN-WUY",
-      "title": "ジャルジャル×コミックゼノン『はんなりギロリの頼子さん』",
-      "channel": "tower",
-      "publishedAt": "2016-03-31T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=x-5RYNN-WUY",
-      "topics": []
-    },
-    {
-      "id": "ZRBiYIpuwY4",
-      "title": "アイディアチラシ　アイディーやねん！！",
-      "channel": "tower",
-      "publishedAt": "2016-04-01T10:51:57Z",
-      "url": "https://www.youtube.com/watch?v=ZRBiYIpuwY4",
-      "topics": []
-    },
-    {
-      "id": "sDMzHe0wdM8",
-      "title": "波乱に満ちたジャルジャルの新番組",
-      "channel": "tower",
-      "publishedAt": "2016-04-20T11:28:02Z",
-      "url": "https://www.youtube.com/watch?v=sDMzHe0wdM8",
-      "topics": []
-    },
-    {
-      "id": "SHJqb9a2K1Q",
-      "title": "ジャルジャル即興コント『たべものけもの』（コミックゼノンコラボコント）",
-      "channel": "tower",
-      "publishedAt": "2016-04-28T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=SHJqb9a2K1Q",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "zOy6C2XtTV4",
-      "title": "ＢＡＢＹＭＥＴＡＬとの意外な関係",
-      "channel": "tower",
-      "publishedAt": "2016-05-16T08:25:46Z",
-      "url": "https://www.youtube.com/watch?v=zOy6C2XtTV4",
-      "topics": []
-    },
-    {
-      "id": "3vXqV65xmnI",
-      "title": "ジャルジャル×千原ジュニアの超コント",
-      "channel": "tower",
-      "publishedAt": "2016-05-17T10:49:15Z",
-      "url": "https://www.youtube.com/watch?v=3vXqV65xmnI",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "eVmEcAJY4J4",
-      "title": "お笑い狂気ジャルジャル福徳『上方漫才大賞編』",
-      "channel": "tower",
-      "publishedAt": "2016-05-19T10:09:58Z",
-      "url": "https://www.youtube.com/watch?v=eVmEcAJY4J4",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "p9Cwe0r9bwo",
-      "title": "ジャルジャル『クイズ何を聞いたでしょう！？』",
-      "channel": "tower",
-      "publishedAt": "2016-05-21T10:48:22Z",
-      "url": "https://www.youtube.com/watch?v=p9Cwe0r9bwo",
-      "topics": []
-    },
-    {
-      "id": "Nj1RKJld4Us",
-      "title": "この状況でなんの曲歌ってんねん！！",
-      "channel": "tower",
-      "publishedAt": "2016-05-23T11:34:13Z",
-      "url": "https://www.youtube.com/watch?v=Nj1RKJld4Us",
-      "topics": [
-        "音楽"
-      ]
-    },
-    {
-      "id": "Ki7fynpxgrI",
-      "title": "ジャルジャル即興コント『呪文を忘れた芸人』",
-      "channel": "tower",
-      "publishedAt": "2016-05-24T10:16:44Z",
-      "url": "https://www.youtube.com/watch?v=Ki7fynpxgrI",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "6I0ZoyVJbkE",
-      "title": "ジャルジャル即興コント『朝から楽しいパンティ』",
-      "channel": "tower",
-      "publishedAt": "2016-05-25T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=6I0ZoyVJbkE",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "-GpmoyV0gUA",
-      "title": "ジャルジャル即興コント『グレンデル』【コミックゼノン】",
-      "channel": "tower",
-      "publishedAt": "2016-05-26T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=-GpmoyV0gUA",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "cnghFuYZbwI",
-      "title": "ジャルジャル即興コント『ごゆるりとバナナ』",
-      "channel": "tower",
-      "publishedAt": "2016-05-30T11:17:29Z",
-      "url": "https://www.youtube.com/watch?v=cnghFuYZbwI",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "70sL7n0VP_c",
-      "title": "ジャルジャル即興コント『戦後最大のペット』",
-      "channel": "tower",
-      "publishedAt": "2016-05-31T08:21:14Z",
-      "url": "https://www.youtube.com/watch?v=70sL7n0VP_c",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "ggDGcBgsstw",
-      "title": "ジャルジャル即興コント『手作り風岡村さん』",
-      "channel": "tower",
-      "publishedAt": "2016-06-01T12:32:04Z",
-      "url": "https://www.youtube.com/watch?v=ggDGcBgsstw",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "-d4ZU9ImhcQ",
-      "title": "ジャルジャル即興コント『すぐオナラするＢＦＦ』",
-      "channel": "tower",
-      "publishedAt": "2016-06-02T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=-d4ZU9ImhcQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Q270n25SV8Q",
-      "title": "ジャルジャル即興コント『めまぐるしく忙しい髪の毛』",
-      "channel": "tower",
-      "publishedAt": "2016-06-20T13:51:16Z",
-      "url": "https://www.youtube.com/watch?v=Q270n25SV8Q",
-      "topics": [
-        "芸人・ネタ",
-        "美容・髪"
-      ]
-    },
-    {
-      "id": "NRUkrVBa7nI",
-      "title": "ジャルジャル即興コント『ものごっつネコ』",
-      "channel": "tower",
-      "publishedAt": "2016-06-21T08:22:14Z",
-      "url": "https://www.youtube.com/watch?v=NRUkrVBa7nI",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "HBRvHged0L0",
-      "title": "ジャルジャル即興コント『フルーチェが牛乳と混ざってだんだん固まっていくようなしりとり』",
-      "channel": "tower",
-      "publishedAt": "2016-06-22T10:36:38Z",
-      "url": "https://www.youtube.com/watch?v=HBRvHged0L0",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "95wI0debKNQ",
-      "title": "ジャルジャル即興コント『ながいなが～いカレーライス』",
-      "channel": "tower",
-      "publishedAt": "2016-06-28T12:41:28Z",
-      "url": "https://www.youtube.com/watch?v=95wI0debKNQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "nrTol7qcZuo",
-      "title": "ジャルジャル即興コント『エロいな～雪だるま』",
-      "channel": "tower",
-      "publishedAt": "2016-06-29T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=nrTol7qcZuo",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "MXxW7Ncur30",
-      "title": "ジャルジャル即興コント『しあわせのポポチ』【コミックゼノンコラボコント】",
-      "channel": "tower",
-      "publishedAt": "2016-06-30T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=MXxW7Ncur30",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "vHhQM87JKRM",
-      "title": "ジャルジャル即興漫才『祭り』",
-      "channel": "tower",
-      "publishedAt": "2016-07-09T12:52:27Z",
-      "url": "https://www.youtube.com/watch?v=vHhQM87JKRM",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "ys1onEMG6vU",
-      "title": "ジャルジャル即興漫才『犬』",
-      "channel": "tower",
-      "publishedAt": "2016-07-10T10:00:03Z",
-      "url": "https://www.youtube.com/watch?v=ys1onEMG6vU",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "HLnYVGYfzQc",
-      "title": "ジャルジャル即興漫才『ラーメン』",
-      "channel": "tower",
-      "publishedAt": "2016-07-18T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=HLnYVGYfzQc",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "WCtxE3b18_U",
-      "title": "ジャルジャル即興漫才『タクシー』",
-      "channel": "tower",
-      "publishedAt": "2016-07-19T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=WCtxE3b18_U",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Nnfu82rdznY",
-      "title": "ジャルジャル即興漫才『誕生日』",
-      "channel": "tower",
-      "publishedAt": "2016-07-20T10:00:03Z",
-      "url": "https://www.youtube.com/watch?v=Nnfu82rdznY",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "XdlIwmpwS4Q",
-      "title": "ジャルジャル即興漫才『トイレ』",
-      "channel": "tower",
-      "publishedAt": "2016-07-21T10:00:30Z",
-      "url": "https://www.youtube.com/watch?v=XdlIwmpwS4Q",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "SeZ1t1e_MN8",
-      "title": "ジャルジャル即興コント『疫病神とバカ女神』【コミックゼノンコラボコント】",
-      "channel": "tower",
-      "publishedAt": "2016-07-28T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=SeZ1t1e_MN8",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Ra4t2YXPVtU",
-      "title": "ジャルジャル即興コント『西荻窪ランスルー』【コミックゼノン】",
-      "channel": "tower",
-      "publishedAt": "2016-08-25T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=Ra4t2YXPVtU",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "DGoq0mhKPY4",
-      "title": "ジャルジャル即興コント『文豪アクト』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2016-09-29T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=DGoq0mhKPY4",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "X4Clpi7j-6o",
-      "title": "ジャルジャル即興コント『よこしまな江口君』コミックゼノン",
-      "channel": "tower",
-      "publishedAt": "2016-10-27T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=X4Clpi7j-6o",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "m6m_ux6WXg4",
-      "title": "ジャルジャルオリジナルCM「もっと売れたいジャルジャル」",
-      "channel": "tower",
-      "publishedAt": "2016-10-30T10:37:59Z",
-      "url": "https://www.youtube.com/watch?v=m6m_ux6WXg4",
-      "topics": []
-    },
-    {
-      "id": "MYimeqLGM50",
-      "title": "ジャルジャル即興コント『タレソカレ』【コミックゼノン】",
-      "channel": "tower",
-      "publishedAt": "2016-11-24T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=MYimeqLGM50",
       "topics": [
         "芸人・ネタ"
       ]
@@ -2278,16 +125,6 @@
       "channel": "tower",
       "publishedAt": "2016-12-01T10:00:01Z",
       "url": "https://www.youtube.com/watch?v=bKjp-iqVT-0",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "RcJByXnF2kY",
-      "title": "ジャルジャルコント「葬式」",
-      "channel": "tower",
-      "publishedAt": "2016-12-01T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=RcJByXnF2kY",
       "topics": [
         "芸人・ネタ"
       ]
@@ -2354,22 +191,6 @@
       "topics": [
         "芸人・ネタ"
       ]
-    },
-    {
-      "id": "vjt6nXEREf0",
-      "title": "【MOJAMOJARUJARU debut】ジャルジャル音楽ユニット『モジャモジャルジャル』デビュー会見インタビュー！！",
-      "channel": "tower",
-      "publishedAt": "2016-12-02T11:00:03Z",
-      "url": "https://www.youtube.com/watch?v=vjt6nXEREf0",
-      "topics": []
-    },
-    {
-      "id": "e4t9ZYqCNW0",
-      "title": "【MOJAMOJARUJARU debut】ジャルジャル音楽ユニット『モジャモジャルジャル』デビュー会見LIVE！！",
-      "channel": "tower",
-      "publishedAt": "2016-12-02T11:05:50Z",
-      "url": "https://www.youtube.com/watch?v=e4t9ZYqCNW0",
-      "topics": []
     },
     {
       "id": "xcp1CSHrzCg",
@@ -2618,173 +439,6 @@
       ]
     },
     {
-      "id": "o6DV4erqtck",
-      "title": "【MOJAMOJARUJARU】モジャモジャルジャル　レコーディング風景",
-      "channel": "tower",
-      "publishedAt": "2016-12-13T10:00:03Z",
-      "url": "https://www.youtube.com/watch?v=o6DV4erqtck",
-      "topics": []
-    },
-    {
-      "id": "9g_eXWFKV2Y",
-      "title": "ジャルジャル即興コント『マヤさんの夜更かし』【コミックゼノン】",
-      "channel": "tower",
-      "publishedAt": "2016-12-29T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=9g_eXWFKV2Y",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "3AmcGzfGuIk",
-      "title": "ジャルジャル×倉本美津留のお財布を買いに行ってみた！",
-      "channel": "tower",
-      "publishedAt": "2017-01-21T12:00:00Z",
-      "url": "https://www.youtube.com/watch?v=3AmcGzfGuIk",
-      "topics": []
-    },
-    {
-      "id": "Z0Y-xpFVnEo",
-      "title": "ジャルジャル即興コント『めしぬま。』【コミックゼノン】",
-      "channel": "tower",
-      "publishedAt": "2017-01-26T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=Z0Y-xpFVnEo",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "0SR1RfwvAkw",
-      "title": "ジャルジャル即興コント『五百年目のマリオン』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2017-02-23T12:30:01Z",
-      "url": "https://www.youtube.com/watch?v=0SR1RfwvAkw",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "gY_kdOHzn_A",
-      "title": "ジャルジャル即興コント『トレース 科捜研法医研究員の追想』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2017-03-30T12:59:52Z",
-      "url": "https://www.youtube.com/watch?v=gY_kdOHzn_A",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Y3vCP4NnEXs",
-      "title": "ジャルジャル即興コント『ソマリと森の神様』【コミックゼノンコラボコント】",
-      "channel": "tower",
-      "publishedAt": "2017-04-27T11:55:02Z",
-      "url": "https://www.youtube.com/watch?v=Y3vCP4NnEXs",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "HGMvbwcJgkg",
-      "title": "ジャルジャル即興コント『ちちのじかん』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2017-05-25T12:18:15Z",
-      "url": "https://www.youtube.com/watch?v=HGMvbwcJgkg",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "5uhZSRWdjRU",
-      "title": "ジャルジャル即興コント『高岡さんの妄想経理メモ』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2017-06-29T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=5uhZSRWdjRU",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Cxa8RrSFpo0",
-      "title": "ジャルジャル即興コント『ちいさな猫を召喚できたなら』コミックゼノン",
-      "channel": "tower",
-      "publishedAt": "2017-07-27T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=Cxa8RrSFpo0",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "oT4HZBZ2rNQ",
-      "title": "超ライブLIVE真顔王選手権",
-      "channel": "tower",
-      "publishedAt": "2017-08-21T12:54:15Z",
-      "url": "https://www.youtube.com/watch?v=oT4HZBZ2rNQ",
-      "topics": [
-        "音楽",
-        "スポーツ"
-      ]
-    },
-    {
-      "id": "sdUqaEQLOsg",
-      "title": "ジャルジャル即興コント『おむじょ』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2017-08-31T10:00:06Z",
-      "url": "https://www.youtube.com/watch?v=sdUqaEQLOsg",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "AO_upViFggY",
-      "title": "ジャルジャル即興コント『マンガ酒』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2017-09-29T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=AO_upViFggY",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "Ml_u6OBj_4s",
-      "title": "ジャルジャル即興コント『コンシェルジュインペリアル』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2017-10-29T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=Ml_u6OBj_4s",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "xkplzqp2Uyk",
-      "title": "ジャルジャル即興コント『女子高生のつれづれ』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2017-11-30T10:00:03Z",
-      "url": "https://www.youtube.com/watch?v=xkplzqp2Uyk",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "QAw8X1E-LsU",
-      "title": "ジャルジャル即興コント『アーサーブライト』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2017-12-28T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=QAw8X1E-LsU",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "PN1Q0NNZ820",
-      "title": "ジャルジャル即興コント『ねこがあらわれた』【コミックゼノンコラボコント】",
-      "channel": "tower",
-      "publishedAt": "2018-01-25T10:00:02Z",
-      "url": "https://www.youtube.com/watch?v=PN1Q0NNZ820",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "c0NowLgXtGs",
       "title": "ジャルジャルのネタのタネ『変なストリートミュージシャン来ると思ってた変な奴』【JARUJARUTOWER】",
       "channel": "tower",
@@ -2852,16 +506,6 @@
       "url": "https://www.youtube.com/watch?v=RQl1QxhEYEo",
       "topics": [
         "音楽"
-      ]
-    },
-    {
-      "id": "p99tbL0bNG4",
-      "title": "ジャルジャル即興コント『パンと僕のモモちゃん』コミックゼノンコラボコント￥",
-      "channel": "tower",
-      "publishedAt": "2018-02-22T10:00:04Z",
-      "url": "https://www.youtube.com/watch?v=p99tbL0bNG4",
-      "topics": [
-        "芸人・ネタ"
       ]
     },
     {
@@ -3024,14 +668,6 @@
       "topics": []
     },
     {
-      "id": "yi6teW3vm9Y",
-      "title": "ジャルジャル『JARUJARUTOWER 』メイキング 公開！ １コマずつ撮影！",
-      "channel": "tower",
-      "publishedAt": "2018-03-12T06:58:45Z",
-      "url": "https://www.youtube.com/watch?v=yi6teW3vm9Y",
-      "topics": []
-    },
-    {
       "id": "-ixAVJCThKY",
       "title": "ジャルジャルのネタのタネ『司会者のくせに全然しゃべらない奴』【JARUJARUTOWER】",
       "channel": "tower",
@@ -3184,16 +820,6 @@
       "publishedAt": "2018-03-29T09:00:05Z",
       "url": "https://www.youtube.com/watch?v=zD2Zw7TgCco",
       "topics": []
-    },
-    {
-      "id": "2wBh73Z_g4k",
-      "title": "ジャルジャル即興コント『火色の文楽』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2018-03-29T10:02:03Z",
-      "url": "https://www.youtube.com/watch?v=2wBh73Z_g4k",
-      "topics": [
-        "芸人・ネタ"
-      ]
     },
     {
       "id": "HAGtn6-lxsI",
@@ -3452,16 +1078,6 @@
       "topics": []
     },
     {
-      "id": "aNEXRYYKffQ",
-      "title": "ジャルジャル即興コント『死神にだって愛はある』(コミックゼノンコラボコント)",
-      "channel": "tower",
-      "publishedAt": "2018-04-29T09:23:42Z",
-      "url": "https://www.youtube.com/watch?v=aNEXRYYKffQ",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "yjmnoCeYN4o",
       "title": "ジャルジャルのネタのタネ『ちゃんとやれって言う奴』【JARUJARUTOWER】",
       "channel": "tower",
@@ -3688,16 +1304,6 @@
       "publishedAt": "2018-05-25T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=A-FmK1Hjpwg",
       "topics": []
-    },
-    {
-      "id": "BwdGVehgenY",
-      "title": "ジャルジャル即興コント『芭蕉と曽良と◯◯と』(コミックゼノンコラボコント)",
-      "channel": "tower",
-      "publishedAt": "2018-05-25T11:10:34Z",
-      "url": "https://www.youtube.com/watch?v=BwdGVehgenY",
-      "topics": [
-        "芸人・ネタ"
-      ]
     },
     {
       "id": "IyOSQCDWbaI",
@@ -4077,16 +1683,6 @@
       "topics": []
     },
     {
-      "id": "qufmmCv7lPA",
-      "title": "ジャルジャル即興コント『終末のワルキューレ』",
-      "channel": "tower",
-      "publishedAt": "2018-06-28T10:00:07Z",
-      "url": "https://www.youtube.com/watch?v=qufmmCv7lPA",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "463Fo5mdoco",
       "title": "ジャルジャルのネタのタネ『幻想的なライブする奴』【JARUJARUTOWER】",
       "channel": "tower",
@@ -4094,16 +1690,6 @@
       "url": "https://www.youtube.com/watch?v=463Fo5mdoco",
       "topics": [
         "音楽"
-      ]
-    },
-    {
-      "id": "niqelzv3Hv4",
-      "title": "コントを見てほしいからチャンネル登録者を増やしたい奴",
-      "channel": "tower",
-      "publishedAt": "2018-06-29T10:00:08Z",
-      "url": "https://www.youtube.com/watch?v=niqelzv3Hv4",
-      "topics": [
-        "芸人・ネタ"
       ]
     },
     {
@@ -4223,16 +1809,6 @@
       "publishedAt": "2018-07-13T09:00:04Z",
       "url": "https://www.youtube.com/watch?v=yVbNoH7QEyw",
       "topics": []
-    },
-    {
-      "id": "xPkFLP817mE",
-      "title": "コントを見てほしいからチャンネル登録者を増やしたい奴#02",
-      "channel": "tower",
-      "publishedAt": "2018-07-13T10:00:13Z",
-      "url": "https://www.youtube.com/watch?v=xPkFLP817mE",
-      "topics": [
-        "芸人・ネタ"
-      ]
     },
     {
       "id": "DN5Kvca9ARs",
@@ -4356,16 +1932,6 @@
       "url": "https://www.youtube.com/watch?v=uM_pHvBR8eI",
       "topics": [
         "店・接客"
-      ]
-    },
-    {
-      "id": "KQUrdWRhoBw",
-      "title": "ジャルジャル即興コント『失踪宣言』コミックゼノンコラボコント",
-      "channel": "tower",
-      "publishedAt": "2018-07-26T10:02:35Z",
-      "url": "https://www.youtube.com/watch?v=KQUrdWRhoBw",
-      "topics": [
-        "芸人・ネタ"
       ]
     },
     {
@@ -4986,14 +2552,6 @@
       ]
     },
     {
-      "id": "EIEo0yQxJWM",
-      "title": "ジャルッと！爆ハリ！＃113",
-      "channel": "tower",
-      "publishedAt": "2018-10-01T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=EIEo0yQxJWM",
-      "topics": []
-    },
-    {
       "id": "Fmjf-9ajxKY",
       "title": "ジャルジャルのネタのタネ『祝１０万人突破』【JARUJARUTOWER】",
       "channel": "tower",
@@ -5081,14 +2639,6 @@
       ]
     },
     {
-      "id": "bxg9DUjrNng",
-      "title": "ジャルっと！爆ハリ！#117",
-      "channel": "tower",
-      "publishedAt": "2018-10-08T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=bxg9DUjrNng",
-      "topics": []
-    },
-    {
       "id": "EWGVavvcIOQ",
       "title": "ジャルジャルのネタのタネ『口でやってるの気付かん奴②』【JARUJARUTOWER】",
       "channel": "tower",
@@ -5173,14 +2723,6 @@
       "topics": []
     },
     {
-      "id": "VITWhp3ex1Q",
-      "title": "ジャルっと！爆ハリ！#118",
-      "channel": "tower",
-      "publishedAt": "2018-10-15T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=VITWhp3ex1Q",
-      "topics": []
-    },
-    {
       "id": "iB2OtUjaES8",
       "title": "ジャルジャルのネタのタネ『違法建築を許さない奴』【JARUJARUTOWER】",
       "channel": "tower",
@@ -5226,14 +2768,6 @@
       "channel": "tower",
       "publishedAt": "2018-10-21T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=0q4eqk9StGE",
-      "topics": []
-    },
-    {
-      "id": "OQbr0oS1IVA",
-      "title": "ジャルっと！爆ハリ！#123",
-      "channel": "tower",
-      "publishedAt": "2018-10-22T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=OQbr0oS1IVA",
       "topics": []
     },
     {
@@ -5303,14 +2837,6 @@
       "topics": []
     },
     {
-      "id": "sRVQGOPNTAM",
-      "title": "ジャルッと！爆ハリ！#124",
-      "channel": "tower",
-      "publishedAt": "2018-10-29T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=sRVQGOPNTAM",
-      "topics": []
-    },
-    {
       "id": "IgpNmghGsis",
       "title": "ジャルジャルのネタのタネ『指間違えてる奴』【JARUJARUTOWER】",
       "channel": "tower",
@@ -5367,14 +2893,6 @@
       "topics": []
     },
     {
-      "id": "mTo0cj5K644",
-      "title": "ジャルッと！爆ハリ！#125",
-      "channel": "tower",
-      "publishedAt": "2018-11-05T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=mTo0cj5K644",
-      "topics": []
-    },
-    {
       "id": "Ly0evXXguP4",
       "title": "ジャルジャルのネタのタネ『色々あった奴』【JARUJARUTOWER】",
       "channel": "tower",
@@ -5420,14 +2938,6 @@
       "channel": "tower",
       "publishedAt": "2018-11-11T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=fBifFhJ2Lio",
-      "topics": []
-    },
-    {
-      "id": "c-v1WPACqMU",
-      "title": "ジャルっと！爆ハリ！#129",
-      "channel": "tower",
-      "publishedAt": "2018-11-12T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=c-v1WPACqMU",
       "topics": []
     },
     {
@@ -5489,14 +2999,6 @@
       "topics": []
     },
     {
-      "id": "0h1Umrz0aU0",
-      "title": "ジャルっと！爆ハリ！#130",
-      "channel": "tower",
-      "publishedAt": "2018-11-19T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=0h1Umrz0aU0",
-      "topics": []
-    },
-    {
       "id": "QK3Oe-qdGeY",
       "title": "ジャルジャルのネタのタネ『嫌な奴やと思ったらいい奴』【JARUJARUTOWER】",
       "channel": "tower",
@@ -5550,14 +3052,6 @@
       "channel": "tower",
       "publishedAt": "2018-11-25T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=a-5PMjw4XbA",
-      "topics": []
-    },
-    {
-      "id": "Dx18HnnhSLM",
-      "title": "ジャルっと！爆ハリ！#138",
-      "channel": "tower",
-      "publishedAt": "2018-11-26T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=Dx18HnnhSLM",
       "topics": []
     },
     {
@@ -5621,16 +3115,6 @@
       ]
     },
     {
-      "id": "5wAzmiKPZqo",
-      "title": "コントを見てほしいからチャンネル登録者を増やしたい奴",
-      "channel": "tower",
-      "publishedAt": "2018-11-30T12:00:01Z",
-      "url": "https://www.youtube.com/watch?v=5wAzmiKPZqo",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "yu_RBw0lx2o",
       "title": "ジャルジャルのネタのタネ『急に声でかくなる奴』【JARUJARUTOWER】",
       "channel": "tower",
@@ -5661,14 +3145,6 @@
       "channel": "tower",
       "publishedAt": "2018-12-02T16:32:50Z",
       "url": "https://www.youtube.com/watch?v=b1J39WQFvSs",
-      "topics": []
-    },
-    {
-      "id": "PdtgekumU1o",
-      "title": "ジャルっと！爆ハリ！#139",
-      "channel": "tower",
-      "publishedAt": "2018-12-03T09:00:05Z",
-      "url": "https://www.youtube.com/watch?v=PdtgekumU1o",
       "topics": []
     },
     {
@@ -5725,14 +3201,6 @@
       "channel": "tower",
       "publishedAt": "2018-12-09T09:00:09Z",
       "url": "https://www.youtube.com/watch?v=ZZH7NmY0rsE",
-      "topics": []
-    },
-    {
-      "id": "4GBD1sdQv78",
-      "title": "ジャルっと！爆ハリ！#140",
-      "channel": "tower",
-      "publishedAt": "2018-12-10T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=4GBD1sdQv78",
       "topics": []
     },
     {
@@ -5812,14 +3280,6 @@
       ]
     },
     {
-      "id": "xuzbvpZEljg",
-      "title": "ジャルっと！爆ハリ！#141",
-      "channel": "tower",
-      "publishedAt": "2018-12-17T09:00:15Z",
-      "url": "https://www.youtube.com/watch?v=xuzbvpZEljg",
-      "topics": []
-    },
-    {
       "id": "BZbAleVX18w",
       "title": "ジャルジャルのネタのタネ『客足が減った蕎麦屋を改革する奴』【JARUJARUTOWER】",
       "channel": "tower",
@@ -5873,14 +3333,6 @@
       "channel": "tower",
       "publishedAt": "2018-12-23T09:00:07Z",
       "url": "https://www.youtube.com/watch?v=xB8qBlIVSD8",
-      "topics": []
-    },
-    {
-      "id": "Q5LfiieSg2A",
-      "title": "ジャルっと！爆ハリ！#142",
-      "channel": "tower",
-      "publishedAt": "2018-12-24T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=Q5LfiieSg2A",
       "topics": []
     },
     {
@@ -5950,14 +3402,6 @@
       "channel": "tower",
       "publishedAt": "2018-12-30T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=FafGf4Od9Ro",
-      "topics": []
-    },
-    {
-      "id": "1my2k9Tk86w",
-      "title": "ジャルっと！爆ハリ！#143",
-      "channel": "tower",
-      "publishedAt": "2018-12-31T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=1my2k9Tk86w",
       "topics": []
     },
     {
@@ -6091,14 +3535,6 @@
       "topics": []
     },
     {
-      "id": "MmH4FT9T6zg",
-      "title": "ジャルっと！爆ハリ！#144",
-      "channel": "tower",
-      "publishedAt": "2019-01-07T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=MmH4FT9T6zg",
-      "topics": []
-    },
-    {
       "id": "OKpS2-6PNAc",
       "title": "『プロポーズの様子を撮って欲しい奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -6179,14 +3615,6 @@
       "topics": []
     },
     {
-      "id": "YhDeTTLs1C0",
-      "title": "ジャルっと！爆ハリ！#145",
-      "channel": "tower",
-      "publishedAt": "2019-01-14T09:00:08Z",
-      "url": "https://www.youtube.com/watch?v=YhDeTTLs1C0",
-      "topics": []
-    },
-    {
       "id": "pWeRbl705Ek",
       "title": "『ぼちぼち帰る奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -6253,14 +3681,6 @@
       "topics": []
     },
     {
-      "id": "8fggLoofQEA",
-      "title": "ジャルっと！爆ハリ！#146",
-      "channel": "tower",
-      "publishedAt": "2019-01-21T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=8fggLoofQEA",
-      "topics": []
-    },
-    {
       "id": "n0rjI0JjRwY",
       "title": "『どっちが変な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -6314,14 +3734,6 @@
       "channel": "tower",
       "publishedAt": "2019-01-28T09:00:05Z",
       "url": "https://www.youtube.com/watch?v=phWoiXxcU1s",
-      "topics": []
-    },
-    {
-      "id": "sFHnbM0D7gI",
-      "title": "ジャルっと！爆ハリ！#147",
-      "channel": "tower",
-      "publishedAt": "2019-01-28T09:00:10Z",
-      "url": "https://www.youtube.com/watch?v=sFHnbM0D7gI",
       "topics": []
     },
     {
@@ -6381,14 +3793,6 @@
       "channel": "tower",
       "publishedAt": "2019-02-04T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=eGoSV4UokGo",
-      "topics": []
-    },
-    {
-      "id": "bUx7D6bK-A4",
-      "title": "ジャルっと！爆ハリ！#148",
-      "channel": "tower",
-      "publishedAt": "2019-02-04T09:00:05Z",
-      "url": "https://www.youtube.com/watch?v=bUx7D6bK-A4",
       "topics": []
     },
     {
@@ -6466,14 +3870,6 @@
       "channel": "tower",
       "publishedAt": "2019-02-10T09:00:05Z",
       "url": "https://www.youtube.com/watch?v=iPrxzNL3dVw",
-      "topics": []
-    },
-    {
-      "id": "1jE5cbhNW9I",
-      "title": "ジャルっと！爆ハリ！#149",
-      "channel": "tower",
-      "publishedAt": "2019-02-11T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=1jE5cbhNW9I",
       "topics": []
     },
     {
@@ -6568,14 +3964,6 @@
       ]
     },
     {
-      "id": "H9UwA6h7jH0",
-      "title": "ジャルっと！爆ハリ！#150",
-      "channel": "tower",
-      "publishedAt": "2019-02-18T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=H9UwA6h7jH0",
-      "topics": []
-    },
-    {
       "id": "gdXuCwhmPFY",
       "title": "『南くんと漫才する奴～国名分けっこ～』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -6637,43 +4025,11 @@
       "topics": []
     },
     {
-      "id": "O3hYrjEfSLg",
-      "title": "ジャルジャルの笑いのツボ屋#05【大阪チャンネル】",
-      "channel": "tower",
-      "publishedAt": "2019-02-24T12:32:18Z",
-      "url": "https://www.youtube.com/watch?v=O3hYrjEfSLg",
-      "topics": []
-    },
-    {
-      "id": "mXNViISBxvM",
-      "title": "ジャルジャルの笑いのツボ屋#03【大阪チャンネル】",
-      "channel": "tower",
-      "publishedAt": "2019-02-24T12:34:01Z",
-      "url": "https://www.youtube.com/watch?v=mXNViISBxvM",
-      "topics": []
-    },
-    {
-      "id": "HbEMfVnqaWE",
-      "title": "ジャルジャルの笑いのツボ屋#01【大阪チャンネル】",
-      "channel": "tower",
-      "publishedAt": "2019-02-24T12:41:11Z",
-      "url": "https://www.youtube.com/watch?v=HbEMfVnqaWE",
-      "topics": []
-    },
-    {
       "id": "4dZd6tOd6H0",
       "title": "『待たへん奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
       "publishedAt": "2019-02-25T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=4dZd6tOd6H0",
-      "topics": []
-    },
-    {
-      "id": "Mz2mYLiN_EE",
-      "title": "ジャルっと！爆ハリ！#151",
-      "channel": "tower",
-      "publishedAt": "2019-02-25T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=Mz2mYLiN_EE",
       "topics": []
     },
     {
@@ -6693,111 +4049,12 @@
       "topics": []
     },
     {
-      "id": "Z1Kz7tbttdU",
-      "title": "【ジャルジャル コント対決】ROUND１「ダンス対決」 朝摘みオレンジVSヨーグリーナ  朝飲むならどっち？おいしさ対決",
-      "channel": "tower",
-      "publishedAt": "2019-02-28T02:00:21Z",
-      "url": "https://www.youtube.com/watch?v=Z1Kz7tbttdU",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "Ccy0Qu9JMZ4",
-      "title": "【ジャルジャル コント対決】ROUND2「秘密対決」 朝摘みオレンジVSヨーグリーナ  朝飲むならどっち？おいしさ対決",
-      "channel": "tower",
-      "publishedAt": "2019-02-28T02:01:41Z",
-      "url": "https://www.youtube.com/watch?v=Ccy0Qu9JMZ4",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "7Hu3b9sGk0A",
-      "title": "【ジャルジャル コント対決】ROUND3「とことん議論対決」 朝摘みオレンジVSヨーグリーナ  朝飲むならどっち？おいしさ対決",
-      "channel": "tower",
-      "publishedAt": "2019-02-28T02:02:58Z",
-      "url": "https://www.youtube.com/watch?v=7Hu3b9sGk0A",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "YPNC91nz9IQ",
-      "title": "【ジャルジャル コント対決】ROUND4「アート対決」 朝摘みオレンジVSヨーグリーナ  朝飲むならどっち？おいしさ対決",
-      "channel": "tower",
-      "publishedAt": "2019-02-28T02:03:27Z",
-      "url": "https://www.youtube.com/watch?v=YPNC91nz9IQ",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "uZ_c4LIl8BE",
-      "title": "【ジャルジャル コント対決】ROUND5「試飲対決」 朝摘みオレンジVSヨーグリーナ  朝飲むならどっち？おいしさ対決",
-      "channel": "tower",
-      "publishedAt": "2019-02-28T02:03:45Z",
-      "url": "https://www.youtube.com/watch?v=uZ_c4LIl8BE",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "9-0H0LxVRwY",
-      "title": "【ジャルジャル コント対決】ROUND6「妄想対決」 朝摘みオレンジVSヨーグリーナ  朝飲むならどっち？おいしさ対決",
-      "channel": "tower",
-      "publishedAt": "2019-02-28T02:04:26Z",
-      "url": "https://www.youtube.com/watch?v=9-0H0LxVRwY",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "nCS6FMR3vVM",
-      "title": "【ジャルジャル コント対決】ROUND7「 しりとり対決」 朝摘みオレンジVSヨーグリーナ  朝飲むならどっち？おいしさ対決",
-      "channel": "tower",
-      "publishedAt": "2019-02-28T02:05:17Z",
-      "url": "https://www.youtube.com/watch?v=nCS6FMR3vVM",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
       "id": "EtQxjxkVbP8",
       "title": "『腰引けてる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
       "publishedAt": "2019-02-28T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=EtQxjxkVbP8",
       "topics": []
-    },
-    {
-      "id": "sCXWSkiCN_I",
-      "title": "【ジャルジャル コント対決】ROUND8「うた対決」 朝摘みオレンジVSヨーグリーナ  朝飲むならどっち？おいしさ対決",
-      "channel": "tower",
-      "publishedAt": "2019-03-01T02:00:02Z",
-      "url": "https://www.youtube.com/watch?v=sCXWSkiCN_I",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
-    },
-    {
-      "id": "82leJ8ZOCjk",
-      "title": "【ジャルジャル コント対決】ROUND9「サポーター対決」 朝摘みオレンジVSヨーグリーナ  朝飲むならどっち？おいしさ対決",
-      "channel": "tower",
-      "publishedAt": "2019-03-01T02:00:45Z",
-      "url": "https://www.youtube.com/watch?v=82leJ8ZOCjk",
-      "topics": [
-        "芸人・ネタ",
-        "食べ物"
-      ]
     },
     {
       "id": "b2e0jKyWwMg",
@@ -6832,14 +4089,6 @@
       "topics": []
     },
     {
-      "id": "fE7nBVzrfn0",
-      "title": "ジャルっと！爆ハリ！#152",
-      "channel": "tower",
-      "publishedAt": "2019-03-04T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=fE7nBVzrfn0",
-      "topics": []
-    },
-    {
       "id": "rZYo5POj-0o",
       "title": "『息子の万引き疑う奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -6866,35 +4115,11 @@
       "topics": []
     },
     {
-      "id": "bG2VKVf5IiY",
-      "title": "ジャルジャルネタサロン開設！「ジャルジャルに興味ある奴」",
-      "channel": "tower",
-      "publishedAt": "2019-03-08T03:00:02Z",
-      "url": "https://www.youtube.com/watch?v=bG2VKVf5IiY",
-      "topics": []
-    },
-    {
-      "id": "FAhlxJeICtg",
-      "title": "JARUJARUTOWER1周年記念特別配信！",
-      "channel": "tower",
-      "publishedAt": "2019-03-08T04:43:01Z",
-      "url": "https://www.youtube.com/watch?v=FAhlxJeICtg",
-      "topics": []
-    },
-    {
       "id": "WbfT2cTGTSQ",
       "title": "『大便の記憶だけなくなった奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
       "publishedAt": "2019-03-08T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=WbfT2cTGTSQ",
-      "topics": []
-    },
-    {
-      "id": "FvuJK0_ZZ64",
-      "title": "JARUJARU TOWER 1周年記念！特別配信！",
-      "channel": "tower",
-      "publishedAt": "2019-03-08T11:24:26Z",
-      "url": "https://www.youtube.com/watch?v=FvuJK0_ZZ64",
       "topics": []
     },
     {
@@ -6911,14 +4136,6 @@
       "channel": "tower",
       "publishedAt": "2019-03-10T09:00:02Z",
       "url": "https://www.youtube.com/watch?v=GOIvk3L-QVs",
-      "topics": []
-    },
-    {
-      "id": "K2lDqO1_-YE",
-      "title": "ジャルっと！爆ハリ！#153",
-      "channel": "tower",
-      "publishedAt": "2019-03-11T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=K2lDqO1_-YE",
       "topics": []
     },
     {
@@ -6978,14 +4195,6 @@
       "topics": [
         "音楽"
       ]
-    },
-    {
-      "id": "57QYoGcuUP0",
-      "title": "ジャルっと！爆ハリ！＃154",
-      "channel": "tower",
-      "publishedAt": "2019-03-18T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=57QYoGcuUP0",
-      "topics": []
     },
     {
       "id": "Fqfr9p188rE",
@@ -7058,23 +4267,6 @@
       "url": "https://www.youtube.com/watch?v=hGU86BnwVbE",
       "topics": [
         "芸人・ネタ"
-      ]
-    },
-    {
-      "id": "eb2fx0CBD_Y",
-      "title": "『南くん聞き取れる奴 パート2』【JARUJARUTOWER】",
-      "channel": "tower",
-      "publishedAt": "2019-03-26T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=eb2fx0CBD_Y",
-      "topics": [],
-      "entities": [
-        {
-          "id": "minami",
-          "name": "南くん",
-          "aliases": [],
-          "entityType": "character",
-          "label": "キャラ名"
-        }
       ]
     },
     {
@@ -7408,14 +4600,6 @@
       "topics": []
     },
     {
-      "id": "xJds4_Om9Ww",
-      "title": "ジャルっと！爆ハリ！#155",
-      "channel": "tower",
-      "publishedAt": "2019-04-29T09:00:05Z",
-      "url": "https://www.youtube.com/watch?v=xJds4_Om9Ww",
-      "topics": []
-    },
-    {
       "id": "lnwF-SEHk-M",
       "title": "『つっこむとき声変わる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -7491,27 +4675,11 @@
       ]
     },
     {
-      "id": "adGDCLZLWfA",
-      "title": "ジャルっと！爆ハリ！＃156",
-      "channel": "tower",
-      "publishedAt": "2019-05-06T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=adGDCLZLWfA",
-      "topics": []
-    },
-    {
       "id": "mWKD32W7-wI",
       "title": "『南っていう奴〜あっちむいてほい〜』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
       "publishedAt": "2019-05-07T09:00:07Z",
       "url": "https://www.youtube.com/watch?v=mWKD32W7-wI",
-      "topics": []
-    },
-    {
-      "id": "FwKhZAYH_oE",
-      "title": "コメント読む奴〜3月編〜",
-      "channel": "tower",
-      "publishedAt": "2019-05-07T13:33:14Z",
-      "url": "https://www.youtube.com/watch?v=FwKhZAYH_oE",
       "topics": []
     },
     {
@@ -7913,14 +5081,6 @@
       "topics": []
     },
     {
-      "id": "UbSSd53t6mg",
-      "title": "ジャルっと！爆ハリ！#157",
-      "channel": "tower",
-      "publishedAt": "2019-05-13T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=UbSSd53t6mg",
-      "topics": []
-    },
-    {
       "id": "yEaigqvyzqA",
       "title": "『祭りしか言わん奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -7980,14 +5140,6 @@
       "topics": []
     },
     {
-      "id": "0QOC_f_LWuU",
-      "title": "『コメント読む奴〜4月編〜』【JARUJARUTOWER】",
-      "channel": "tower",
-      "publishedAt": "2019-05-19T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=0QOC_f_LWuU",
-      "topics": []
-    },
-    {
       "id": "XGChIj1FsI4",
       "title": "『のどかな奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -8001,14 +5153,6 @@
       "channel": "tower",
       "publishedAt": "2019-05-20T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=N0ahGNRkcyk",
-      "topics": []
-    },
-    {
-      "id": "hNOVLteLne8",
-      "title": "ジャルっと！爆ハリ！#158",
-      "channel": "tower",
-      "publishedAt": "2019-05-20T09:00:06Z",
-      "url": "https://www.youtube.com/watch?v=hNOVLteLne8",
       "topics": []
     },
     {
@@ -8072,14 +5216,6 @@
       "topics": []
     },
     {
-      "id": "bs4j_3BYzCU",
-      "title": "ジャルっと！爆ハリ！#159",
-      "channel": "tower",
-      "publishedAt": "2019-05-27T09:00:09Z",
-      "url": "https://www.youtube.com/watch?v=bs4j_3BYzCU",
-      "topics": []
-    },
-    {
       "id": "KmByRAIV2Fg",
       "title": "『南と漫才する奴～唇ぶるぶる対決～』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -8138,14 +5274,6 @@
       "channel": "tower",
       "publishedAt": "2019-06-02T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=Hzk31-QBxTk",
-      "topics": []
-    },
-    {
-      "id": "92Kk5YnAL_A",
-      "title": "ジャルっと！爆ハリ！#160",
-      "channel": "tower",
-      "publishedAt": "2019-06-03T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=92Kk5YnAL_A",
       "topics": []
     },
     {
@@ -8224,14 +5352,6 @@
       ]
     },
     {
-      "id": "u8-GbYVmHCA",
-      "title": "ジャルっと！爆ハリ！#161",
-      "channel": "tower",
-      "publishedAt": "2019-06-10T09:00:10Z",
-      "url": "https://www.youtube.com/watch?v=u8-GbYVmHCA",
-      "topics": []
-    },
-    {
       "id": "ksziOQKbibI",
       "title": "『電球変える人と気まずい奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -8266,14 +5386,6 @@
       "topics": []
     },
     {
-      "id": "KQ3Rzw5_KrM",
-      "title": "#セルフS2O やってみた【ジャルジャル】編",
-      "channel": "tower",
-      "publishedAt": "2019-06-14T10:00:07Z",
-      "url": "https://www.youtube.com/watch?v=KQ3Rzw5_KrM",
-      "topics": []
-    },
-    {
       "id": "sG9WqUmtq3g",
       "title": "『久々に大人に怒られた奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -8297,14 +5409,6 @@
           "label": "キャラ名"
         }
       ]
-    },
-    {
-      "id": "jA2N890mOtk",
-      "title": "ジャルっと！爆ハリ！＃162",
-      "channel": "tower",
-      "publishedAt": "2019-06-17T09:00:06Z",
-      "url": "https://www.youtube.com/watch?v=jA2N890mOtk",
-      "topics": []
     },
     {
       "id": "itEIyoheRlg",
@@ -8370,14 +5474,6 @@
       "channel": "tower",
       "publishedAt": "2019-06-23T09:00:06Z",
       "url": "https://www.youtube.com/watch?v=Q-x7ify6vnI",
-      "topics": []
-    },
-    {
-      "id": "6KUZ7AqF1zM",
-      "title": "ジャルっと！爆ハリ！＃163",
-      "channel": "tower",
-      "publishedAt": "2019-06-24T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=6KUZ7AqF1zM",
       "topics": []
     },
     {
@@ -8447,14 +5543,6 @@
       ]
     },
     {
-      "id": "b6MkV54vTEw",
-      "title": "ジャルっと！爆ハリ！＃164",
-      "channel": "tower",
-      "publishedAt": "2019-07-01T09:00:09Z",
-      "url": "https://www.youtube.com/watch?v=b6MkV54vTEw",
-      "topics": []
-    },
-    {
       "id": "u3UwUpBF_As",
       "title": "『牛丼屋でアクエリ頼む奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -8489,16 +5577,6 @@
       "topics": []
     },
     {
-      "id": "msm8Hp7e4Qk",
-      "title": "ジャルジャル１億回再生突破！記念ライブ",
-      "channel": "tower",
-      "publishedAt": "2019-07-05T11:30:47Z",
-      "url": "https://www.youtube.com/watch?v=msm8Hp7e4Qk",
-      "topics": [
-        "音楽"
-      ]
-    },
-    {
       "id": "nDaCUGGLx7U",
       "title": "『三ノ輪ひかるって奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -8507,29 +5585,11 @@
       "topics": []
     },
     {
-      "id": "wrzOwOaDjVY",
-      "title": "ジャルジャル１億回再生突破！記念ライブ",
-      "channel": "tower",
-      "publishedAt": "2019-07-06T11:44:10Z",
-      "url": "https://www.youtube.com/watch?v=wrzOwOaDjVY",
-      "topics": [
-        "音楽"
-      ]
-    },
-    {
       "id": "3scDFfQV0XY",
       "title": "『「個々あっつー」って言う奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
       "publishedAt": "2019-07-07T09:00:02Z",
       "url": "https://www.youtube.com/watch?v=3scDFfQV0XY",
-      "topics": []
-    },
-    {
-      "id": "43bnP0e5RDw",
-      "title": "ジャルっと！爆ハリ！#165",
-      "channel": "tower",
-      "publishedAt": "2019-07-08T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=43bnP0e5RDw",
       "topics": []
     },
     {
@@ -8614,14 +5674,6 @@
       ]
     },
     {
-      "id": "XhyVDd9pFCg",
-      "title": "ジャルっと！爆ハリ！#166",
-      "channel": "tower",
-      "publishedAt": "2019-07-15T09:00:13Z",
-      "url": "https://www.youtube.com/watch?v=XhyVDd9pFCg",
-      "topics": []
-    },
-    {
       "id": "gKbeDa1WdoU",
       "title": "『◯◯そー！って言う奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -8680,22 +5732,6 @@
       "topics": []
     },
     {
-      "id": "hKKn5AHYK4E",
-      "title": "ジャルっと！爆ハリ！#167",
-      "channel": "tower",
-      "publishedAt": "2019-07-22T09:00:10Z",
-      "url": "https://www.youtube.com/watch?v=hKKn5AHYK4E",
-      "topics": []
-    },
-    {
-      "id": "K1t2_dCJr48",
-      "title": "コメント読む奴〜6月編〜",
-      "channel": "tower",
-      "publishedAt": "2019-07-23T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=K1t2_dCJr48",
-      "topics": []
-    },
-    {
       "id": "QhtMB3UDmnc",
       "title": "『「つー！」って言う奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -8750,14 +5786,6 @@
       "channel": "tower",
       "publishedAt": "2019-07-28T09:00:04Z",
       "url": "https://www.youtube.com/watch?v=VVna70cuoaM",
-      "topics": []
-    },
-    {
-      "id": "C-EvvDnGKgg",
-      "title": "ジャルっと！爆ハリ！#168",
-      "channel": "tower",
-      "publishedAt": "2019-07-29T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=C-EvvDnGKgg",
       "topics": []
     },
     {
@@ -8853,14 +5881,6 @@
       ]
     },
     {
-      "id": "JxrETwzTuf8",
-      "title": "ジャルっと！爆ハリ！#169",
-      "channel": "tower",
-      "publishedAt": "2019-08-05T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=JxrETwzTuf8",
-      "topics": []
-    },
-    {
       "id": "j2VJ4LRDIas",
       "title": "『芸人やのに普通の青年の奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -8925,14 +5945,6 @@
       ]
     },
     {
-      "id": "yHo3UGtl7L0",
-      "title": "じゃルっと！爆ハリ！＃170",
-      "channel": "tower",
-      "publishedAt": "2019-08-12T09:00:08Z",
-      "url": "https://www.youtube.com/watch?v=yHo3UGtl7L0",
-      "topics": []
-    },
-    {
       "id": "8M6JrkLAuoE",
       "title": "『木片でどつく奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -8978,14 +5990,6 @@
       "channel": "tower",
       "publishedAt": "2019-08-18T09:00:09Z",
       "url": "https://www.youtube.com/watch?v=wTK1pMU3ZBA",
-      "topics": []
-    },
-    {
-      "id": "ZqNrR9uQyto",
-      "title": "ジャルっと！爆ハリ！＃171",
-      "channel": "tower",
-      "publishedAt": "2019-08-19T09:00:05Z",
-      "url": "https://www.youtube.com/watch?v=ZqNrR9uQyto",
       "topics": []
     },
     {
@@ -9062,14 +6066,6 @@
       "topics": []
     },
     {
-      "id": "eydS3V9CuZU",
-      "title": "ジャルっと！爆ハリ！#172",
-      "channel": "tower",
-      "publishedAt": "2019-08-26T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=eydS3V9CuZU",
-      "topics": []
-    },
-    {
       "id": "DsyW7dBpp08",
       "title": "『南っていう奴〜バイトの面接〜』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -9125,14 +6121,6 @@
       ]
     },
     {
-      "id": "TNGrg2Qq1OM",
-      "title": "コメント読む奴〜7月編〜",
-      "channel": "tower",
-      "publishedAt": "2019-08-31T09:00:05Z",
-      "url": "https://www.youtube.com/watch?v=TNGrg2Qq1OM",
-      "topics": []
-    },
-    {
       "id": "r39HgtdJnfg",
       "title": "『客どかす奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -9148,14 +6136,6 @@
       "channel": "tower",
       "publishedAt": "2019-09-01T09:00:06Z",
       "url": "https://www.youtube.com/watch?v=HsiyEMuTqOQ",
-      "topics": []
-    },
-    {
-      "id": "ejwcOYF7djs",
-      "title": "ジャルっと！爆ハリ！＃173",
-      "channel": "tower",
-      "publishedAt": "2019-09-02T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=ejwcOYF7djs",
       "topics": []
     },
     {
@@ -9240,14 +6220,6 @@
       "topics": []
     },
     {
-      "id": "vUNIbFiamao",
-      "title": "ジャルっと！爆ハリ！#174",
-      "channel": "tower",
-      "publishedAt": "2019-09-09T09:00:14Z",
-      "url": "https://www.youtube.com/watch?v=vUNIbFiamao",
-      "topics": []
-    },
-    {
       "id": "XX6EOBjIUXU",
       "title": "『無名のミュージシャンに取材する奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -9316,14 +6288,6 @@
       "channel": "tower",
       "publishedAt": "2019-09-16T09:00:02Z",
       "url": "https://www.youtube.com/watch?v=HyLTRJ_i3mk",
-      "topics": []
-    },
-    {
-      "id": "SA8wo1ZwH8Y",
-      "title": "ジャルっと！爆ハリ！#175",
-      "channel": "tower",
-      "publishedAt": "2019-09-16T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=SA8wo1ZwH8Y",
       "topics": []
     },
     {
@@ -9407,14 +6371,6 @@
       ]
     },
     {
-      "id": "5_dv6lwfO6w",
-      "title": "ジャルっと！爆ハリ！#176",
-      "channel": "tower",
-      "publishedAt": "2019-09-23T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=5_dv6lwfO6w",
-      "topics": []
-    },
-    {
       "id": "BS80OrpaQG0",
       "title": "『アイデア途切れへん奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -9438,14 +6394,6 @@
       "channel": "tower",
       "publishedAt": "2019-09-25T09:00:07Z",
       "url": "https://www.youtube.com/watch?v=RPXFYBRJVMw",
-      "topics": []
-    },
-    {
-      "id": "sVXt0TzMCZ8",
-      "title": "コメント読む奴〜８月編〜",
-      "channel": "tower",
-      "publishedAt": "2019-09-25T09:00:10Z",
-      "url": "https://www.youtube.com/watch?v=sVXt0TzMCZ8",
       "topics": []
     },
     {
@@ -9676,14 +6624,6 @@
       "topics": []
     },
     {
-      "id": "lIhD9CJtdF0",
-      "title": "ジャルっと！爆ハリ！＃177",
-      "channel": "tower",
-      "publishedAt": "2019-09-30T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=lIhD9CJtdF0",
-      "topics": []
-    },
-    {
       "id": "mFe8GHIkUOk",
       "title": "『武田鉄矢にサインもらった奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -9748,14 +6688,6 @@
       "channel": "tower",
       "publishedAt": "2019-10-07T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=7g6SkFt7Ioc",
-      "topics": []
-    },
-    {
-      "id": "tKeJBi2X8Lw",
-      "title": "ジャルっと！爆ハリ！#178",
-      "channel": "tower",
-      "publishedAt": "2019-10-07T09:00:10Z",
-      "url": "https://www.youtube.com/watch?v=tKeJBi2X8Lw",
       "topics": []
     },
     {
@@ -9861,14 +6793,6 @@
       "topics": []
     },
     {
-      "id": "zq0PWbd2DCk",
-      "title": "ジャルっと！爆ハリ！#179",
-      "channel": "tower",
-      "publishedAt": "2019-10-14T09:00:10Z",
-      "url": "https://www.youtube.com/watch?v=zq0PWbd2DCk",
-      "topics": []
-    },
-    {
       "id": "UOk1YQjqScs",
       "title": "『漫才中に気絶しちゃう奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -9920,14 +6844,6 @@
       "channel": "tower",
       "publishedAt": "2019-10-20T09:00:09Z",
       "url": "https://www.youtube.com/watch?v=qSN6HXdWyZo",
-      "topics": []
-    },
-    {
-      "id": "EtQ_uDouY68",
-      "title": "ジャルっと！爆ハリ！#180",
-      "channel": "tower",
-      "publishedAt": "2019-10-21T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=EtQ_uDouY68",
       "topics": []
     },
     {
@@ -10013,14 +6929,6 @@
       ]
     },
     {
-      "id": "gLdDf8rBgN8",
-      "title": "ジャルっと！爆ハリ！#181",
-      "channel": "tower",
-      "publishedAt": "2019-10-28T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=gLdDf8rBgN8",
-      "topics": []
-    },
-    {
       "id": "1WAMs90e_T8",
       "title": "『面接官の頭、叩く奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -10029,14 +6937,6 @@
       "topics": [
         "面接"
       ]
-    },
-    {
-      "id": "0BIrjiYQvL4",
-      "title": "コメント読む奴〜９月編〜",
-      "channel": "tower",
-      "publishedAt": "2019-10-30T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=0BIrjiYQvL4",
-      "topics": []
     },
     {
       "id": "SGWz_g7MMh4",
@@ -10101,14 +7001,6 @@
       ]
     },
     {
-      "id": "AyudPOB5M5k",
-      "title": "ジャルっと！爆ハリ！#182",
-      "channel": "tower",
-      "publishedAt": "2019-11-04T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=AyudPOB5M5k",
-      "topics": []
-    },
-    {
       "id": "tCgypBnEFfQ",
       "title": "『減量中のボクサーとコンビ組んでる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -10164,14 +7056,6 @@
       "channel": "tower",
       "publishedAt": "2019-11-10T09:00:00Z",
       "url": "https://www.youtube.com/watch?v=CVJevNmq5w4",
-      "topics": []
-    },
-    {
-      "id": "PKsiBPLtZm0",
-      "title": "ジャルっと！爆ハリ！#183",
-      "channel": "tower",
-      "publishedAt": "2019-11-11T09:00:02Z",
-      "url": "https://www.youtube.com/watch?v=PKsiBPLtZm0",
       "topics": []
     },
     {
@@ -10248,14 +7132,6 @@
       ]
     },
     {
-      "id": "zSh9clC-eEQ",
-      "title": "ジャルっと！爆ハリ！#184",
-      "channel": "tower",
-      "publishedAt": "2019-11-18T09:00:16Z",
-      "url": "https://www.youtube.com/watch?v=zSh9clC-eEQ",
-      "topics": []
-    },
-    {
       "id": "6ntFwxcXMP8",
       "title": "『「分かりました！」って言うけど分かってない奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -10314,14 +7190,6 @@
       "topics": []
     },
     {
-      "id": "v0BDGNBVoME",
-      "title": "ジャルっと！爆ハリ！#185",
-      "channel": "tower",
-      "publishedAt": "2019-11-25T09:00:13Z",
-      "url": "https://www.youtube.com/watch?v=v0BDGNBVoME",
-      "topics": []
-    },
-    {
       "id": "x5HGBXewGDA",
       "title": "『オーダーミスで体固まる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -10370,27 +7238,11 @@
       "topics": []
     },
     {
-      "id": "Msu9-OvqTFE",
-      "title": "ジャルっと！爆ハリ！#186",
-      "channel": "tower",
-      "publishedAt": "2019-12-02T09:00:03Z",
-      "url": "https://www.youtube.com/watch?v=Msu9-OvqTFE",
-      "topics": []
-    },
-    {
       "id": "Ubm5YznzSDE",
       "title": "『「日本人かーい！」って言う奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
       "publishedAt": "2019-12-02T09:00:06Z",
       "url": "https://www.youtube.com/watch?v=Ubm5YznzSDE",
-      "topics": []
-    },
-    {
-      "id": "7I5yAp_ALgE",
-      "title": "ジャルジャル、スーツを新調する！#3",
-      "channel": "tower",
-      "publishedAt": "2019-12-03T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=7I5yAp_ALgE",
       "topics": []
     },
     {
@@ -10413,30 +7265,6 @@
       ]
     },
     {
-      "id": "TJNiKDDa_bA",
-      "title": "ジャルジャル、スーツを新調する！#1",
-      "channel": "tower",
-      "publishedAt": "2019-12-03T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=TJNiKDDa_bA",
-      "topics": []
-    },
-    {
-      "id": "otxv_aUBqME",
-      "title": "コメント読む奴〜10月編〜",
-      "channel": "tower",
-      "publishedAt": "2019-12-03T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=otxv_aUBqME",
-      "topics": []
-    },
-    {
-      "id": "XONq5y-kIGI",
-      "title": "ジャルジャル、スーツを新調する！#2",
-      "channel": "tower",
-      "publishedAt": "2019-12-03T09:00:11Z",
-      "url": "https://www.youtube.com/watch?v=XONq5y-kIGI",
-      "topics": []
-    },
-    {
       "id": "vc3UnM8n5AQ",
       "title": "『珍しい形で会社乗っ取る奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -10444,16 +7272,6 @@
       "url": "https://www.youtube.com/watch?v=vc3UnM8n5AQ",
       "topics": [
         "会社・仕事"
-      ]
-    },
-    {
-      "id": "kPep5t5s7w4",
-      "title": "ジャルジャルタワー２億回再生突破！記念ライブ",
-      "channel": "tower",
-      "publishedAt": "2019-12-04T11:00:07Z",
-      "url": "https://www.youtube.com/watch?v=kPep5t5s7w4",
-      "topics": [
-        "音楽"
       ]
     },
     {
@@ -10680,14 +7498,6 @@
       "channel": "tower",
       "publishedAt": "2019-12-29T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=Iisrmz-6nK4",
-      "topics": []
-    },
-    {
-      "id": "f2fJQlHm-jk",
-      "title": "コメント読む奴〜11月編〜",
-      "channel": "tower",
-      "publishedAt": "2019-12-29T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=f2fJQlHm-jk",
       "topics": []
     },
     {
@@ -10986,14 +7796,6 @@
       ]
     },
     {
-      "id": "wjwBrufQy2k",
-      "title": "コメント読む奴〜12月編〜",
-      "channel": "tower",
-      "publishedAt": "2020-01-29T09:00:18Z",
-      "url": "https://www.youtube.com/watch?v=wjwBrufQy2k",
-      "topics": []
-    },
-    {
       "id": "bJlPNwBqyio",
       "title": "『洞窟見ても心動かん奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -11218,14 +8020,6 @@
       "channel": "tower",
       "publishedAt": "2020-02-24T09:00:02Z",
       "url": "https://www.youtube.com/watch?v=DlnwfQprG_4",
-      "topics": []
-    },
-    {
-      "id": "xWJHlByV_2U",
-      "title": "コメント読む奴〜2020年1月編〜",
-      "channel": "tower",
-      "publishedAt": "2020-02-24T09:00:23Z",
-      "url": "https://www.youtube.com/watch?v=xWJHlByV_2U",
       "topics": []
     },
     {
@@ -11472,14 +8266,6 @@
       "topics": []
     },
     {
-      "id": "1l1J96aCcD4",
-      "title": "ジャルジャル『\"国名分けっこ\"のパロディでハローキティがやったネタ\"キャラ名分けっこ\"をやってみた奴』【JARUJARUTOWER】",
-      "channel": "tower",
-      "publishedAt": "2020-03-11T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=1l1J96aCcD4",
-      "topics": []
-    },
-    {
       "id": "kafQCCu755I",
       "title": "『いつも佇んでいる先輩な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -11494,16 +8280,6 @@
       "publishedAt": "2020-03-12T09:00:14Z",
       "url": "https://www.youtube.com/watch?v=rIc4En3XJpw",
       "topics": []
-    },
-    {
-      "id": "jq7L-kYLBW0",
-      "title": "ジャルジャルのドキュメント『幻想的な歌手フォレに密着する奴』",
-      "channel": "tower",
-      "publishedAt": "2020-03-12T11:00:09Z",
-      "url": "https://www.youtube.com/watch?v=jq7L-kYLBW0",
-      "topics": [
-        "音楽"
-      ]
     },
     {
       "id": "hnJ3LkrUvLs",
@@ -11594,14 +8370,6 @@
       ]
     },
     {
-      "id": "4G_i_OoUUoI",
-      "title": "コメント読む奴〜2020年2月編〜",
-      "channel": "tower",
-      "publishedAt": "2020-03-23T09:00:01Z",
-      "url": "https://www.youtube.com/watch?v=4G_i_OoUUoI",
-      "topics": []
-    },
-    {
       "id": "hqGUMDfhOcI",
       "title": "『難しすぎるゲームを屋台で出してる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -11641,14 +8409,6 @@
       "channel": "tower",
       "publishedAt": "2020-03-27T09:00:13Z",
       "url": "https://www.youtube.com/watch?v=R_mkV6aWz2w",
-      "topics": []
-    },
-    {
-      "id": "9UoIDNCR1XE",
-      "title": "「大晦日に１０８回もジャルってんじゃねえよ」2019年12月31日",
-      "channel": "tower",
-      "publishedAt": "2020-03-28T01:08:00Z",
-      "url": "https://www.youtube.com/watch?v=9UoIDNCR1XE",
       "topics": []
     },
     {
@@ -12728,16 +9488,6 @@
       "topics": []
     },
     {
-      "id": "l3fxx1lKFno",
-      "title": "『リモート漫才する奴』",
-      "channel": "tower",
-      "publishedAt": "2020-04-08T09:55:05Z",
-      "url": "https://www.youtube.com/watch?v=l3fxx1lKFno",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "8N8rTbUnMqc",
       "title": "『裏で金玉を気にするコメディー俳優な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -12762,25 +9512,6 @@
       "publishedAt": "2020-04-11T09:00:20Z",
       "url": "https://www.youtube.com/watch?v=nkTlsZB-TEE",
       "topics": []
-    },
-    {
-      "id": "moCoQuzSOrI",
-      "title": "『リモートネタ合わせするツッコミ下手な関東人な奴』",
-      "channel": "tower",
-      "publishedAt": "2020-04-12T05:40:18Z",
-      "url": "https://www.youtube.com/watch?v=moCoQuzSOrI",
-      "topics": [
-        "芸人・ネタ"
-      ],
-      "entities": [
-        {
-          "id": "kanto-jin",
-          "name": "関東人",
-          "aliases": [],
-          "entityType": "character",
-          "label": "キャラ名"
-        }
-      ]
     },
     {
       "id": "Ibno7MEWv_I",
@@ -12838,14 +9569,6 @@
       ]
     },
     {
-      "id": "oV-wrHH8MeA",
-      "title": "『リモートで宿題を教えてもらう南っていう奴』",
-      "channel": "tower",
-      "publishedAt": "2020-04-17T09:54:56Z",
-      "url": "https://www.youtube.com/watch?v=oV-wrHH8MeA",
-      "topics": []
-    },
-    {
       "id": "sLtB6GeXhNI",
       "title": "『熱い言葉に弱い町工場の社長な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -12861,14 +9584,6 @@
       "channel": "tower",
       "publishedAt": "2020-04-19T09:00:27Z",
       "url": "https://www.youtube.com/watch?v=xpZduVJnGlc",
-      "topics": []
-    },
-    {
-      "id": "2algVFICN-I",
-      "title": "コメント読む奴〜2020年3月編〜",
-      "channel": "tower",
-      "publishedAt": "2020-04-20T09:00:00Z",
-      "url": "https://www.youtube.com/watch?v=2algVFICN-I",
       "topics": []
     },
     {
@@ -12916,32 +9631,12 @@
       ]
     },
     {
-      "id": "lYj-w-k3keg",
-      "title": "『ハズレの先生にリモート授業される奴』",
-      "channel": "tower",
-      "publishedAt": "2020-04-24T10:07:29Z",
-      "url": "https://www.youtube.com/watch?v=lYj-w-k3keg",
-      "topics": [
-        "学校"
-      ]
-    },
-    {
       "id": "Jg1JqFiNRo8",
       "title": "『恋バナしてる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
       "publishedAt": "2020-04-25T09:00:10Z",
       "url": "https://www.youtube.com/watch?v=Jg1JqFiNRo8",
       "topics": []
-    },
-    {
-      "id": "9UW5pZP32D0",
-      "title": "約８時間のライブ映像を実況しながら全部見る奴",
-      "channel": "tower",
-      "publishedAt": "2020-04-25T10:30:42Z",
-      "url": "https://www.youtube.com/watch?v=9UW5pZP32D0",
-      "topics": [
-        "音楽"
-      ]
     },
     {
       "id": "zPd81iS1Qcs",
@@ -13003,16 +9698,6 @@
       "topics": []
     },
     {
-      "id": "XeB-YmxtTlo",
-      "title": "ジャルジャルのドキュメント『愛の言葉ツッコミの会に密着する奴』",
-      "channel": "tower",
-      "publishedAt": "2020-04-29T11:00:14Z",
-      "url": "https://www.youtube.com/watch?v=XeB-YmxtTlo",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "UFtCMfWSLHU",
       "title": "『オーディション落ちた瞬間、帰る奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -13029,25 +9714,6 @@
       "publishedAt": "2020-05-01T09:00:16Z",
       "url": "https://www.youtube.com/watch?v=_JjfyIUlPSo",
       "topics": []
-    },
-    {
-      "id": "Hm0eFTcVEPs",
-      "title": "『リモート面接でめっちゃふざける奴』",
-      "channel": "tower",
-      "publishedAt": "2020-05-01T10:05:19Z",
-      "url": "https://www.youtube.com/watch?v=Hm0eFTcVEPs",
-      "topics": [
-        "面接"
-      ],
-      "entities": [
-        {
-          "id": "okintama-dekao",
-          "name": "おきんたまでか男",
-          "aliases": [],
-          "entityType": "character",
-          "label": "キャラ名"
-        }
-      ]
     },
     {
       "id": "LR6zuudm-RE",
@@ -13111,16 +9777,6 @@
       ]
     },
     {
-      "id": "6_FvAmx5t0c",
-      "title": "『ウルフルズに影響されてる奴〜リモートオーディション〜』",
-      "channel": "tower",
-      "publishedAt": "2020-05-08T10:01:13Z",
-      "url": "https://www.youtube.com/watch?v=6_FvAmx5t0c",
-      "topics": [
-        "オーディション"
-      ]
-    },
-    {
       "id": "ml0xWuefDKs",
       "title": "『沈黙なったらすぐ口ずさむ奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -13163,14 +9819,6 @@
       ]
     },
     {
-      "id": "ZJQDHhFIq80",
-      "title": "コメント読む奴〜2020年4月編〜",
-      "channel": "tower",
-      "publishedAt": "2020-05-14T09:00:12Z",
-      "url": "https://www.youtube.com/watch?v=ZJQDHhFIq80",
-      "topics": []
-    },
-    {
       "id": "iHI8HUIx0Ms",
       "title": "『知らん落語家やから質問が思い付かん奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -13190,25 +9838,6 @@
       ]
     },
     {
-      "id": "THK-Q89rrAw",
-      "title": "『角刈りのくせにリモートでもクラスのメインになろうとする奴』",
-      "channel": "tower",
-      "publishedAt": "2020-05-15T09:58:51Z",
-      "url": "https://www.youtube.com/watch?v=THK-Q89rrAw",
-      "topics": [
-        "美容・髪"
-      ],
-      "entities": [
-        {
-          "id": "kakugari",
-          "name": "角刈り",
-          "aliases": [],
-          "entityType": "character",
-          "label": "キャラ名"
-        }
-      ]
-    },
-    {
       "id": "9DXM0Qq7fuc",
       "title": "『どっちかに彼氏できたことがきっかけで、解散しそうな女漫才師な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -13218,14 +9847,6 @@
         "恋愛・結婚",
         "芸人・ネタ"
       ]
-    },
-    {
-      "id": "_FCcF-NphWo",
-      "title": "『ウルフルズに会わされるウルフルズに影響されてる奴』",
-      "channel": "tower",
-      "publishedAt": "2020-05-16T09:26:03Z",
-      "url": "https://www.youtube.com/watch?v=_FCcF-NphWo",
-      "topics": []
     },
     {
       "id": "Uh39XICTFAM",
@@ -13277,16 +9898,6 @@
       "publishedAt": "2020-05-22T09:00:04Z",
       "url": "https://www.youtube.com/watch?v=7AHjN2rPquw",
       "topics": []
-    },
-    {
-      "id": "k6hUrckygnk",
-      "title": "『間違えて、違う会社のリモート会議に何回も入ってくる奴』",
-      "channel": "tower",
-      "publishedAt": "2020-05-22T09:49:24Z",
-      "url": "https://www.youtube.com/watch?v=k6hUrckygnk",
-      "topics": [
-        "会社・仕事"
-      ]
     },
     {
       "id": "A6bQAu9MO3Y",
@@ -13353,16 +9964,6 @@
       ]
     },
     {
-      "id": "re3sT74PMPE",
-      "title": "『男なのに女子バレー部のリモートミーティングに呼ばれた奴』",
-      "channel": "tower",
-      "publishedAt": "2020-05-29T09:56:56Z",
-      "url": "https://www.youtube.com/watch?v=re3sT74PMPE",
-      "topics": [
-        "スポーツ"
-      ]
-    },
-    {
       "id": "InZpgF3JXpQ",
       "title": "『急遽、社長に挨拶することなった平社員な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -13425,16 +10026,6 @@
       "publishedAt": "2020-06-05T09:00:29Z",
       "url": "https://www.youtube.com/watch?v=qFz5Q7cB4BQ",
       "topics": []
-    },
-    {
-      "id": "361DWK9PH0k",
-      "title": "『部活紹介でウケ狙って大失敗する水泳部な奴』",
-      "channel": "tower",
-      "publishedAt": "2020-06-05T09:57:46Z",
-      "url": "https://www.youtube.com/watch?v=361DWK9PH0k",
-      "topics": [
-        "学校"
-      ]
     },
     {
       "id": "cRZxbprmv4c",
@@ -13515,30 +10106,11 @@
       "topics": []
     },
     {
-      "id": "iguWxnleHCM",
-      "title": "『リモート授業に慣れてないから友達連れてくる先生な奴』",
-      "channel": "tower",
-      "publishedAt": "2020-06-12T11:00:23Z",
-      "url": "https://www.youtube.com/watch?v=iguWxnleHCM",
-      "topics": [
-        "学校",
-        "友達"
-      ]
-    },
-    {
       "id": "7nfj2_RcYRU",
       "title": "『ゲストの内(うち)って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
       "publishedAt": "2020-06-13T09:00:02Z",
       "url": "https://www.youtube.com/watch?v=7nfj2_RcYRU",
-      "topics": []
-    },
-    {
-      "id": "UGtCzcr1u4k",
-      "title": "コメント読む奴〜2020年5月編〜",
-      "channel": "tower",
-      "publishedAt": "2020-06-13T09:00:08Z",
-      "url": "https://www.youtube.com/watch?v=UGtCzcr1u4k",
       "topics": []
     },
     {
@@ -13589,14 +10161,6 @@
       "channel": "tower",
       "publishedAt": "2020-06-19T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=1g70q_EC3s4",
-      "topics": []
-    },
-    {
-      "id": "Bw-Mh9e6Tcw",
-      "title": "『リモートでも独裁者の卵な奴』",
-      "channel": "tower",
-      "publishedAt": "2020-06-19T09:48:08Z",
-      "url": "https://www.youtube.com/watch?v=Bw-Mh9e6Tcw",
       "topics": []
     },
     {
@@ -13656,14 +10220,6 @@
       "topics": [
         "スポーツ"
       ]
-    },
-    {
-      "id": "k009eK-QR-s",
-      "title": "『ギャグするの恥ずい奴』",
-      "channel": "tower",
-      "publishedAt": "2020-06-26T11:28:48Z",
-      "url": "https://www.youtube.com/watch?v=k009eK-QR-s",
-      "topics": []
     },
     {
       "id": "6Y5iSTf4qLI",
@@ -13737,14 +10293,6 @@
       ]
     },
     {
-      "id": "rQ5olpuhjag",
-      "title": "『生配信でトラブル起きるハート♡キョーコって奴』",
-      "channel": "tower",
-      "publishedAt": "2020-07-03T09:57:09Z",
-      "url": "https://www.youtube.com/watch?v=rQ5olpuhjag",
-      "topics": []
-    },
-    {
       "id": "xPJ5O3zOht8",
       "title": "『Ｋ-ＰＯＰアイドルとしてデビューさせられる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -13798,14 +10346,6 @@
       "channel": "tower",
       "publishedAt": "2020-07-10T09:00:09Z",
       "url": "https://www.youtube.com/watch?v=RvWpjSuxlRU",
-      "topics": []
-    },
-    {
-      "id": "xFDKkE8jxEc",
-      "title": "【2020】ため口な奴〜カスタマーセンター〜",
-      "channel": "tower",
-      "publishedAt": "2020-07-10T09:49:57Z",
-      "url": "https://www.youtube.com/watch?v=xFDKkE8jxEc",
       "topics": []
     },
     {
@@ -13871,16 +10411,6 @@
       "topics": []
     },
     {
-      "id": "34TcaA0XMqQ",
-      "title": "『リモート飲み会に知らん友達勝手に呼びまくる奴』",
-      "channel": "tower",
-      "publishedAt": "2020-07-17T12:44:40Z",
-      "url": "https://www.youtube.com/watch?v=34TcaA0XMqQ",
-      "topics": [
-        "友達"
-      ]
-    },
-    {
       "id": "HiGt5l4q0Uc",
       "title": "『不仲おばはん歌手な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -13939,16 +10469,6 @@
       "topics": []
     },
     {
-      "id": "edbD6wnIu0A",
-      "title": "『生配信でけん玉兄弟やらされる奴』",
-      "channel": "tower",
-      "publishedAt": "2020-07-24T10:59:09Z",
-      "url": "https://www.youtube.com/watch?v=edbD6wnIu0A",
-      "topics": [
-        "家族"
-      ]
-    },
-    {
       "id": "66UUb4YPzA0",
       "title": "『先生のくせに字が小さい奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -13957,14 +10477,6 @@
       "topics": [
         "学校"
       ]
-    },
-    {
-      "id": "4VVuzOvTEFM",
-      "title": "『ウルトラズに影響されてしまったウルフルズな奴』",
-      "channel": "tower",
-      "publishedAt": "2020-07-25T11:25:13Z",
-      "url": "https://www.youtube.com/watch?v=4VVuzOvTEFM",
-      "topics": []
     },
     {
       "id": "z0z6m6_71CE",
@@ -14021,16 +10533,6 @@
       ]
     },
     {
-      "id": "wtMWIcdXPkw",
-      "title": "『うろ覚えでライブする奴』",
-      "channel": "tower",
-      "publishedAt": "2020-07-31T10:26:47Z",
-      "url": "https://www.youtube.com/watch?v=wtMWIcdXPkw",
-      "topics": [
-        "音楽"
-      ]
-    },
-    {
       "id": "1Ex9OvUubk8",
       "title": "『フルネームで呼ばれる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -14044,14 +10546,6 @@
       "channel": "tower",
       "publishedAt": "2020-08-02T09:00:30Z",
       "url": "https://www.youtube.com/watch?v=xP-yAVJhkqg",
-      "topics": []
-    },
-    {
-      "id": "lmzFf_iWTdQ",
-      "title": "『生配信で大事な発表する奴』",
-      "channel": "tower",
-      "publishedAt": "2020-08-02T11:38:00Z",
-      "url": "https://www.youtube.com/watch?v=lmzFf_iWTdQ",
       "topics": []
     },
     {
@@ -14097,14 +10591,6 @@
       "channel": "tower",
       "publishedAt": "2020-08-07T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=-o6-veHNMEA",
-      "topics": []
-    },
-    {
-      "id": "rOEI4KTfjYI",
-      "title": "生配信！『悩み解決する時だけ滑舌悪い奴』",
-      "channel": "tower",
-      "publishedAt": "2020-08-07T10:08:06Z",
-      "url": "https://www.youtube.com/watch?v=rOEI4KTfjYI",
       "topics": []
     },
     {
@@ -14197,14 +10683,6 @@
       ]
     },
     {
-      "id": "srzy4RgtWBw",
-      "title": "コメント読む奴〜2020年6月編〜",
-      "channel": "tower",
-      "publishedAt": "2020-08-16T09:00:13Z",
-      "url": "https://www.youtube.com/watch?v=srzy4RgtWBw",
-      "topics": []
-    },
-    {
       "id": "cdiftq7lfRE",
       "title": "『できたての友達がちょっと変やった奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -14245,16 +10723,6 @@
       "publishedAt": "2020-08-21T09:00:09Z",
       "url": "https://www.youtube.com/watch?v=KsmjzDWPq94",
       "topics": []
-    },
-    {
-      "id": "2MPNsaBgi4s",
-      "title": "『おかず食うてる友達見て白飯すすむ奴』",
-      "channel": "tower",
-      "publishedAt": "2020-08-21T09:49:18Z",
-      "url": "https://www.youtube.com/watch?v=2MPNsaBgi4s",
-      "topics": [
-        "友達"
-      ]
     },
     {
       "id": "DKTQIWtZr30",
@@ -14332,14 +10800,6 @@
       "channel": "tower",
       "publishedAt": "2020-08-28T09:00:07Z",
       "url": "https://www.youtube.com/watch?v=UL2QxwzGlAE",
-      "topics": []
-    },
-    {
-      "id": "IDrf3-WaTfw",
-      "title": "生配信！『リモート会議で屁こいてるのバレる奴』",
-      "channel": "tower",
-      "publishedAt": "2020-08-28T09:48:25Z",
-      "url": "https://www.youtube.com/watch?v=IDrf3-WaTfw",
       "topics": []
     },
     {
@@ -14462,14 +10922,6 @@
       "topics": [
         "食べ物"
       ]
-    },
-    {
-      "id": "JyuESCw-dSg",
-      "title": "コメント読む奴〜2020年7月編〜",
-      "channel": "tower",
-      "publishedAt": "2020-09-07T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=JyuESCw-dSg",
-      "topics": []
     },
     {
       "id": "XnndO87cEG0",
@@ -15030,14 +11482,6 @@
       "topics": []
     },
     {
-      "id": "FF1zwITkX9U",
-      "title": "コメント読む奴〜2020年8月編〜",
-      "channel": "tower",
-      "publishedAt": "2020-10-10T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=FF1zwITkX9U",
-      "topics": []
-    },
-    {
       "id": "mijdBV3X_Uo",
       "title": "『変な音楽の先生な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -15410,14 +11854,6 @@
       "channel": "island",
       "publishedAt": "2020-11-03T11:08:00Z",
       "url": "https://www.youtube.com/watch?v=YmHq6-mVMNk",
-      "topics": []
-    },
-    {
-      "id": "IBNVDFiFuCk",
-      "title": "コメント読む奴〜2020年9月編〜",
-      "channel": "tower",
-      "publishedAt": "2020-11-04T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=IBNVDFiFuCk",
       "topics": []
     },
     {
@@ -16326,16 +12762,6 @@
       "topics": []
     },
     {
-      "id": "sARSWE-r_Lw",
-      "title": "チャンネル登録100万人超えるまでコントし続ける奴",
-      "channel": "tower",
-      "publishedAt": "2020-12-27T14:16:53Z",
-      "url": "https://www.youtube.com/watch?v=sARSWE-r_Lw",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "TgDrsH8w1WU",
       "title": "『クサいセリフ言うとき「クサい」って言う奴』【朝メシ食う奴】",
       "channel": "island",
@@ -16379,14 +12805,6 @@
       "channel": "tower",
       "publishedAt": "2020-12-30T09:00:15Z",
       "url": "https://www.youtube.com/watch?v=smDTcHw4jZ4",
-      "topics": []
-    },
-    {
-      "id": "pBmmZ3F0nCc",
-      "title": "コメント読む奴〜2020年10、11月編〜",
-      "channel": "tower",
-      "publishedAt": "2020-12-30T09:00:30Z",
-      "url": "https://www.youtube.com/watch?v=pBmmZ3F0nCc",
       "topics": []
     },
     {
@@ -17238,14 +13656,6 @@
       ]
     },
     {
-      "id": "UJy8nqM3D_w",
-      "title": "コメント読む奴〜2020年12月編〜",
-      "channel": "tower",
-      "publishedAt": "2021-02-19T09:00:09Z",
-      "url": "https://www.youtube.com/watch?v=UJy8nqM3D_w",
-      "topics": []
-    },
-    {
       "id": "syB-cAjYtFg",
       "title": "『金借りるために友達作る奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -17298,16 +13708,6 @@
       "publishedAt": "2021-02-22T09:00:13Z",
       "url": "https://www.youtube.com/watch?v=rHk7FuiQ4Nc",
       "topics": []
-    },
-    {
-      "id": "zmil1Fd7uA8",
-      "title": "ゲリラLive「超コント生配信する奴 vol.1」",
-      "channel": "tower",
-      "publishedAt": "2021-02-22T15:00:20Z",
-      "url": "https://www.youtube.com/watch?v=zmil1Fd7uA8",
-      "topics": [
-        "芸人・ネタ"
-      ]
     },
     {
       "id": "B_Yh0vU19H0",
@@ -17512,16 +13912,6 @@
       "topics": []
     },
     {
-      "id": "Vq-p0jZnexk",
-      "title": "超コント 生配信する奴 vol.2",
-      "channel": "tower",
-      "publishedAt": "2021-03-08T12:18:56Z",
-      "url": "https://www.youtube.com/watch?v=Vq-p0jZnexk",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "F3VfxDiXxv0",
       "title": "『友達に海外行って欲しくなる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -17598,14 +13988,6 @@
       "topics": [
         "芸人・ネタ"
       ]
-    },
-    {
-      "id": "rk34pfROVj8",
-      "title": "コメント読む奴~2021年1月編~",
-      "channel": "tower",
-      "publishedAt": "2021-03-13T09:00:15Z",
-      "url": "https://www.youtube.com/watch?v=rk34pfROVj8",
-      "topics": []
     },
     {
       "id": "hoquRWdHHBk",
@@ -18067,14 +14449,6 @@
       "topics": []
     },
     {
-      "id": "i1zroxA_JlE",
-      "title": "コメント読む奴~2021年2月編~",
-      "channel": "tower",
-      "publishedAt": "2021-04-11T09:00:26Z",
-      "url": "https://www.youtube.com/watch?v=i1zroxA_JlE",
-      "topics": []
-    },
-    {
       "id": "9IRvrhmr8Wk",
       "title": "ゼロから新ネタ作る奴#1｜2019年3月8日",
       "channel": "island",
@@ -18319,16 +14693,6 @@
       "publishedAt": "2021-04-26T09:00:12Z",
       "url": "https://www.youtube.com/watch?v=bAuF2IhSz4A",
       "topics": []
-    },
-    {
-      "id": "mYiMstd9CYM",
-      "title": "超コント 生配信する奴 vol.3",
-      "channel": "tower",
-      "publishedAt": "2021-04-26T12:21:32Z",
-      "url": "https://www.youtube.com/watch?v=mYiMstd9CYM",
-      "topics": [
-        "芸人・ネタ"
-      ]
     },
     {
       "id": "NHdzhQYHHwo",
@@ -18587,24 +14951,6 @@
       "publishedAt": "2021-05-10T09:00:21Z",
       "url": "https://www.youtube.com/watch?v=Oa1y9VDR9JI",
       "topics": []
-    },
-    {
-      "id": "7-0k024hADU",
-      "title": "コメント読む奴〜2021年3月編〜",
-      "channel": "tower",
-      "publishedAt": "2021-05-10T10:30:02Z",
-      "url": "https://www.youtube.com/watch?v=7-0k024hADU",
-      "topics": []
-    },
-    {
-      "id": "qsaiiyVQycU",
-      "title": "超コント 生配信する奴 vol.4",
-      "channel": "tower",
-      "publishedAt": "2021-05-10T12:24:26Z",
-      "url": "https://www.youtube.com/watch?v=qsaiiyVQycU",
-      "topics": [
-        "芸人・ネタ"
-      ]
     },
     {
       "id": "DLSvRUh-OwY",
@@ -18911,14 +15257,6 @@
       "topics": []
     },
     {
-      "id": "ybQUf2ZU1U8",
-      "title": "コメント読む奴~2021年4月編~",
-      "channel": "tower",
-      "publishedAt": "2021-05-30T09:00:19Z",
-      "url": "https://www.youtube.com/watch?v=ybQUf2ZU1U8",
-      "topics": []
-    },
-    {
       "id": "nj2mmKV-6Hg",
       "title": "強運な金持ちやからボディーガードはリモートでいける奴",
       "channel": "island",
@@ -19114,14 +15452,6 @@
       ]
     },
     {
-      "id": "mN6Xh10Yerc",
-      "title": "Creator Spotlight: ジャルジャル - OFFICIAL TRAILER",
-      "channel": "tower",
-      "publishedAt": "2021-06-11T10:00:18Z",
-      "url": "https://www.youtube.com/watch?v=mN6Xh10Yerc",
-      "topics": []
-    },
-    {
       "id": "9GFRReBb-Ws",
       "title": "マスクしてるせいで誰が喋ってるかわからん奴",
       "channel": "island",
@@ -19160,16 +15490,6 @@
       "publishedAt": "2021-06-14T09:00:18Z",
       "url": "https://www.youtube.com/watch?v=NNxkjii2EWw",
       "topics": []
-    },
-    {
-      "id": "LWuMo_0hsKM",
-      "title": "超コント 生配信する奴 vol.5",
-      "channel": "tower",
-      "publishedAt": "2021-06-14T12:16:21Z",
-      "url": "https://www.youtube.com/watch?v=LWuMo_0hsKM",
-      "topics": [
-        "芸人・ネタ"
-      ]
     },
     {
       "id": "zu6B99xR6-U",
@@ -19264,14 +15584,6 @@
       "topics": []
     },
     {
-      "id": "uScalz-7a6A",
-      "title": "Creator Spotlight: ジャルジャル",
-      "channel": "tower",
-      "publishedAt": "2021-06-18T10:00:12Z",
-      "url": "https://www.youtube.com/watch?v=uScalz-7a6A",
-      "topics": []
-    },
-    {
       "id": "q8wasaK4C48",
       "title": "フィリピン人の交流会に間違えて参加した奴",
       "channel": "island",
@@ -19285,14 +15597,6 @@
       "channel": "tower",
       "publishedAt": "2021-06-19T09:00:20Z",
       "url": "https://www.youtube.com/watch?v=PylqqrEB_p0",
-      "topics": []
-    },
-    {
-      "id": "MFi7m5kjZsg",
-      "title": "コメント読む奴〜2021年5月編〜",
-      "channel": "tower",
-      "publishedAt": "2021-06-20T09:00:07Z",
-      "url": "https://www.youtube.com/watch?v=MFi7m5kjZsg",
       "topics": []
     },
     {
@@ -19760,14 +16064,6 @@
       "topics": []
     },
     {
-      "id": "NuFqTZ-Hab4",
-      "title": "『ジャルジャルと対談する宇宙帰りの野口聡一宇宙飛行士って奴』",
-      "channel": "tower",
-      "publishedAt": "2021-07-20T12:17:52Z",
-      "url": "https://www.youtube.com/watch?v=NuFqTZ-Hab4",
-      "topics": []
-    },
-    {
       "id": "dztrklaOP3E",
       "title": "『影響されてる芸能人、見抜くの鋭い奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -19794,16 +16090,6 @@
       "url": "https://www.youtube.com/watch?v=kTR8rBqcS6s",
       "topics": [
         "食べ物"
-      ]
-    },
-    {
-      "id": "Lj_G4awabIU",
-      "title": "超コント 生配信する奴 vol.6",
-      "channel": "tower",
-      "publishedAt": "2021-07-22T12:36:18Z",
-      "url": "https://www.youtube.com/watch?v=Lj_G4awabIU",
-      "topics": [
-        "芸人・ネタ"
       ]
     },
     {
@@ -20022,14 +16308,6 @@
       "topics": []
     },
     {
-      "id": "jPFqnhGOaz8",
-      "title": "JARUJARU TOWER 2021ージャルってんじゃねぇよーダイジェスト",
-      "channel": "tower",
-      "publishedAt": "2021-08-03T10:06:49Z",
-      "url": "https://www.youtube.com/watch?v=jPFqnhGOaz8",
-      "topics": []
-    },
-    {
       "id": "B7HTw6GSBiw",
       "title": "密着！思い出すとき声大きくなる奴",
       "channel": "island",
@@ -20103,14 +16381,6 @@
       "channel": "island",
       "publishedAt": "2021-08-08T03:00:17Z",
       "url": "https://www.youtube.com/watch?v=PaCBLyzMsLM",
-      "topics": []
-    },
-    {
-      "id": "slra9y076j4",
-      "title": "コメント読む奴〜2021年6月〜",
-      "channel": "tower",
-      "publishedAt": "2021-08-08T09:00:18Z",
-      "url": "https://www.youtube.com/watch?v=slra9y076j4",
       "topics": []
     },
     {
@@ -20823,14 +17093,6 @@
       "topics": []
     },
     {
-      "id": "W03Lb6aIUG8",
-      "title": "コメント読む奴~2021年7月編~",
-      "channel": "tower",
-      "publishedAt": "2021-09-18T09:00:10Z",
-      "url": "https://www.youtube.com/watch?v=W03Lb6aIUG8",
-      "topics": []
-    },
-    {
       "id": "n8EPZf9Fcw8",
       "title": "『念願の自分のパン屋に来た、１人目の客が変な奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -21253,16 +17515,6 @@
       ]
     },
     {
-      "id": "LWLLIQOci6k",
-      "title": "コントシネマ『サンチョー』予告 2021年11月19日(金)全国公開",
-      "channel": "tower",
-      "publishedAt": "2021-10-14T08:30:29Z",
-      "url": "https://www.youtube.com/watch?v=LWLLIQOci6k",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "z8undAj0oKM",
       "title": "『ハズイ系の勘違いした奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -21389,14 +17641,6 @@
       "topics": []
     },
     {
-      "id": "wmJXcGyXSc4",
-      "title": "コメント読む奴~2021年8月編~",
-      "channel": "tower",
-      "publishedAt": "2021-10-22T10:00:10Z",
-      "url": "https://www.youtube.com/watch?v=wmJXcGyXSc4",
-      "topics": []
-    },
-    {
       "id": "3V2YbvVcWGA",
       "title": "メンバー揃ってんのに、揃ってないと思ってる全員な奴",
       "channel": "island",
@@ -21421,16 +17665,6 @@
       "publishedAt": "2021-10-24T09:00:36Z",
       "url": "https://www.youtube.com/watch?v=yY4Pi_JHsP4",
       "topics": []
-    },
-    {
-      "id": "AUQfhPVepjE",
-      "title": "1000万回再生突破企画！『ハズレの先生が担任になった奴に副音声つける奴』【JARUJARUTOWER】",
-      "channel": "tower",
-      "publishedAt": "2021-10-24T10:00:11Z",
-      "url": "https://www.youtube.com/watch?v=AUQfhPVepjE",
-      "topics": [
-        "学校"
-      ]
     },
     {
       "id": "1z1XdCh7FLk",
@@ -21542,14 +17776,6 @@
       "channel": "tower",
       "publishedAt": "2021-10-31T09:00:33Z",
       "url": "https://www.youtube.com/watch?v=oaPrre7lDuk",
-      "topics": []
-    },
-    {
-      "id": "p-En34QqQ6w",
-      "title": "1000万回再生突破企画！『押しドア、引きドア、間違える奴に副音声つける奴』【JARUJARUTOWER】",
-      "channel": "tower",
-      "publishedAt": "2021-10-31T10:00:09Z",
-      "url": "https://www.youtube.com/watch?v=p-En34QqQ6w",
       "topics": []
     },
     {
@@ -21783,16 +18009,6 @@
       "topics": []
     },
     {
-      "id": "_a32fcPcB9s",
-      "title": "コントシネマ『サンチョー』公開直前、特別生配信",
-      "channel": "tower",
-      "publishedAt": "2021-11-15T12:05:19Z",
-      "url": "https://www.youtube.com/watch?v=_a32fcPcB9s",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "fPI4nE1L0-k",
       "title": "『いい相方に恵まれない奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -21850,16 +18066,6 @@
       ]
     },
     {
-      "id": "B9qiJsGTk_E",
-      "title": "【特別公開】コントシネマ『サンチョー』本編映像抜粋",
-      "channel": "tower",
-      "publishedAt": "2021-11-19T00:00:02Z",
-      "url": "https://www.youtube.com/watch?v=B9qiJsGTk_E",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "CAJGNgvfXKE",
       "title": "【特別公開】コントシネマ『サンチョー』本編映像抜粋",
       "channel": "island",
@@ -21911,14 +18117,6 @@
       "channel": "tower",
       "publishedAt": "2021-11-21T09:00:07Z",
       "url": "https://www.youtube.com/watch?v=J210xicf7Wk",
-      "topics": []
-    },
-    {
-      "id": "3CQd4Dopk2w",
-      "title": "コメント読む奴~2021年9月編~",
-      "channel": "tower",
-      "publishedAt": "2021-11-21T11:00:12Z",
-      "url": "https://www.youtube.com/watch?v=3CQd4Dopk2w",
       "topics": []
     },
     {
@@ -22392,29 +18590,11 @@
       "topics": []
     },
     {
-      "id": "xhurmstqlMo",
-      "title": "超コント 生配信する奴 vol.7",
-      "channel": "tower",
-      "publishedAt": "2021-12-21T12:05:43Z",
-      "url": "https://www.youtube.com/watch?v=xhurmstqlMo",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "1tSgV16eupE",
       "title": "『可哀想な平山堅って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
       "publishedAt": "2021-12-22T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=1tSgV16eupE",
-      "topics": []
-    },
-    {
-      "id": "gMJykjmAoC4",
-      "title": "コメント読む奴~2021年10月~",
-      "channel": "tower",
-      "publishedAt": "2021-12-22T10:00:31Z",
-      "url": "https://www.youtube.com/watch?v=gMJykjmAoC4",
       "topics": []
     },
     {
@@ -23010,14 +19190,6 @@
       ]
     },
     {
-      "id": "B6reDO8AIM0",
-      "title": "コメント読む奴~2021年11月~",
-      "channel": "tower",
-      "publishedAt": "2022-01-24T09:00:04Z",
-      "url": "https://www.youtube.com/watch?v=B6reDO8AIM0",
-      "topics": []
-    },
-    {
       "id": "oka7WWz7N2U",
       "title": "『斬新すぎる教育テレビやってる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -23531,16 +19703,6 @@
       ]
     },
     {
-      "id": "bt8WXN71zCE",
-      "title": "超コント 生配信する奴 vol.8",
-      "channel": "tower",
-      "publishedAt": "2022-02-24T12:19:56Z",
-      "url": "https://www.youtube.com/watch?v=bt8WXN71zCE",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "UU9Fghhk7i4",
       "title": "他人のスマホ拾った悪魔の笑い方する奴",
       "channel": "island",
@@ -23889,14 +20051,6 @@
       ]
     },
     {
-      "id": "WrLvbF1tJJI",
-      "title": "コメント読む奴〜2021年12月・2022年1月〜",
-      "channel": "tower",
-      "publishedAt": "2022-03-16T10:00:17Z",
-      "url": "https://www.youtube.com/watch?v=WrLvbF1tJJI",
-      "topics": []
-    },
-    {
       "id": "b-SjJppvg-k",
       "title": "三冠王5回の天才打者に野球教わる奴",
       "channel": "island",
@@ -23914,16 +20068,6 @@
       "url": "https://www.youtube.com/watch?v=XuolvSN1ks4",
       "topics": [
         "家族"
-      ]
-    },
-    {
-      "id": "nsRzfmzkF3I",
-      "title": "超コント 生配信する奴 vol.9",
-      "channel": "tower",
-      "publishedAt": "2022-03-17T12:15:25Z",
-      "url": "https://www.youtube.com/watch?v=nsRzfmzkF3I",
-      "topics": [
-        "芸人・ネタ"
       ]
     },
     {
@@ -24508,14 +20652,6 @@
       ]
     },
     {
-      "id": "ic1vHIG1rWo",
-      "title": "コメント読む奴~2022年2月編~",
-      "channel": "tower",
-      "publishedAt": "2022-04-23T10:00:18Z",
-      "url": "https://www.youtube.com/watch?v=ic1vHIG1rWo",
-      "topics": []
-    },
-    {
       "id": "2AFajknPsm4",
       "title": "『１年間、カラス役した奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -24550,16 +20686,6 @@
       "publishedAt": "2022-04-25T09:00:33Z",
       "url": "https://www.youtube.com/watch?v=ue-P8Wrcr6k",
       "topics": []
-    },
-    {
-      "id": "LN16ZBtST_I",
-      "title": "超コント 生配信する奴 vol.10",
-      "channel": "tower",
-      "publishedAt": "2022-04-25T12:08:03Z",
-      "url": "https://www.youtube.com/watch?v=LN16ZBtST_I",
-      "topics": [
-        "芸人・ネタ"
-      ]
     },
     {
       "id": "6fnAKxxtLBs",
@@ -24934,16 +21060,6 @@
       ]
     },
     {
-      "id": "s4do5oSrqBU",
-      "title": "超コント 生配信する奴 vol.11",
-      "channel": "tower",
-      "publishedAt": "2022-05-19T12:04:57Z",
-      "url": "https://www.youtube.com/watch?v=s4do5oSrqBU",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "lTp7cr5UsSg",
       "title": "グループ面接終わりに話し合う奴",
       "channel": "island",
@@ -24990,14 +21106,6 @@
       "topics": [
         "店・接客"
       ]
-    },
-    {
-      "id": "7HY9h18i1_w",
-      "title": "コメント読む奴~2022年3月編~",
-      "channel": "tower",
-      "publishedAt": "2022-05-22T10:00:09Z",
-      "url": "https://www.youtube.com/watch?v=7HY9h18i1_w",
-      "topics": []
     },
     {
       "id": "2ErTcwsMQMk",
@@ -25552,14 +21660,6 @@
       ]
     },
     {
-      "id": "uazMuAEzqDE",
-      "title": "コメント読む奴~2022年4月編~",
-      "channel": "tower",
-      "publishedAt": "2022-06-26T10:00:26Z",
-      "url": "https://www.youtube.com/watch?v=uazMuAEzqDE",
-      "topics": []
-    },
-    {
       "id": "G-rV-tNqg_Y",
       "title": "正直な部下に優しい上司な奴",
       "channel": "island",
@@ -25949,16 +22049,6 @@
       "publishedAt": "2022-07-21T09:00:08Z",
       "url": "https://www.youtube.com/watch?v=Gn6T1TEyKxY",
       "topics": []
-    },
-    {
-      "id": "4a3b7T1NzU8",
-      "title": "超コント 生配信する奴 vol.12",
-      "channel": "tower",
-      "publishedAt": "2022-07-21T12:15:09Z",
-      "url": "https://www.youtube.com/watch?v=4a3b7T1NzU8",
-      "topics": [
-        "芸人・ネタ"
-      ]
     },
     {
       "id": "uOqpIXvUV_0",
@@ -26463,14 +22553,6 @@
       "channel": "tower",
       "publishedAt": "2022-08-21T09:00:21Z",
       "url": "https://www.youtube.com/watch?v=uht0BKW749M",
-      "topics": []
-    },
-    {
-      "id": "57drqjt6Y3s",
-      "title": "コメント読む奴~2022年5.6月編~",
-      "channel": "tower",
-      "publishedAt": "2022-08-21T10:00:04Z",
-      "url": "https://www.youtube.com/watch?v=57drqjt6Y3s",
       "topics": []
     },
     {
@@ -27246,16 +23328,6 @@
       "topics": []
     },
     {
-      "id": "HjgxuvUvExc",
-      "title": "超コント 生配信する奴 vol.13",
-      "channel": "tower",
-      "publishedAt": "2022-10-06T12:14:20Z",
-      "url": "https://www.youtube.com/watch?v=HjgxuvUvExc",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "nD1Cx7rO2lY",
       "title": "仲良くなりたいのに距離つめられへん奴",
       "channel": "island",
@@ -27390,14 +23462,6 @@
       "channel": "tower",
       "publishedAt": "2022-10-15T09:00:01Z",
       "url": "https://www.youtube.com/watch?v=3KIrDHbiHCI",
-      "topics": []
-    },
-    {
-      "id": "O-OJLKxdEWw",
-      "title": "コメント読む奴~2022年7.8月編~",
-      "channel": "tower",
-      "publishedAt": "2022-10-15T10:00:25Z",
-      "url": "https://www.youtube.com/watch?v=O-OJLKxdEWw",
       "topics": []
     },
     {
@@ -27741,14 +23805,6 @@
       "channel": "tower",
       "publishedAt": "2022-11-06T09:00:30Z",
       "url": "https://www.youtube.com/watch?v=WexLx9SGWYE",
-      "topics": []
-    },
-    {
-      "id": "gCGAV6Wm_ms",
-      "title": "コメント読む奴~2022年9月編~",
-      "channel": "tower",
-      "publishedAt": "2022-11-06T10:00:31Z",
-      "url": "https://www.youtube.com/watch?v=gCGAV6Wm_ms",
       "topics": []
     },
     {
@@ -28680,14 +24736,6 @@
       ]
     },
     {
-      "id": "Rsk24CXzvTs",
-      "title": "コメント読む奴~2022年10月11月編~",
-      "channel": "tower",
-      "publishedAt": "2022-12-30T10:00:14Z",
-      "url": "https://www.youtube.com/watch?v=Rsk24CXzvTs",
-      "topics": []
-    },
-    {
       "id": "mVWm92lWNoc",
       "title": "年の瀬の記者会見でエロい芸名連呼される奴",
       "channel": "island",
@@ -29465,16 +25513,6 @@
       ]
     },
     {
-      "id": "ZEpy4oe9BAg",
-      "title": "【超コント公開生配信する奴】",
-      "channel": "tower",
-      "publishedAt": "2023-02-19T06:26:21Z",
-      "url": "https://www.youtube.com/watch?v=ZEpy4oe9BAg",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "SVZJC3YfaOw",
       "title": "『ラジオ番組のゲストが憑依するタイプの小説家の奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -29534,16 +25572,6 @@
       "topics": []
     },
     {
-      "id": "v3SPGP9QskU",
-      "title": "ダイジェスト『第19回 祇園お笑い新人大賞 Presented by ジャルジャル』【JARUJARUTOWER】",
-      "channel": "tower",
-      "publishedAt": "2023-02-23T05:52:34Z",
-      "url": "https://www.youtube.com/watch?v=v3SPGP9QskU",
-      "topics": [
-        "芸人・ネタ"
-      ]
-    },
-    {
       "id": "5dHkC7v9nic",
       "title": "『サビ直前っ屁こいたくせにイジらせない奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -29598,14 +25626,6 @@
       "topics": [
         "面接"
       ]
-    },
-    {
-      "id": "Fl_r50swru8",
-      "title": "コメント読む奴~2022年12月~",
-      "channel": "tower",
-      "publishedAt": "2023-02-26T10:00:14Z",
-      "url": "https://www.youtube.com/watch?v=Fl_r50swru8",
-      "topics": []
     },
     {
       "id": "KMH6H2DqukA",
@@ -29933,14 +25953,6 @@
       "topics": [
         "面接"
       ]
-    },
-    {
-      "id": "u7FH8ujKdw0",
-      "title": "コメント読む奴~2023年1月~",
-      "channel": "tower",
-      "publishedAt": "2023-03-19T10:00:37Z",
-      "url": "https://www.youtube.com/watch?v=u7FH8ujKdw0",
-      "topics": []
     },
     {
       "id": "sZ1AkwIxfHM",
@@ -30373,14 +26385,6 @@
       "topics": []
     },
     {
-      "id": "_Ewl3kQOxaA",
-      "title": "コメント読む奴~2023年2月編~",
-      "channel": "tower",
-      "publishedAt": "2023-04-09T10:00:24Z",
-      "url": "https://www.youtube.com/watch?v=_Ewl3kQOxaA",
-      "topics": []
-    },
-    {
       "id": "z4BCQAcWHfU",
       "title": "１コイン占いするツッコミ下手な関東人の奴",
       "channel": "island",
@@ -30803,14 +26807,6 @@
       ]
     },
     {
-      "id": "l8_1NTnhl-o",
-      "title": "拡大版！ゼロから新ネタ作る奴",
-      "channel": "tower",
-      "publishedAt": "2023-05-05T11:25:16Z",
-      "url": "https://www.youtube.com/watch?v=l8_1NTnhl-o",
-      "topics": []
-    },
-    {
       "id": "inNFas7NNBI",
       "title": "『チェーン店でシェフ呼ぶ奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -31139,14 +27135,6 @@
       ]
     },
     {
-      "id": "mYeZxSIfm1Y",
-      "title": "コメント読む奴~2023年3月~",
-      "channel": "tower",
-      "publishedAt": "2023-05-28T10:00:39Z",
-      "url": "https://www.youtube.com/watch?v=mYeZxSIfm1Y",
-      "topics": []
-    },
-    {
       "id": "Phd1h0flPLU",
       "title": "限定スニーカーの抽選当たったのに似合わなさそうやから取り消される奴",
       "channel": "island",
@@ -31357,14 +27345,6 @@
       "topics": [
         "芸人・ネタ"
       ]
-    },
-    {
-      "id": "bWWxMOO1fDQ",
-      "title": "コメント読む奴~2023年4月編~",
-      "channel": "tower",
-      "publishedAt": "2023-06-11T10:00:33Z",
-      "url": "https://www.youtube.com/watch?v=bWWxMOO1fDQ",
-      "topics": []
     },
     {
       "id": "TKbR1vsQbN8",
@@ -31794,14 +27774,6 @@
       "topics": [
         "家族"
       ]
-    },
-    {
-      "id": "Iqn3wvd6wU0",
-      "title": "コメント読む奴~2023年5月編~",
-      "channel": "tower",
-      "publishedAt": "2023-07-09T10:00:12Z",
-      "url": "https://www.youtube.com/watch?v=Iqn3wvd6wU0",
-      "topics": []
     },
     {
       "id": "ha5_1dT4Z2M",
@@ -32551,14 +28523,6 @@
       "topics": []
     },
     {
-      "id": "4DpyBSNMo8U",
-      "title": "コメント読む奴 ~2023年6月編~",
-      "channel": "tower",
-      "publishedAt": "2023-08-27T10:00:03Z",
-      "url": "https://www.youtube.com/watch?v=4DpyBSNMo8U",
-      "topics": []
-    },
-    {
       "id": "A1hYyVUYn30",
       "title": "「オレめっちゃ歴史文化と触れ合うで。それでもオレと行動を共にできるか？」って言う奴",
       "channel": "island",
@@ -33191,14 +29155,6 @@
       "channel": "tower",
       "publishedAt": "2023-10-08T09:00:23Z",
       "url": "https://www.youtube.com/watch?v=cD1zYvw7ukc",
-      "topics": []
-    },
-    {
-      "id": "k1xrAooy_wE",
-      "title": "コメント読む奴~2023年7月8月編~",
-      "channel": "tower",
-      "publishedAt": "2023-10-08T10:00:37Z",
-      "url": "https://www.youtube.com/watch?v=k1xrAooy_wE",
       "topics": []
     },
     {
@@ -33951,14 +29907,6 @@
       "topics": []
     },
     {
-      "id": "OfAYygM2CAg",
-      "title": "コメント読む奴~2023年9月編~",
-      "channel": "tower",
-      "publishedAt": "2023-11-26T10:00:18Z",
-      "url": "https://www.youtube.com/watch?v=OfAYygM2CAg",
-      "topics": []
-    },
-    {
       "id": "Bo2jYlrlAaA",
       "title": "ネタ良いけど芸名良くない「BIGちん玉ジョン」って奴",
       "channel": "island",
@@ -34408,14 +30356,6 @@
       "topics": []
     },
     {
-      "id": "pjnKWgX_XB4",
-      "title": "コメント読む奴~2023年10月編~",
-      "channel": "tower",
-      "publishedAt": "2023-12-25T10:00:36Z",
-      "url": "https://www.youtube.com/watch?v=pjnKWgX_XB4",
-      "topics": []
-    },
-    {
       "id": "tUXxgC-81tQ",
       "title": "『よく勘違いされる「びんわ○マネージャー」の奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -34686,14 +30626,6 @@
       "topics": [
         "恋愛・結婚"
       ]
-    },
-    {
-      "id": "Ae3LngpgLpU",
-      "title": "コメント読む奴~2023年11月編~",
-      "channel": "tower",
-      "publishedAt": "2024-01-14T10:00:10Z",
-      "url": "https://www.youtube.com/watch?v=Ae3LngpgLpU",
-      "topics": []
     },
     {
       "id": "vKaQZsNsyco",
@@ -35124,14 +31056,6 @@
       "topics": [
         "面接"
       ]
-    },
-    {
-      "id": "ynZm7O5Q8GU",
-      "title": "コメント読む奴~2023年12月編~",
-      "channel": "tower",
-      "publishedAt": "2024-02-11T10:00:40Z",
-      "url": "https://www.youtube.com/watch?v=ynZm7O5Q8GU",
-      "topics": []
     },
     {
       "id": "9J3CMow0ixg",
@@ -35670,14 +31594,6 @@
       ]
     },
     {
-      "id": "_k4-aMmxlz8",
-      "title": "コメント読む奴~2024年1月編~",
-      "channel": "tower",
-      "publishedAt": "2024-03-17T10:00:23Z",
-      "url": "https://www.youtube.com/watch?v=_k4-aMmxlz8",
-      "topics": []
-    },
-    {
       "id": "g8VT8ovh1jY",
       "title": "フリで爆笑するけどオチでキレる奴",
       "channel": "island",
@@ -36142,14 +32058,6 @@
       "channel": "tower",
       "publishedAt": "2024-04-14T09:00:17Z",
       "url": "https://www.youtube.com/watch?v=K_qy_nbsFLA",
-      "topics": []
-    },
-    {
-      "id": "fST7qQzHNZk",
-      "title": "コメント読む奴~2024年2月編~",
-      "channel": "tower",
-      "publishedAt": "2024-04-14T10:00:34Z",
-      "url": "https://www.youtube.com/watch?v=fST7qQzHNZk",
       "topics": []
     },
     {
@@ -36773,14 +32681,6 @@
       "topics": []
     },
     {
-      "id": "HqIhNner9g0",
-      "title": "コメント読む奴~2024年3月編~",
-      "channel": "tower",
-      "publishedAt": "2024-05-18T10:00:25Z",
-      "url": "https://www.youtube.com/watch?v=HqIhNner9g0",
-      "topics": []
-    },
-    {
       "id": "B0N-sd_pShg",
       "title": "『ドライヤーで乾かしすぎて粉なる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -37105,14 +33005,6 @@
       "channel": "tower",
       "publishedAt": "2024-06-09T09:00:49Z",
       "url": "https://www.youtube.com/watch?v=tYSdmpIBxLw",
-      "topics": []
-    },
-    {
-      "id": "e1elphhcS0Y",
-      "title": "コメント読む奴~2024年4月編~",
-      "channel": "tower",
-      "publishedAt": "2024-06-09T10:00:36Z",
-      "url": "https://www.youtube.com/watch?v=e1elphhcS0Y",
       "topics": []
     },
     {
@@ -37759,14 +33651,6 @@
       "channel": "tower",
       "publishedAt": "2024-07-21T09:00:39Z",
       "url": "https://www.youtube.com/watch?v=q0b_qrT8Y20",
-      "topics": []
-    },
-    {
-      "id": "8bnd7Q4AOtM",
-      "title": "コメント読む奴~2024年5月編~",
-      "channel": "tower",
-      "publishedAt": "2024-07-21T10:00:06Z",
-      "url": "https://www.youtube.com/watch?v=8bnd7Q4AOtM",
       "topics": []
     },
     {
@@ -38556,14 +34440,6 @@
       "topics": []
     },
     {
-      "id": "69qfOuGaK_I",
-      "title": "コメント読む奴~2024年6月編~",
-      "channel": "tower",
-      "publishedAt": "2024-09-07T10:00:07Z",
-      "url": "https://www.youtube.com/watch?v=69qfOuGaK_I",
-      "topics": []
-    },
-    {
       "id": "c87j0dcWQaA",
       "title": "『開業したての催眠療法師の奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -38795,14 +34671,6 @@
       "channel": "tower",
       "publishedAt": "2024-09-22T09:00:25Z",
       "url": "https://www.youtube.com/watch?v=IgAOG4TqrjM",
-      "topics": []
-    },
-    {
-      "id": "04Q785DK81U",
-      "title": "コメント読む奴~2024年7月編~",
-      "channel": "tower",
-      "publishedAt": "2024-09-22T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=04Q785DK81U",
       "topics": []
     },
     {
@@ -39439,14 +35307,6 @@
       ]
     },
     {
-      "id": "Svt-Unr31p8",
-      "title": "コメント読む奴~2024年8月編~",
-      "channel": "tower",
-      "publishedAt": "2024-11-03T10:00:31Z",
-      "url": "https://www.youtube.com/watch?v=Svt-Unr31p8",
-      "topics": []
-    },
-    {
       "id": "6uEMv1tH57E",
       "title": "『コント中に相方を本気で殴る奴』ジャルジャルのネタのタネ【JARUJARUTOWER】",
       "channel": "tower",
@@ -39662,14 +35522,6 @@
       "channel": "tower",
       "publishedAt": "2024-11-17T09:00:51Z",
       "url": "https://www.youtube.com/watch?v=ubOEizWQzw0",
-      "topics": []
-    },
-    {
-      "id": "L7um0-h3v-M",
-      "title": "コメント読む奴~2024年9月編~",
-      "channel": "tower",
-      "publishedAt": "2024-11-17T10:00:15Z",
-      "url": "https://www.youtube.com/watch?v=L7um0-h3v-M",
       "topics": []
     },
     {
@@ -40317,14 +36169,6 @@
       "topics": []
     },
     {
-      "id": "rWq4flJAFiE",
-      "title": "コメント読む奴~2024年10月編~",
-      "channel": "tower",
-      "publishedAt": "2024-12-29T10:00:52Z",
-      "url": "https://www.youtube.com/watch?v=rWq4flJAFiE",
-      "topics": []
-    },
-    {
       "id": "WLNa5G5RaSE",
       "title": "事情知らんくせに説教しに来た奴",
       "channel": "island",
@@ -40361,22 +36205,6 @@
       "topics": [
         "会社・仕事"
       ]
-    },
-    {
-      "id": "7wisEjNyo5M",
-      "title": "【第一部】大晦日に108回もジャルってんじゃねえよ2023",
-      "channel": "tower",
-      "publishedAt": "2024-12-31T23:00:06Z",
-      "url": "https://www.youtube.com/watch?v=7wisEjNyo5M",
-      "topics": []
-    },
-    {
-      "id": "jDgv4KtwX7o",
-      "title": "【第二部】大晦日に108回もジャルってんじゃねえよ2023",
-      "channel": "tower",
-      "publishedAt": "2025-01-01T04:00:06Z",
-      "url": "https://www.youtube.com/watch?v=jDgv4KtwX7o",
-      "topics": []
     },
     {
       "id": "isdUN7UPf5g",
@@ -40567,14 +36395,6 @@
       "channel": "tower",
       "publishedAt": "2025-01-12T09:00:39Z",
       "url": "https://www.youtube.com/watch?v=_7og3grEPiA",
-      "topics": []
-    },
-    {
-      "id": "vvucRs8z95w",
-      "title": "コメント読む奴~2024年11月編~",
-      "channel": "tower",
-      "publishedAt": "2025-01-12T10:00:52Z",
-      "url": "https://www.youtube.com/watch?v=vvucRs8z95w",
       "topics": []
     },
     {
@@ -40994,14 +36814,6 @@
       "channel": "tower",
       "publishedAt": "2025-02-09T09:00:03Z",
       "url": "https://www.youtube.com/watch?v=1COAIZpo6K8",
-      "topics": []
-    },
-    {
-      "id": "ti6xxPKAIZo",
-      "title": "コメント読む奴~2024年12月編~",
-      "channel": "tower",
-      "publishedAt": "2025-02-09T10:01:00Z",
-      "url": "https://www.youtube.com/watch?v=ti6xxPKAIZo",
       "topics": []
     },
     {
@@ -41650,14 +37462,6 @@
       ]
     },
     {
-      "id": "6gdSlH4LR8Y",
-      "title": "コメント読む奴~2025年1月編~",
-      "channel": "tower",
-      "publishedAt": "2025-03-23T10:00:09Z",
-      "url": "https://www.youtube.com/watch?v=6gdSlH4LR8Y",
-      "topics": []
-    },
-    {
       "id": "NJKRbaVjg1g",
       "title": "思春期すぎてイチゴ狩りでイチゴ一個しか食わん奴",
       "channel": "island",
@@ -42081,14 +37885,6 @@
       "channel": "tower",
       "publishedAt": "2025-04-20T09:00:19Z",
       "url": "https://www.youtube.com/watch?v=F5epKtnn5fw",
-      "topics": []
-    },
-    {
-      "id": "_lomPuEJSoI",
-      "title": "コメント読む奴~2025年2月編~",
-      "channel": "tower",
-      "publishedAt": "2025-04-20T10:00:58Z",
-      "url": "https://www.youtube.com/watch?v=_lomPuEJSoI",
       "topics": []
     },
     {
@@ -43001,14 +38797,6 @@
       "topics": []
     },
     {
-      "id": "9DoAJ3Be-Jc",
-      "title": "コメント読む奴~2025年3月4月編~",
-      "channel": "tower",
-      "publishedAt": "2025-06-15T10:00:20Z",
-      "url": "https://www.youtube.com/watch?v=9DoAJ3Be-Jc",
-      "topics": []
-    },
-    {
       "id": "Plmn11UAA64",
       "title": "中学生すぎてアトラクションで買いたてのBluetooth イヤホンで音楽聴く奴",
       "channel": "island",
@@ -43566,14 +39354,6 @@
       ]
     },
     {
-      "id": "hvk1ZmuzqQM",
-      "title": "コメント読む奴~2025年5月編~",
-      "channel": "tower",
-      "publishedAt": "2025-07-20T10:01:08Z",
-      "url": "https://www.youtube.com/watch?v=hvk1ZmuzqQM",
-      "topics": []
-    },
-    {
       "id": "QhGaaoZOhjo",
       "title": "席譲ってもらったお礼に手作りおはぎあげる奴",
       "channel": "island",
@@ -43894,14 +39674,6 @@
       "channel": "tower",
       "publishedAt": "2025-08-10T09:00:38Z",
       "url": "https://www.youtube.com/watch?v=Pxn1wHr232I",
-      "topics": []
-    },
-    {
-      "id": "Q4FUdi6hwb8",
-      "title": "コメント読む奴~2025年6月編~",
-      "channel": "tower",
-      "publishedAt": "2025-08-10T10:00:39Z",
-      "url": "https://www.youtube.com/watch?v=Q4FUdi6hwb8",
       "topics": []
     },
     {
@@ -44554,14 +40326,6 @@
       ]
     },
     {
-      "id": "ghuyTRlJPKY",
-      "title": "コメント読む奴~2025年7月編~",
-      "channel": "tower",
-      "publishedAt": "2025-09-21T10:01:07Z",
-      "url": "https://www.youtube.com/watch?v=ghuyTRlJPKY",
-      "topics": []
-    },
-    {
       "id": "G_eDr0N5a2M",
       "title": "友達との旅行中にバイトのリモート面接受ける奴",
       "channel": "island",
@@ -45003,14 +40767,6 @@
       "channel": "tower",
       "publishedAt": "2025-10-19T09:00:05Z",
       "url": "https://www.youtube.com/watch?v=axH0VqU3kSY",
-      "topics": []
-    },
-    {
-      "id": "k_gDM4Lj6-8",
-      "title": "コメント読む奴~2025年8月編~",
-      "channel": "tower",
-      "publishedAt": "2025-10-19T10:01:13Z",
-      "url": "https://www.youtube.com/watch?v=k_gDM4Lj6-8",
       "topics": []
     },
     {
@@ -45459,14 +41215,6 @@
       "topics": []
     },
     {
-      "id": "W_dmZF_MDx0",
-      "title": "コメント読む奴~2025年9月編~",
-      "channel": "tower",
-      "publishedAt": "2025-11-16T10:00:49Z",
-      "url": "https://www.youtube.com/watch?v=W_dmZF_MDx0",
-      "topics": []
-    },
-    {
       "id": "afK75Q74BEg",
       "title": "上司に説教されてるけど、条件揃いすぎてそれどころじゃない奴",
       "channel": "island",
@@ -45807,14 +41555,6 @@
       ]
     },
     {
-      "id": "FwvVJb8i2po",
-      "title": "コメント読む奴~2025年10月編~",
-      "channel": "tower",
-      "publishedAt": "2025-12-07T10:00:24Z",
-      "url": "https://www.youtube.com/watch?v=FwvVJb8i2po",
-      "topics": []
-    },
-    {
       "id": "5UynjMMNsfY",
       "title": "ネタ合わせしまくったのにセリフ飛ぶ奴",
       "channel": "island",
@@ -46148,14 +41888,6 @@
       "channel": "tower",
       "publishedAt": "2025-12-28T09:01:25Z",
       "url": "https://www.youtube.com/watch?v=wKgIVOAhQEk",
-      "topics": []
-    },
-    {
-      "id": "F_55_AIKPVI",
-      "title": "コメント読む奴~2025年11月編~",
-      "channel": "tower",
-      "publishedAt": "2025-12-28T10:00:19Z",
-      "url": "https://www.youtube.com/watch?v=F_55_AIKPVI",
       "topics": []
     },
     {
@@ -46931,14 +42663,6 @@
       "topics": []
     },
     {
-      "id": "dMXfPbMsbVc",
-      "title": "コメント読む奴~2025年12月編~",
-      "channel": "tower",
-      "publishedAt": "2026-02-15T10:00:55Z",
-      "url": "https://www.youtube.com/watch?v=dMXfPbMsbVc",
-      "topics": []
-    },
-    {
       "id": "cEoUbImSaAw",
       "title": "シャンプーする時、おでこペチン！がクセの美容師の奴",
       "channel": "island",
@@ -47365,14 +43089,6 @@
       "channel": "tower",
       "publishedAt": "2026-03-15T09:00:36Z",
       "url": "https://www.youtube.com/watch?v=P6FsD2z3Yao",
-      "topics": []
-    },
-    {
-      "id": "nS8wZS3ePqo",
-      "title": "コメント読む奴~2026年1月編~",
-      "channel": "tower",
-      "publishedAt": "2026-03-15T10:01:11Z",
-      "url": "https://www.youtube.com/watch?v=nS8wZS3ePqo",
       "topics": []
     },
     {
@@ -47931,14 +43647,6 @@
       "topics": []
     },
     {
-      "id": "kdjXqhxdIec",
-      "title": "コメント読む奴~2026年2月編~",
-      "channel": "tower",
-      "publishedAt": "2026-04-19T10:01:12Z",
-      "url": "https://www.youtube.com/watch?v=kdjXqhxdIec",
-      "topics": []
-    },
-    {
       "id": "Hn98OV2pdtc",
       "title": "バイト面接で「テラス席自慢してる店で働きたい」って言う奴",
       "channel": "island",
@@ -48276,14 +43984,6 @@
       "channel": "tower",
       "publishedAt": "2026-05-10T09:00:50Z",
       "url": "https://www.youtube.com/watch?v=XZCAK2aJHaM",
-      "topics": []
-    },
-    {
-      "id": "Z860fmN6UGE",
-      "title": "コメント読む奴~2026年3月編~",
-      "channel": "tower",
-      "publishedAt": "2026-05-10T10:00:55Z",
-      "url": "https://www.youtube.com/watch?v=Z860fmN6UGE",
       "topics": []
     },
     {
@@ -48830,14 +44530,6 @@
       "topics": []
     },
     {
-      "id": "KNmvmkTIhbg",
-      "title": "コメント読む奴~2026年4月編~",
-      "channel": "tower",
-      "publishedAt": "2026-06-14T10:00:00Z",
-      "url": "https://www.youtube.com/watch?v=KNmvmkTIhbg",
-      "topics": []
-    },
-    {
       "id": "tjDJyjhiFqA",
       "title": "二人でボルダリングしてる時に股が顔に来た体勢で限界きて屁こかれる奴",
       "channel": "island",
@@ -49257,14 +44949,6 @@
       "topics": [
         "音楽"
       ]
-    },
-    {
-      "id": "-I1qBzs5unE",
-      "title": "コメント読む奴~2026年5月編~",
-      "channel": "tower",
-      "publishedAt": "2026-07-12T10:00:03Z",
-      "url": "https://www.youtube.com/watch?v=-I1qBzs5unE",
-      "topics": []
     },
     {
       "id": "LlDjkB1ciNA",
@@ -49687,14 +45371,6 @@
       "topics": [
         "家族"
       ]
-    },
-    {
-      "id": "m7HItd0ms9M",
-      "title": "コメント読む奴~2026年6月編~",
-      "channel": "tower",
-      "publishedAt": "2026-08-09T10:00:14Z",
-      "url": "https://www.youtube.com/watch?v=m7HItd0ms9M",
-      "topics": []
     },
     {
       "id": "Ht2V4x8Gff4",
@@ -50675,14 +46351,6 @@
       "channel": "tower",
       "publishedAt": "2026-10-11T09:00:15Z",
       "url": "https://www.youtube.com/watch?v=EFFH1hBp2Yg",
-      "topics": []
-    },
-    {
-      "id": "-gEREmpQCgI",
-      "title": "コメント読む奴~2026年7月編~",
-      "channel": "tower",
-      "publishedAt": "2026-10-11T10:00:01Z",
-      "url": "https://www.youtube.com/watch?v=-gEREmpQCgI",
       "topics": []
     },
     {
