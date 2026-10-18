@@ -167,6 +167,7 @@ function filteredVideos() {
   const matches = videos.filter(video => {
     const haystack = normalize([
       video.title,
+      video.description,
       ...(video.topics || []),
       ...(video.entities || []).flatMap(entity => [entity.name, ...(entity.aliases || []), entity.label]),
       ...(video.facts || []).flatMap(fact => [fact.label, fact.value])
@@ -230,6 +231,7 @@ function renderVideos({ reset = false } = {}) {
         <time datetime="${escapeHTML(video.publishedAt || "")}">${escapeHTML(formatDate(video.publishedAt))}</time>
       </div>
       <h3>${escapeHTML(video.title)}</h3>
+      ${video.description ? `<details class="video-description"><summary>YouTube説明欄を見る</summary><p>${escapeHTML(video.description)}</p></details>` : ""}
       ${renderVideoInfo(video)}
       <div class="video-topic-list">${video.topics.length ? video.topics.map(topic => `<button type="button" data-topic-jump="${escapeHTML(topic)}">#${escapeHTML(topic)}</button>`).join("") : `<span>#その他</span>`}</div>
       <a href="${escapeHTML(video.url)}" target="_blank" rel="noopener noreferrer">公式YouTubeで見る ↗</a>
