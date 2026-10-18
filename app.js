@@ -1,4 +1,6 @@
 let characters = [];
+let videos = [];
+let videoTopics = [];
 
 const els = {
   grid: document.querySelector("#characterGrid"),
@@ -6,10 +8,21 @@ const els = {
   count: document.querySelector("#resultCount"),
   empty: document.querySelector("#emptyState"),
   dialog: document.querySelector("#characterDialog"),
-  dialogContent: document.querySelector("#dialogContent")
+  dialogContent: document.querySelector("#dialogContent"),
+  videoSearch: document.querySelector("#videoSearchInput"),
+  videoSort: document.querySelector("#videoSort"),
+  videoTotal: document.querySelector("#videoTotal"),
+  videoResultMeta: document.querySelector("#videoResultMeta"),
+  videoGrid: document.querySelector("#videoGrid"),
+  videoEmpty: document.querySelector("#videoEmpty"),
+  videoLoadMore: document.querySelector("#videoLoadMore"),
+  topicFilters: document.querySelector("#topicFilters")
 };
 
 let activeFilter = "all";
+let activeVideoChannel = "all";
+let activeTopic = "all";
+let visibleVideoCount = 24;
 let favorites = new Set(JSON.parse(localStorage.getItem("yatsu-favorites") || "[]"));
 
 const normalize = value => value.toLowerCase().normalize("NFKC").replace(/\s/g, "");
@@ -76,6 +89,61 @@ function openRandom() {
   openCharacter(pool[Math.floor(Math.random() * pool.length)].id);
 }
 
+function filteredVideos() {
+  const query = normalize(els.videoSearch.value);
+  const matches = videos.filter(video => {
+    const haystack = normalize([video.title, ...(video.topics || [])].join(" "));
+    const matchesQuery = !query || haystack.includes(query);
+    const matchesChannel = activeVideoChannel === "all" || video.channel === activeVideoChannel;
+    const matchesTopic = activeTopic === "all" || video.topics.includes(activeTopic);
+    return matchesQuery && matchesChannel && matchesTopic;
+  });
+
+  return matches.sort((a, b) => {
+    if (els.videoSort.value === "oldest") return String(a.publishedAt).localeCompare(String(b.publishedAt));
+    if (els.videoSort.value === "title") return a.title.localeCompare(b.title, "ja");
+    return String(b.publishedAt).localeCompare(String(a.publishedAt));
+  });
+}
+
+function formatDate(value) {
+  if (!value) return "公開日不明";
+  return new Intl.DateTimeFormat("ja-JP", { year: "numeric", month: "short", day: "numeric" }).format(new Date(value));
+}
+
+function renderTopicFilters() {
+  els.topicFilters.innerHTML = [
+    `<button class="topic-chip is-active" type="button" data-topic="all">すべて</button>`,
+    ...videoTopics.filter(topic => topic.count > 0).map(topic => `<button class="topic-chip" type="button" data-topic="${escapeHTML(topic.name)}">${escapeHTML(topic.name)} <span>${topic.count.toLocaleString("ja-JP")}</span></button>`)
+  ].join("");
+}
+
+function renderVideos({ reset = false } = {}) {
+  if (reset) visibleVideoCount = 24;
+  const matches = filteredVideos();
+  const visible = matches.slice(0, visibleVideoCount);
+  els.videoResultMeta.textContent = `${matches.length.toLocaleString("ja-JP")}本が該当・${visible.length.toLocaleString("ja-JP")}本を表示中`;
+  els.videoEmpty.hidden = matches.length !== 0;
+  els.videoLoadMore.hidden = visible.length >= matches.length;
+  els.videoGrid.innerHTML = visible.map(video => `
+    <article class="video-card">
+      <div class="video-card-meta">
+        <span class="video-channel ${video.channel}">${video.channel === "island" ? "ISLAND" : "TOWER"}</span>
+        <time datetime="${escapeHTML(video.publishedAt || "")}">${escapeHTML(formatDate(video.publishedAt))}</time>
+      </div>
+      <h3>${escapeHTML(video.title)}</h3>
+      <div class="video-topic-list">${video.topics.length ? video.topics.map(topic => `<button type="button" data-topic-jump="${escapeHTML(topic)}">#${escapeHTML(topic)}</button>`).join("") : `<span>#その他</span>`}</div>
+      <a href="${escapeHTML(video.url)}" target="_blank" rel="noopener noreferrer">公式YouTubeで見る ↗</a>
+    </article>
+  `).join("");
+}
+
+function updateVideoFilters() {
+  document.querySelectorAll("[data-video-channel]").forEach(item => item.classList.toggle("is-active", item.dataset.videoChannel === activeVideoChannel));
+  document.querySelectorAll("[data-topic]").forEach(item => item.classList.toggle("is-active", item.dataset.topic === activeTopic));
+  renderVideos({ reset: true });
+}
+
 document.addEventListener("click", event => {
   const favorite = event.target.closest("[data-favorite]");
   if (favorite) {
@@ -107,21 +175,55 @@ document.querySelector("#resetFilters").addEventListener("click", () => {
   render();
 });
 
+els.videoSearch.addEventListener("input", () => renderVideos({ reset: true }));
+els.videoSort.addEventListener("change", () => renderVideos({ reset: true }));
+document.querySelectorAll("[data-video-channel]").forEach(button => button.addEventListener("click", () => {
+  activeVideoChannel = button.dataset.videoChannel;
+  updateVideoFilters();
+}));
+els.topicFilters.addEventListener("click", event => {
+  const topic = event.target.closest("[data-topic]");
+  if (!topic) return;
+  activeTopic = topic.dataset.topic;
+  updateVideoFilters();
+});
+els.videoGrid.addEventListener("click", event => {
+  const topic = event.target.closest("[data-topic-jump]");
+  if (!topic) return;
+  activeTopic = topic.dataset.topicJump;
+  updateVideoFilters();
+  els.topicFilters.scrollIntoView({ behavior: "smooth", block: "center" });
+});
+els.videoLoadMore.addEventListener("click", () => {
+  visibleVideoCount += 24;
+  renderVideos();
+});
+
 async function init() {
   try {
-    const response = await fetch("data/catalog.json", { cache: "no-cache" });
-    if (!response.ok) throw new Error(`catalog ${response.status}`);
-    const data = await response.json();
+    const [catalogResponse, videosResponse] = await Promise.all([
+      fetch("data/catalog.json", { cache: "no-cache" }),
+      fetch("data/videos.json", { cache: "no-cache" })
+    ]);
+    if (!catalogResponse.ok) throw new Error(`catalog ${catalogResponse.status}`);
+    if (!videosResponse.ok) throw new Error(`videos ${videosResponse.status}`);
+    const [data, videoData] = await Promise.all([catalogResponse.json(), videosResponse.json()]);
     characters = [
       ...data.characters.map(character => ({ ...character, entityType: "character" })),
       ...data.groups.map(group => ({ ...group, entityType: "group" }))
     ];
+    videos = videoData.videos;
+    videoTopics = videoData.topics;
+    els.videoTotal.textContent = videoData.total.toLocaleString("ja-JP");
+    renderTopicFilters();
     render();
+    renderVideos();
   } catch (error) {
     console.error("図鑑データの読み込みに失敗しました", error);
     els.count.textContent = "0";
     els.empty.hidden = false;
     els.empty.querySelector("strong").textContent = "図鑑データを読み込めませんでした";
+    els.videoResultMeta.textContent = "動画データを読み込めませんでした";
   }
 }
 

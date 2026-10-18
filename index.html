@@ -42,6 +42,7 @@
     </a>
     <nav aria-label="メインメニュー">
       <a href="#catalog">図鑑</a>
+      <a href="#videos">動画テーマ</a>
       <a href="#about">このサイトについて</a>
     </nav>
   </header>
@@ -109,6 +110,46 @@
       </div>
     </section>
 
+    <section class="video-section" id="videos" aria-labelledby="video-title">
+      <div class="section-heading video-heading">
+        <div>
+          <p class="eyebrow">OFFICIAL VIDEO INDEX</p>
+          <h2 id="video-title">シチュエーションで探す</h2>
+          <p class="section-lead">「面接」「電話」など、覚えている場面から公式動画を絞り込めます。</p>
+        </div>
+        <div class="stats video-stats" aria-label="公式動画数">
+          <strong id="videoTotal">—</strong>
+          <span>公式動画を検索</span>
+        </div>
+      </div>
+
+      <div class="video-search-panel">
+        <label class="search-box" for="videoSearchInput">
+          <span aria-hidden="true">⌕</span>
+          <input id="videoSearchInput" type="search" placeholder="例：面接、電話、先生、バイト" autocomplete="off">
+        </label>
+        <label class="sort-box" for="videoSort">
+          <span>並び順</span>
+          <select id="videoSort">
+            <option value="newest">新しい順</option>
+            <option value="oldest">古い順</option>
+            <option value="title">タイトル順</option>
+          </select>
+        </label>
+        <div class="filter-row video-channel-row" role="group" aria-label="動画のチャンネルで絞り込み">
+          <button class="chip is-active" type="button" data-video-channel="all">両方</button>
+          <button class="chip" type="button" data-video-channel="tower">タワー</button>
+          <button class="chip" type="button" data-video-channel="island">アイランド</button>
+        </div>
+      </div>
+
+      <div class="topic-filter" id="topicFilters" role="group" aria-label="テーマで絞り込み"></div>
+      <p class="video-result-meta" id="videoResultMeta" aria-live="polite">動画データを読み込み中です</p>
+      <div class="video-grid" id="videoGrid"></div>
+      <div class="video-empty" id="videoEmpty" hidden>該当する公式動画が見つかりません。別の言葉で試してください。</div>
+      <button class="button button-ghost load-more" id="videoLoadMore" type="button" hidden>さらに表示</button>
+    </section>
+
     <section class="guide-section" aria-labelledby="guide-title">
       <p class="eyebrow">HOW TO EXPLORE</p>
       <h2 id="guide-title">気になる奴から、<br>次のネタへ。</h2>
@@ -126,7 +167,7 @@
       </div>
       <div class="about-copy">
         <p>本サイトはファンが制作する非公式のデータベースです。ジャルジャル、吉本興業、YouTubeその他の権利者・関係者とは関係ありません。</p>
-        <p>動画・人物名・作品名などの権利は各権利者に帰属します。本サイトは動画や公式画像を再配布せず、公式に公開された動画へのリンクのみを掲載します。</p>
+        <p>動画・人物名・作品名などの権利は各権利者に帰属します。本サイトは動画や公式画像を再配布せず、公式に公開された動画へのリンクのみを掲載します。動画テーマは公式タイトルに含まれる言葉から機械的に分類しています。</p>
         <details>
           <summary>プライバシーについて</summary>
           <p>アカウント登録、広告、アクセス解析は使用しません。お気に入り情報はブラウザ内にのみ保存され、外部へ送信されません。</p>

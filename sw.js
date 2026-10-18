@@ -1,5 +1,5 @@
-const CACHE = "yatsu-zukan-v5";
-const ASSETS = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "data/catalog.json", "icon.svg", "icon-192.png", "icon-512.png", "apple-touch-icon.png", "robots.txt", "sitemap.xml"];
+const CACHE = "yatsu-zukan-v6";
+const ASSETS = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "data/catalog.json", "data/videos.json", "icon.svg", "icon-192.png", "icon-512.png", "apple-touch-icon.png", "robots.txt", "sitemap.xml"];
 self.addEventListener("install", event => event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS))));
 self.addEventListener("activate", event => event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key !== CACHE).map(key => caches.delete(key))))));
 self.addEventListener("fetch", event => {

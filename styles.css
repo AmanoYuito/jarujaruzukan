@@ -118,6 +118,33 @@ button { color: inherit; }
 .empty-state { text-align: center; padding: 70px 20px; border: 2px dashed var(--ink); }
 .empty-state strong { font-size: 24px; }
 
+.video-section { padding: clamp(70px, 10vw, 140px) clamp(20px, 6vw, 90px); background: #e9efff; border-top: 2px solid var(--ink); }
+.video-heading { align-items: center; }
+.section-lead { max-width: 650px; margin: 18px 0 0; color: #45453f; font-weight: 700; }
+.video-stats strong { color: var(--orange); }
+.video-search-panel { display: grid; grid-template-columns: minmax(280px, 1fr) auto auto; align-items: center; gap: 16px; padding: 18px; background: var(--blue); border: 2px solid var(--ink); box-shadow: var(--shadow); }
+.sort-box { min-height: 52px; display: flex; align-items: center; gap: 9px; padding: 0 13px; border: 2px solid var(--ink); background: white; font-size: 12px; font-weight: 900; }
+.sort-box select { border: 0; background: white; color: var(--ink); font: inherit; font-size: 13px; font-weight: 900; }
+.video-channel-row .chip.is-active { background: var(--yellow); color: var(--ink); }
+.topic-filter { display: flex; gap: 8px; overflow-x: auto; padding: 25px 2px 12px; scrollbar-width: thin; }
+.topic-chip { flex: 0 0 auto; min-height: 42px; border: 2px solid var(--ink); border-radius: 999px; padding: 7px 14px; background: white; color: var(--ink); font-weight: 900; cursor: pointer; }
+.topic-chip span { display: inline-block; margin-left: 4px; color: var(--muted); font-size: 11px; }
+.topic-chip.is-active { background: var(--ink); color: white; }
+.topic-chip.is-active span { color: var(--yellow); }
+.video-result-meta { margin: 18px 0; color: #45453f; font-size: 13px; font-weight: 900; }
+.video-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+.video-card { min-height: 250px; display: flex; flex-direction: column; padding: 21px; border: 2px solid var(--ink); background: white; }
+.video-card-meta { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 18px; }
+.video-card time { color: var(--muted); font-size: 11px; font-weight: 800; }
+.video-channel { border: 1px solid var(--ink); padding: 3px 7px; background: var(--yellow); font-size: 10px; font-weight: 950; letter-spacing: .08em; }
+.video-channel.island { background: #ffd4c4; }
+.video-card h3 { margin: 0 0 18px; font-size: 18px; line-height: 1.45; letter-spacing: -.02em; }
+.video-topic-list { display: flex; flex-wrap: wrap; gap: 6px; margin-top: auto; }
+.video-topic-list button, .video-topic-list span { border: 0; padding: 0; background: transparent; color: var(--blue); font-size: 11px; font-weight: 900; cursor: pointer; }
+.video-card > a { align-self: flex-start; margin-top: 18px; color: var(--ink); font-size: 13px; font-weight: 900; text-decoration-thickness: 2px; text-underline-offset: 4px; }
+.video-empty { padding: 60px 20px; border: 2px dashed var(--ink); text-align: center; font-weight: 900; }
+.load-more { min-width: 220px; margin: 30px auto 0; }
+
 .guide-section { padding: clamp(70px, 9vw, 130px) clamp(20px, 7vw, 105px); background: var(--ink); color: white; }
 .guide-section .eyebrow { color: var(--yellow); }
 .guide-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; margin-top: 54px; background: #4c4c43; border: 2px solid #4c4c43; }
@@ -156,7 +183,9 @@ dialog::backdrop { background: rgba(23,23,19,.72); backdrop-filter: blur(4px); }
   .hero { grid-template-columns: 1fr; }
   .hero-art { min-height: 390px; max-width: 560px; width: 100%; margin-inline: auto; }
   .search-panel { grid-template-columns: 1fr; }
+  .video-search-panel { grid-template-columns: 1fr; }
   .catalog-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .video-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 640px) {
   .site-header nav { display: none; }
@@ -171,6 +200,7 @@ dialog::backdrop { background: rgba(23,23,19,.72); backdrop-filter: blur(4px); }
   .section-heading { align-items: flex-start; }
   .stats { flex-direction: column; gap: 0; }
   .catalog-grid { grid-template-columns: 1fr; }
+  .video-grid { grid-template-columns: 1fr; }
   .guide-grid { grid-template-columns: 1fr; }
   .about-section { grid-template-columns: 1fr; }
   .dialog-body { padding: 24px; }
