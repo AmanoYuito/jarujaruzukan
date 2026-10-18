@@ -133,7 +133,13 @@ button { color: inherit; }
 .topic-chip.is-active span { color: var(--yellow); }
 .video-result-meta { margin: 18px 0; color: #45453f; font-size: 13px; font-weight: 900; }
 .video-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
-.video-card { min-height: 250px; display: flex; flex-direction: column; padding: 21px; border: 2px solid var(--ink); background: white; }
+.video-card { min-height: 390px; display: flex; flex-direction: column; padding: 0 21px 21px; overflow: hidden; border: 2px solid var(--ink); background: white; }
+.video-thumbnail { position: relative; display: block; aspect-ratio: 16 / 9; margin: 0 -21px 18px; overflow: hidden; border-bottom: 2px solid var(--ink); background: #d6d9e1; }
+.video-thumbnail img { width: 100%; height: 100%; display: block; object-fit: cover; transition: transform .2s ease, filter .2s ease; }
+.video-thumbnail span { position: absolute; left: 50%; top: 50%; width: 54px; height: 40px; display: grid; place-items: center; translate: -50% -50%; border: 2px solid white; border-radius: 10px; background: rgba(23,23,19,.82); color: white; font-size: 18px; box-shadow: 0 2px 8px rgba(0,0,0,.28); }
+.video-thumbnail:hover img, .video-thumbnail:focus-visible img { transform: scale(1.035); filter: brightness(.88); }
+.video-thumbnail.is-unavailable img { display: none; }
+.video-thumbnail.is-unavailable::before { content: "サムネイルを表示できません"; position: absolute; inset: 0; display: grid; place-items: center; color: #4c4b44; font-size: 12px; font-weight: 900; }
 .video-card-meta { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 18px; }
 .video-card time { color: var(--muted); font-size: 11px; font-weight: 800; }
 .video-channel { border: 1px solid var(--ink); padding: 3px 7px; background: var(--yellow); font-size: 10px; font-weight: 950; letter-spacing: .08em; }

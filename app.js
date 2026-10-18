@@ -128,6 +128,10 @@ function renderVideos({ reset = false } = {}) {
   els.videoLoadMore.hidden = visible.length >= matches.length;
   els.videoGrid.innerHTML = visible.map(video => `
     <article class="video-card">
+      <a class="video-thumbnail" href="${escapeHTML(video.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHTML(video.title)}を公式YouTubeで見る">
+        <img src="https://i.ytimg.com/vi/${encodeURIComponent(video.id)}/hqdefault.jpg" alt="${escapeHTML(video.title)}のYouTubeサムネイル" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="480" height="360">
+        <span aria-hidden="true">▶</span>
+      </a>
       <div class="video-card-meta">
         <span class="video-channel ${video.channel}">${video.channel === "island" ? "ISLAND" : "TOWER"}</span>
         <time datetime="${escapeHTML(video.publishedAt || "")}">${escapeHTML(formatDate(video.publishedAt))}</time>
@@ -137,6 +141,10 @@ function renderVideos({ reset = false } = {}) {
       <a href="${escapeHTML(video.url)}" target="_blank" rel="noopener noreferrer">公式YouTubeで見る ↗</a>
     </article>
   `).join("");
+
+  els.videoGrid.querySelectorAll(".video-thumbnail img").forEach(image => {
+    image.addEventListener("error", () => image.closest(".video-thumbnail")?.classList.add("is-unavailable"), { once: true });
+  });
 }
 
 function updateVideoFilters() {
