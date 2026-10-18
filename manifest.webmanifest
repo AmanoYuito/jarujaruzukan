@@ -1,0 +1,14 @@
+{
+  "name": "奴キャラ図鑑",
+  "short_name": "奴図鑑",
+  "description": "ジャルジャルのキャラクターを探せる非公式ファン図鑑",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffdf5",
+  "theme_color": "#f6ca2f",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}

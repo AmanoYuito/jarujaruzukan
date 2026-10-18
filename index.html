@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#f6ca2f">
+  <meta name="application-name" content="奴キャラ図鑑">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="奴図鑑">
+  <meta name="description" content="ジャルジャルタワー／ジャルジャルアイランドに登場する奴らを、名前・特徴・タグから探せる非公式キャラクター図鑑。">
+  <meta property="og:title" content="奴キャラ図鑑｜非公式ファンデータベース">
+  <meta property="og:description" content="あの奴、なんやったっけ？から見つかる、ジャルジャルのキャラクター図鑑。">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://amanoyuito.github.io/yatsu-character-zukan/">
+  <title>奴キャラ図鑑｜非公式ジャルジャル人物データベース</title>
+  <link rel="canonical" href="https://amanoyuito.github.io/yatsu-character-zukan/">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "奴キャラ図鑑",
+      "alternateName": "非公式ジャルジャルキャラクター図鑑",
+      "url": "https://amanoyuito.github.io/yatsu-character-zukan/",
+      "description": "ジャルジャルタワー／ジャルジャルアイランドに登場する奴らを探せる非公式ファンデータベース",
+      "inLanguage": "ja"
+    }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#catalog">図鑑へ移動</a>
+
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="奴キャラ図鑑 トップ">
+      <span class="brand-mark" aria-hidden="true">奴</span>
+      <span>奴キャラ図鑑</span>
+      <small>UNOFFICIAL</small>
+    </a>
+    <nav aria-label="メインメニュー">
+      <a href="#catalog">図鑑</a>
+      <a href="#about">このサイトについて</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow">JARUJARU CHARACTER ARCHIVE</p>
+        <h1 id="hero-title">あの奴、<br><em>なんやったっけ？</em></h1>
+        <p class="hero-lead">タワーとアイランドに現れる、名前のある奴も、ない奴も。特徴やタグから探して、公式動画へ会いに行けます。</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#catalog">奴を探す</a>
+          <button class="button button-ghost" id="randomHero" type="button">ランダムな奴</button>
+        </div>
+        <p class="privacy-note">登録不要・広告なし・お気に入りはこの端末だけに保存</p>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <span class="orbit orbit-one"></span>
+        <span class="orbit orbit-two"></span>
+        <div class="hero-card hero-card-a"><b>誰？</b><span>名前から</span></div>
+        <div class="hero-card hero-card-b"><b>どんな奴？</b><span>特徴から</span></div>
+        <div class="hero-card hero-card-c"><b>見たい</b><span>公式動画へ</span></div>
+      </div>
+    </section>
+
+    <section class="ticker" aria-label="図鑑の特徴">
+      <div><span>●</span> キャラからネタをたどる</div>
+      <div><span>●</span> タグで直感検索</div>
+      <div><span>●</span> 公式動画へ一直線</div>
+      <div><span>●</span> 非公式ファン図鑑</div>
+    </section>
+
+    <section class="catalog-section" id="catalog" aria-labelledby="catalog-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">CHARACTER CATALOG</p>
+          <h2 id="catalog-title">奴を探す</h2>
+        </div>
+        <div class="stats" aria-label="登録数">
+          <strong id="resultCount">9</strong>
+          <span>奴を登録中</span>
+        </div>
+      </div>
+
+      <div class="search-panel">
+        <label class="search-box" for="searchInput">
+          <span aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" placeholder="名前・特徴・タグで検索" autocomplete="off">
+        </label>
+        <div class="filter-row" role="group" aria-label="チャンネルで絞り込み">
+          <button class="chip is-active" type="button" data-filter="all">すべて</button>
+          <button class="chip" type="button" data-filter="tower">タワー</button>
+          <button class="chip" type="button" data-filter="island">アイランド</button>
+          <button class="chip" type="button" data-filter="favorite">お気に入り</button>
+        </div>
+        <button class="random-button" id="randomButton" type="button">🎲 今日の一奴</button>
+      </div>
+
+      <div class="catalog-grid" id="characterGrid" aria-live="polite"></div>
+      <div class="empty-state" id="emptyState" hidden>
+        <strong>該当する奴が見つかりません</strong>
+        <p>別の言葉やタグで探してみてください。</p>
+        <button class="button button-ghost" id="resetFilters" type="button">絞り込みをリセット</button>
+      </div>
+    </section>
+
+    <section class="guide-section" aria-labelledby="guide-title">
+      <p class="eyebrow">HOW TO EXPLORE</p>
+      <h2 id="guide-title">気になる奴から、<br>次のネタへ。</h2>
+      <div class="guide-grid">
+        <article><span>01</span><h3>思い出す</h3><p>うろ覚えの名前や特徴を入力。タグを組み合わせれば、あの奴に近づけます。</p></article>
+        <article><span>02</span><h3>知る</h3><p>キャラクターの立場や登場パターンを、短い紹介でおさらいできます。</p></article>
+        <article><span>03</span><h3>観る</h3><p>掲載動画はすべて公式YouTubeへ。権利者の公開した動画をそのまま楽しめます。</p></article>
+      </div>
+    </section>
+
+    <section class="about-section" id="about" aria-labelledby="about-title">
+      <div>
+        <p class="eyebrow">ABOUT THIS ARCHIVE</p>
+        <h2 id="about-title">非公式だからこそ、<br>敬意をもって。</h2>
+      </div>
+      <div class="about-copy">
+        <p>本サイトはファンが制作する非公式のデータベースです。ジャルジャル、吉本興業、YouTubeその他の権利者・関係者とは関係ありません。</p>
+        <p>動画・人物名・作品名などの権利は各権利者に帰属します。本サイトは動画や公式画像を再配布せず、公式に公開された動画へのリンクのみを掲載します。</p>
+        <details>
+          <summary>プライバシーについて</summary>
+          <p>アカウント登録、広告、アクセス解析は使用しません。お気に入り情報はブラウザ内にのみ保存され、外部へ送信されません。</p>
+        </details>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="brand footer-brand"><span class="brand-mark" aria-hidden="true">奴</span><span>奴キャラ図鑑</span></div>
+    <p>非公式ファンサイト｜公式動画への入口としてお楽しみください。</p>
+    <p class="footer-links">
+      <a href="https://www.youtube.com/@jarujarutower365" target="_blank" rel="noopener noreferrer">ジャルジャルタワー ↗</a>
+      <a href="https://www.youtube.com/@jarujaruisland8111" target="_blank" rel="noopener noreferrer">ジャルジャルアイランド ↗</a>
+    </p>
+  </footer>
+
+  <dialog id="characterDialog" aria-labelledby="dialogTitle">
+    <button class="dialog-close" id="dialogClose" type="button" aria-label="閉じる">×</button>
+    <div id="dialogContent"></div>
+  </dialog>
+
+  <noscript>この図鑑の検索機能を使うにはJavaScriptを有効にしてください。</noscript>
+  <script src="app.js" defer></script>
+</body>
+</html>

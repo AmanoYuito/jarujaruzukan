@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amanoyuito.github.io/yatsu-character-zukan/sitemap.xml
