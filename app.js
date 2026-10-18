@@ -1,131 +1,4 @@
-const characters = [
-  {
-    id: "chara-ban",
-    name: "チャラ男番長",
-    kana: "ちゃらおばんちょう",
-    symbol: "チャ",
-    channel: "tower",
-    channelLabel: "TOWER / ISLAND",
-    color: "#f6ca2f",
-    summary: "オーディションに現れ、独特のテンションで同じ型のネタを披露し続ける芸人キャラ。",
-    detail: "一度聞くと残るリズムと、周囲との温度差が魅力の人気キャラクター。タワーだけでなくアイランドにも登場します。",
-    tags: ["芸人", "オーディション", "シリーズ", "福徳"],
-    debut: "『チャラ男番長っていう奴』",
-    video: "https://www.youtube.com/watch?v=NE7uHTxUJgM"
-  },
-  {
-    id: "minami",
-    name: "南くん",
-    kana: "みなみくん",
-    symbol: "南",
-    channel: "tower",
-    channelLabel: "TOWER / ISLAND",
-    color: "#a9e5c2",
-    summary: "強い個性を持つ大学生。友人との会話から独特な人物像が少しずつ見えてくる奴。",
-    detail: "会話の間合いと表情で忘れられない印象を残すキャラクター。関連する物語はアイランドでも広がっています。",
-    tags: ["大学生", "友達", "シリーズ", "後藤"],
-    debut: "南という大学生が登場するネタ",
-    video: "https://www.youtube.com/watch?v=lXOeDJR5LJc&t=40s"
-  },
-  {
-    id: "jinbo-mao",
-    name: "神保マオ",
-    kana: "じんぼまお",
-    symbol: "神",
-    channel: "tower",
-    channelLabel: "TOWER / ISLAND",
-    color: "#f7a7bd",
-    summary: "ステージに立つ姿とクセの強い世界観で、記憶に残るアーティスト系キャラクター。",
-    detail: "音楽と人物像がセットで広がっていくタイプのキャラクター。初見でも引っかかる強い名前も魅力です。",
-    tags: ["歌手", "音楽", "ステージ", "シリーズ"],
-    debut: "神保マオが登場するネタ",
-    video: "https://www.youtube.com/watch?v=AOtvUnalVYc"
-  },
-  {
-    id: "kanto-jin",
-    name: "関東人",
-    kana: "かんとうじん",
-    symbol: "関",
-    channel: "tower",
-    channelLabel: "TOWER",
-    color: "#9bc1ff",
-    summary: "お笑いコンビのツッコミとして登場し、独特な言葉選びで相方を翻弄する奴。",
-    detail: "コンビ内の会話のズレがじわじわ積み重なるキャラクター。言葉のテンポに注目です。",
-    tags: ["芸人", "コンビ", "関東語", "ツッコミ"],
-    debut: "関東人が登場するネタ",
-    video: "https://www.youtube.com/watch?v=GNBUR4xOvJY&t=78s"
-  },
-  {
-    id: "kakugari",
-    name: "角刈り",
-    kana: "かくがり",
-    symbol: "角",
-    channel: "tower",
-    channelLabel: "TOWER",
-    color: "#ffb15c",
-    summary: "髪型の存在感に負けない自己主張で、メインの座を狙う奴。",
-    detail: "見た目の特徴がそのまま呼び名になったキャラクター。立ち位置への執念が笑いを生みます。",
-    tags: ["芸人", "髪型", "自己主張", "シリーズ"],
-    debut: "『角刈りの癖にメインになろうとする奴』",
-    video: "https://www.youtube.com/watch?v=HPn5OeRYs6U"
-  },
-  {
-    id: "dokusai-tamago",
-    name: "独裁者の卵",
-    kana: "どくさいしゃのたまご",
-    symbol: "卵",
-    channel: "tower",
-    channelLabel: "TOWER",
-    color: "#d0b7ff",
-    summary: "日常の中に、将来の独裁者らしさがにじみ出てしまう危うい奴。",
-    detail: "小さな言動から大きな人物像を想像させる、タイトル通りの強烈なキャラクターです。",
-    tags: ["異様", "権力", "日常", "後藤"],
-    debut: "『独裁者の卵な奴』",
-    video: "https://www.youtube.com/watch?v=pcP0FptwGyI"
-  },
-  {
-    id: "teikiteki",
-    name: "定期的？って聞く奴",
-    kana: "ていきてきってきくやつ",
-    symbol: "定",
-    channel: "tower",
-    channelLabel: "TOWER",
-    color: "#8be0dd",
-    summary: "会話のたびに“定期的かどうか”が気になってしまう、質問のクセが強い奴。",
-    detail: "一つの言葉へのこだわりだけで会話を予想外の方向へ運ぶ、反復系のキャラクターです。",
-    tags: ["質問", "口癖", "会話", "シリーズ"],
-    debut: "『定期的？って聞く奴』",
-    video: "https://www.youtube.com/watch?v=uuOBSfOAGxE"
-  },
-  {
-    id: "okintama-dekao",
-    name: "おきんたまでか男",
-    kana: "おきんたまでかお",
-    symbol: "大",
-    channel: "island",
-    channelLabel: "ISLAND",
-    color: "#ff8d79",
-    summary: "インパクトのある名前と佇まいで、物語に異物感を持ち込む奴。",
-    detail: "名前だけで強烈な印象を残すキャラクター。アイランドの長尺企画内でも存在感を放ちます。",
-    tags: ["アイランド", "強烈", "名前", "物語"],
-    debut: "ジャルジャルアイランド内の登場回",
-    video: "https://www.youtube.com/watch?v=Hm0eFTcVEPs&t=978s"
-  },
-  {
-    id: "urakata-gomi",
-    name: "裏方ゴミ扱いする奴",
-    kana: "うらかたごみあつかいするやつ",
-    symbol: "裏",
-    channel: "tower",
-    channelLabel: "TOWER",
-    color: "#c6db67",
-    summary: "表舞台と裏方で態度を変え、現場の空気を一気に悪くする厄介な奴。",
-    detail: "仕事現場の嫌なリアルさを極端にしたキャラクター。周囲との力関係が見どころです。",
-    tags: ["業界人", "裏方", "失礼", "現場"],
-    debut: "『裏方ゴミ扱いする奴』",
-    video: "https://www.youtube.com/watch?v=Kz0i2-lxsaU"
-  }
-];
+let characters = [];
 
 const els = {
   grid: document.querySelector("#characterGrid"),
@@ -145,11 +18,12 @@ const escapeHTML = value => String(value).replace(/[&<>'"]/g, char => ({"&":"&am
 function filteredCharacters() {
   const query = normalize(els.search.value);
   return characters.filter(character => {
-    const haystack = normalize([character.name, character.kana, character.summary, ...character.tags].join(" "));
+    const haystack = normalize([character.name, character.kana, ...(character.aliases || []), character.summary, ...character.tags].join(" "));
     const matchesQuery = !query || haystack.includes(query);
     const matchesFilter = activeFilter === "all"
+      || (activeFilter === "group" && character.entityType === "group")
       || (activeFilter === "favorite" && favorites.has(character.id))
-      || character.channel === activeFilter
+      || (activeFilter !== "group" && character.channel === activeFilter)
       || (activeFilter === "island" && character.channelLabel.includes("ISLAND"));
     return matchesQuery && matchesFilter;
   });
@@ -177,6 +51,9 @@ function render() {
 function openCharacter(id) {
   const character = characters.find(item => item.id === id);
   if (!character) return;
+  const relatedVideos = character.relatedVideos?.length
+    ? character.relatedVideos
+    : character.video ? [{ title: "公式動画", url: character.video }] : [];
   els.dialogContent.innerHTML = `
     <div class="dialog-body">
       <div class="dialog-hero">
@@ -184,8 +61,11 @@ function openCharacter(id) {
         <div><p class="eyebrow">${escapeHTML(character.channelLabel)}</p><h2 id="dialogTitle">${escapeHTML(character.name)}</h2><div class="tag-list">${character.tags.map(tag => `<span class="tag">#${escapeHTML(tag)}</span>`).join("")}</div></div>
       </div>
       <p class="dialog-description">${escapeHTML(character.detail)}</p>
-      <dl class="dialog-meta"><dt>初登場の目印</dt><dd>${escapeHTML(character.debut)}</dd><dt>掲載方針</dt><dd>公式YouTube動画へのリンク</dd></dl>
-      <a class="button video-link" href="${character.video}" target="_blank" rel="noopener noreferrer">公式動画をYouTubeで観る ↗</a>
+      <dl class="dialog-meta"><dt>種別</dt><dd>${character.entityType === "group" ? "コンビ・ユニット" : "キャラクター"}</dd><dt>初登場の目印</dt><dd>${escapeHTML(character.debut)}</dd><dt>掲載方針</dt><dd>公式YouTube動画へのリンク</dd></dl>
+      <div class="video-list" aria-label="関連する公式動画">
+        <h3>関連する公式動画</h3>
+        ${relatedVideos.map((video, index) => `<a class="button video-link" href="${escapeHTML(video.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(video.title || `公式動画 ${index + 1}`)} ↗</a>`).join("")}
+      </div>
       <p class="data-note">紹介文は動画タイトルと公開内容をもとに、本サイトが独自に要約したものです。誤りがある場合は今後の更新で修正します。</p>
     </div>`;
   els.dialog.showModal();
@@ -227,5 +107,23 @@ document.querySelector("#resetFilters").addEventListener("click", () => {
   render();
 });
 
+async function init() {
+  try {
+    const response = await fetch("data/catalog.json", { cache: "no-cache" });
+    if (!response.ok) throw new Error(`catalog ${response.status}`);
+    const data = await response.json();
+    characters = [
+      ...data.characters.map(character => ({ ...character, entityType: "character" })),
+      ...data.groups.map(group => ({ ...group, entityType: "group" }))
+    ];
+    render();
+  } catch (error) {
+    console.error("図鑑データの読み込みに失敗しました", error);
+    els.count.textContent = "0";
+    els.empty.hidden = false;
+    els.empty.querySelector("strong").textContent = "図鑑データを読み込めませんでした";
+  }
+}
+
 if ("serviceWorker" in navigator) window.addEventListener("load", () => navigator.serviceWorker.register("sw.js"));
-render();
+init();
