@@ -18,7 +18,7 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="stylesheet" href="styles.css?v=17">
+  <link rel="stylesheet" href="styles.css?v=18">
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -217,12 +217,19 @@
     </p>
   </footer>
 
+  <nav class="mobile-nav" aria-label="スマホ用メニュー">
+    <a href="#catalog"><span aria-hidden="true">奴</span>図鑑</a>
+    <a href="#songs"><span aria-hidden="true">♪</span>曲</a>
+    <a href="#videos"><span aria-hidden="true">▶</span>動画</a>
+    <a href="#about"><span aria-hidden="true">ⓘ</span>案内</a>
+  </nav>
+
   <dialog id="characterDialog" aria-labelledby="dialogTitle">
     <button class="dialog-close" id="dialogClose" type="button" aria-label="閉じる">×</button>
     <div id="dialogContent"></div>
   </dialog>
 
   <noscript>この図鑑の検索機能を使うにはJavaScriptを有効にしてください。</noscript>
-  <script src="app.js?v=17" defer></script>
+  <script src="app.js?v=18" defer></script>
 </body>
 </html>

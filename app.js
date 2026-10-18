@@ -44,6 +44,26 @@ const normalize = value => value.toLowerCase().normalize("NFKC").replace(/\s/g, 
 const escapeHTML = value => String(value).replace(/[&<>'"]/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[char]));
 const thumbnailUrl = videoId => `https://i.ytimg.com/vi/${encodeURIComponent(videoId)}/hqdefault.jpg`;
 
+const mobileNavLinks = [...document.querySelectorAll(".mobile-nav a")];
+const mobileNavSections = mobileNavLinks.map(link => document.querySelector(link.getAttribute("href"))).filter(Boolean);
+let mobileNavFrame = 0;
+
+function updateMobileNav() {
+  mobileNavFrame = 0;
+  const marker = window.scrollY + window.innerHeight * .38;
+  const reachedSections = mobileNavSections.filter(section => section.offsetTop <= marker);
+  const active = reachedSections[reachedSections.length - 1];
+  mobileNavLinks.forEach(link => {
+    const selected = active && link.getAttribute("href") === `#${active.id}`;
+    selected ? link.setAttribute("aria-current", "page") : link.removeAttribute("aria-current");
+  });
+}
+
+window.addEventListener("scroll", () => {
+  if (!mobileNavFrame) mobileNavFrame = requestAnimationFrame(updateMobileNav);
+}, { passive: true });
+window.addEventListener("resize", updateMobileNav);
+
 function filteredCharacters() {
   const query = normalize(els.search.value);
   return characters.filter(character => {
@@ -347,6 +367,7 @@ async function init() {
     render();
     renderSongs();
     renderVideos();
+    updateMobileNav();
   } catch (error) {
     console.error("図鑑データの読み込みに失敗しました", error);
     els.count.textContent = "0";
